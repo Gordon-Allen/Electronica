@@ -88,6 +88,8 @@ export class ArtistListComponent implements OnInit {
     console.log(this.artistsArray);
   }
 
-
+  parentFunctionHandler(artist) {
+    alert('You selected the artist ' + artist.name + '! This message was sent from your friendly, neighbohood Artist-Card Component');
+}
 
 }

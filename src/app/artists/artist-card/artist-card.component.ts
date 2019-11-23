@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 import { Artist } from '../artist.model';
 
 @Component({
@@ -11,8 +11,12 @@ export class ArtistCardComponent implements OnInit {
   @Input()
   artist: Artist;
 
-  showArtist(){
-    alert('You selected: ' + this.artist.name + '!');
+  @Output()
+  artistClicked: EventEmitter<Artist> = new EventEmitter<Artist>();
+
+  showArtist() {
+    // alert('You selected: ' + this.artist.name + '!');
+      this.artistClicked.emit(this.artist);
   }
 
   constructor() { }
