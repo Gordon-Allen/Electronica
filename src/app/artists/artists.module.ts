@@ -5,12 +5,14 @@ import { ArtistListComponent } from './artist-list/artist-list.component';
 import { ArtistCardComponent } from './artist-card/artist-card.component';
 import { ArtistsRoutingModule } from './artists-routing.module';
 import { ArtistDetailsComponent } from './artist-details/artist-details.component';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [ArtistListComponent, ArtistCardComponent, ArtistDetailsComponent],
   imports: [
     CommonModule,
-    ArtistsRoutingModule
+    ArtistsRoutingModule,
+    RouterModule
   ]
 })
 export class ArtistsModule { }
