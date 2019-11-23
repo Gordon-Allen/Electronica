@@ -10,8 +10,13 @@ import { Artist } from '../artist.model';
 })
 export class ArtistService {
   url = "http://localhost:4748/artists";
+
   constructor(private http: HttpClient) { }
 
   getArtists(): Observable<Artist[]> {
-    return this.http.get<Artist[]>(this.url);  }
+    return this.http.get<Artist[]>(this.url);
+  }
+  getArtistById(id: number): Observable<Artist> {
+    return this.http.get<Artist>(this.url + "/" + id);
+  }
 }

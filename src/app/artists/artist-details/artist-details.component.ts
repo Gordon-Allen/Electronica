@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
+import { Artist } from '../artist.model';
+import { ActivatedRoute } from '@angular/router';
+import { ArtistService } from '../shared/artist.service';
+
 @Component({
   selector: 'app-artist-details',
   templateUrl: './artist-details.component.html',
@@ -7,9 +11,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ArtistDetailsComponent implements OnInit {
 
-  constructor() { }
+  artist: Artist;
+
+  constructor(private route: ActivatedRoute, private artistService: ArtistService) { }
 
   ngOnInit() {
+    const id = +this.route.snapshot.paramMap.get("id");
+    this.artistService.getArtistById(id).subscribe(
+      artist => {
+        this.artist = artist;
+      },
+      error => console.log("Error ", error)
+    );
   }
 
-}
+ }

@@ -1,1 +1,35 @@
-<p>artist-details works!</p>
+<div class="container">
+    <div class="row my-3">
+    <img *ngIf="artist" class="float-right img-fluid img-thumbnail"style=" max-width: 30%" src="assets/img/{{ artist.id }}.jpg" alt="{{ artist?.artistName }}" />
+
+    <ul style="list-style: none;">
+      <li>
+        <h2>{{ artist?.name }}</h2>
+      </li>
+      <li>Hometown: <em>{{ artist?.hometown }}</em></li>
+      <li>Genre: <em>{{ artist?.genre }}</em></li>
+      <li><a href="{{ artist?.url }}">Website</a></li>
+    </ul>
+  </div>
+  <div class="row">
+    <h4>Best Album</h4>
+    <table class="table">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Title</th>
+          <th scope="col">Release Year</th>
+          <th scope="col"># of Tracks</th>
+          <th scope="col">Best Track Created</th>
+        </tr>
+      </thead>
+      <tbody *ngIf="artist">
+        <tr *ngFor="let album of artist.album">
+          <th scope="row">{{ album.title }}</th>
+          <td>{{ album.releaseYear }}</td>
+          <td>{{ album.trackCount }}</td>
+          <td>{{ album.bestTrack }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  </div>
