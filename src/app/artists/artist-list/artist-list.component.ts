@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Artist } from '../artist.model';
 import { ARTISTS } from '../artist.data';
+import { ArtistService } from '../shared/artist.service';
 
 
 @Component({
@@ -11,12 +12,15 @@ import { ARTISTS } from '../artist.data';
 export class ArtistListComponent implements OnInit {
   artistsArray: Artist[];
 
-  constructor() { }
+  constructor(private artistService: ArtistService) { }
 
-  ngOnInit(): void {
-    this.artistsArray = this.artistsArray = ARTISTS;
+  getArtists() {
+    this.artistsArray = this.artistService.getArtists();
   }
 
+  ngOnInit() {
+    this.getArtists();
+  }
   parentFunctionHandler(artist) {
     alert('You selected the artist ' + artist.name + '! This message was sent from your friendly, neighbohood Artist-Card Component');
 }
