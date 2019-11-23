@@ -9,6 +9,7 @@ import { ArtistCardComponent } from './artists/artist-card/artist-card.component
 import { WelcomeComponent } from './welcome/welcome.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { NotfoundComponent } from './notfound/notfound.component';
+import { ArtistsModule } from './artists/artists.module';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { NotfoundComponent } from './notfound/notfound.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    ArtistsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
