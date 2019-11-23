@@ -4,8 +4,6 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ArtistListComponent } from './artists/artist-list/artist-list.component';
-import { ArtistCardComponent } from './artists/artist-card/artist-card.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { NotfoundComponent } from './notfound/notfound.component';
@@ -14,8 +12,6 @@ import { ArtistsModule } from './artists/artists.module';
 @NgModule({
   declarations: [
     AppComponent,
-    ArtistListComponent,
-    ArtistCardComponent,
     WelcomeComponent,
     NavbarComponent,
     NotfoundComponent

@@ -3,11 +3,13 @@ import { CommonModule } from '@angular/common';
 
 import { ArtistListComponent } from './artist-list/artist-list.component';
 import { ArtistCardComponent } from './artist-card/artist-card.component';
+import { ArtistsRoutingModule } from './artists-routing.module';
 
 @NgModule({
-  declarations: [],
+  declarations: [ArtistListComponent, ArtistCardComponent],
   imports: [
-    CommonModule
+    CommonModule,
+    ArtistsRoutingModule
   ]
 })
 export class ArtistsModule { }
