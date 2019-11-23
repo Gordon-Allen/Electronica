@@ -1,8 +1,18 @@
 export interface Artist {
   id: number;
-  artist: string;
-  albumName: string;
-  year: number;
-  releaseDate: string;
+  name: string;
+  hometown: string;
+  genre: string;
   url: string;
+  // album: Album[];
 }
+
+// export interface Album {
+//   id: number;
+//   artist: string;
+//   title: string;
+//   releaseDate: string;
+//   trackCount: number;
+
+// }
+

@@ -15,28 +15,75 @@ export class ArtistListComponent implements OnInit {
     this.artistsArray = [
       {
         id: 1,
-        artist: "Adventure Club",
-        albumName: "Superheaors Anoyomous",
-        year: 2014,
-        releaseDate: "April 29, 2014",
-        url: "https://www.allmusic.com/album/dust-mw0002918360"
+        name: "Adventure Club",
+        hometown: "Montreal, Quebec",
+        genre: "Dubstep, Melodic Bass",
+        url: "https://weareadventureclub.com/"
       },
       {
         id: 2,
-        artist: "Tiesto",
-        albumName: "FooBar",
-        year: 2011,
-        releaseDate: "April 29, 2011",
-        url: "https://www.allmusic.com/album/dust-mw0002918360"
+        name: "Tiesto",
+        hometown: "Breda, Netherlands",
+        genre: "House, Progressive House",
+        url: "https://www.tiesto.com/"
       },
       {
         id: 3,
-        artist: "Seven Lions",
-        albumName: "FooBar",
-        year: 2013,
-        releaseDate: "April 29, 2013",
-        url: "https://www.allmusic.com/album/dust-mw0002918360"
-      }];
+        name: "Seven Lions",
+        hometown: "Santa Barbara, California",
+        genre: "House, Melodic Bass",
+        url: "https://sevenlions.com/"
+      },
+      {
+        id: 4,
+        name: "DeadMau5",
+        hometown: "Montreal, Quebec",
+        genre: "Electro House, Techno",
+        url: "http://www.deadmau5.com/"
+      },
+      {
+        id: 5,
+        name: "Flume",
+        hometown: "Sydney, Australia",
+        genre: "Electronica, Future Bass",
+        url: "https://flumemusic.com/"
+      },
+      {
+        id: 6,
+        name: "DROELOE",
+        hometown: "unknown, Netherlands",
+        genre: "Melodic Bass, Future House",
+        url: "https://droeloe.com/"
+      },
+      {
+        id: 7,
+        name: "Above and Beyond",
+        hometown: "London, United Kingdom",
+        genre: "Trance, Progressive House",
+        url: "https://www.aboveandbeyond.nu/"
+      },
+      {
+        id: 8,
+        name: "Hermitude",
+        hometown: "	Blue Mountains, Australia",
+        genre: "Electronic, Trap",
+        url: "https://www.hermitude.com/"
+      },
+      {
+        id: 9,
+        name: "MitiS",
+        hometown: "West Chester, Pennsylvania",
+        genre: "Melodic Bass, Heaven Trap",
+        url: "https://www.facebook.com/Mitismusic/"
+      },
+      {
+        id: 10,
+        name: "ODESZA",
+        hometown: "Bellingham, Washington",
+        genre: "Indietronica, Future Bass",
+        url: "https://odesza.com/"
+      }
+    ];
 
     console.log(this.artistsArray);
   }

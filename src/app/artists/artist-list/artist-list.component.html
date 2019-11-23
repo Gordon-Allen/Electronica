@@ -1,45 +1,7 @@
 <div class="container-fluid">
-  <div class="card-deck">
-      <div class="card">
-          <img
-              class="card-img-top cover"
-              src="assets/img/{{ artistsArray[0].id }}.jpg"
-              alt=""
-              style="border: 1px solid grey"
-          />
-          <div class="card-body">
-            <h5 class="card-title">{{ artistsArray[0].artist }}</h5>
-              <h6 class="card-title">{{ artistsArray[0].albumName }}</h6>
-              <h6 class="card-text">Released: {{ artistsArray[0].releaseDate }}</h6>
-          </div>
-      </div>
-      <div class="card">
-          <img
-              class="card-img-top cover"
-              src="assets/img/{{ artistsArray[1].id }}.jpg"
-              alt=""
-              style="border: 1px solid grey"
-          />
-          <div class="card-body">
-            <h5 class="card-title">{{ artistsArray[1].artist }}</h5>
-              <h6 class="card-title">{{ artistsArray[1].albumName }}</h6>
-              <h6 class="card-text">Released: {{ artistsArray[1].releaseDate }}</h6>
-          </div>
-
-      </div>
-      <div class="card">
-          <img
-              class="card-img-top cover"
-              src="assets/img/{{ artistsArray[2].id }}.jpg"
-              alt=""
-              style="border: 1px solid grey"
-          />
-          <div class="card-body">
-            <h5 class="card-title">{{ artistsArray[2].artist }}</h5>
-              <h6 class="card-title">{{ artistsArray[2].albumName }}</h6>
-              <h6 class="card-text">Released: {{ artistsArray[2].releaseDate }}</h6>
-          </div>
-
-      </div>
-  </div>
+    <div class="card-deck">
+      <app-artist-card [artist]="artistsArray[0]"></app-artist-card>
+      <app-artist-card [artist]="artistsArray[1]"></app-artist-card>
+      <app-artist-card [artist]="artistsArray[2]"></app-artist-card>
+    </div>
 </div>

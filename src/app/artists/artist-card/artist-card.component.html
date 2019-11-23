@@ -1,0 +1,18 @@
+<div class="card">
+    <div class="inner">
+    <img
+        class="card-img-top cover"
+        src="assets/img/{{ artist.id }}.jpg"
+        alt=""
+        style="border: 1px solid grey"
+    />
+    <div class="card-body">
+      <h5 class="card-title">{{ artist.name }}</h5>
+      <div class="scrollable">
+        <h6 class="card-title">Hometown: <em>{{ artist.hometown }}</em></h6>
+        <h6 class="card-text">Genre: <em>{{ artist.genre }}</em></h6>
+        <h6 class="card-text"><a href="{{ artist.url }}">Website</a></h6>
+        </div>
+    </div>
+    </div>
+</div>
