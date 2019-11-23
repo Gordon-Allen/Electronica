@@ -1,7 +1,5 @@
 <div class="container-fluid">
     <div class="card-deck">
-      <app-artist-card [artist]="artistsArray[0]" (artistClicked)="parentFunctionHandler($event)"></app-artist-card>
-      <app-artist-card [artist]="artistsArray[1]" (artistClicked)="parentFunctionHandler($event)"></app-artist-card>
-      <app-artist-card [artist]="artistsArray[2]" (artistClicked)="parentFunctionHandler($event)"></app-artist-card>
+      <app-artist-card *ngFor="let artist of artistsArray" [artist]="artist" (artistClicked)="parentFunctionHandler($event)"></app-artist-card>
     </div>
 </div>
