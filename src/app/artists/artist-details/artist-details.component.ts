@@ -24,5 +24,4 @@ export class ArtistDetailsComponent implements OnInit {
       error => console.log("Error ", error)
     );
   }
-
  }
