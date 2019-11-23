@@ -30,7 +30,7 @@ export class ArtistListComponent implements OnInit {
       {
         id: 3,
         name: "Seven Lions",
-        hometown: "Santa Barbara, California",
+        hometown: "Santa Barbara, CA",
         genre: "House, Melodic Bass",
         url: "https://sevenlions.com/"
       },
@@ -58,7 +58,7 @@ export class ArtistListComponent implements OnInit {
       {
         id: 7,
         name: "Above and Beyond",
-        hometown: "London, United Kingdom",
+        hometown: "London, UK",
         genre: "Trance, Progressive House",
         url: "https://www.aboveandbeyond.nu/"
       },

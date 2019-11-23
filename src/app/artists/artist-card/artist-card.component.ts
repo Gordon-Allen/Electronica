@@ -11,6 +11,10 @@ export class ArtistCardComponent implements OnInit {
   @Input()
   artist: Artist;
 
+  showArtist(){
+    alert('You selected: ' + this.artist.name + '!');
+  }
+
   constructor() { }
 
   ngOnInit() {
