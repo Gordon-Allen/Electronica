@@ -4,15 +4,15 @@ export interface Artist {
   hometown: string;
   genre: string;
   url: string;
-  // album: Album[];
+  album: Album[];
 }
 
-// export interface Album {
-//   id: number;
-//   artist: string;
-//   title: string;
-//   releaseDate: string;
-//   trackCount: number;
-
-// }
+export interface Album {
+  id: number;
+  artist: string;
+  title: string;
+  releaseYear: number;
+  trackCount: number;
+  bestTrack: string;
+}
 

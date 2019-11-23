@@ -1,0 +1,208 @@
+import { Artist } from "./artist.model";
+
+export const ARTISTS: Artist[] = [
+    {
+        id: 1,
+        name: "Daft Punk",
+        hometown: "Paris, France",
+        genre: "House, Electronica",
+        url: "http://daftpunk.com/",
+        album: [
+          {
+            id: 1,
+            artist: "Daft Punk",
+            title: "Random Access Memories",
+            releaseYear: 2013,
+            trackCount: 13,
+            bestTrack: "Doin' It Right (feat. Panda Bear)"
+          }
+        ]
+    },
+    {
+        id: 2,
+        name: "Adventure Club",
+        hometown: "Montreal, Quebec",
+        genre: "Dubstep, Melodic Bass",
+        url: "https://weareadventureclub.com/",
+        album: [
+          {
+            id: 1,
+            artist: "Adventure Club",
+            title: "Red // Blue",
+            releaseYear: 2016,
+            trackCount: 12,
+            bestTrack: "Crash 2.0"
+          }
+        ]
+    },
+    {
+        id: 3,
+        name: "Tiesto",
+        hometown: "Breda, Netherlands",
+        genre: "House, Progressive House",
+        url: "https://www.tiesto.com/",
+        album: [
+          {
+            id: 1,
+            artist: "Tiesto",
+            title: "Club Life - Volume 2 Miami",
+            releaseYear: 2012,
+            trackCount: 17,
+            bestTrack: "Walls (feat. Quilla)"
+          }
+        ]
+    },
+    {
+        id: 4,
+        name: "DeadMau5",
+        hometown: "Montreal, Quebec",
+        genre: "Electro House, Techno",
+        url: "http://www.deadmau5.com/",
+        album: [
+          {
+            id: 1,
+            artist: "DeadMau5",
+            title: "> album title goes here <",
+            releaseYear: 2013,
+            trackCount: 13,
+            bestTrack: "The Veldt (feat. Chris James)"
+          }
+        ]
+    },
+    {
+        id: 5,
+        name: "Flume",
+        hometown: "Sydney, Australia",
+        genre: "Electronica, Future Bass",
+        url: "https://flumemusic.com/",
+        album: [
+          {
+            id: 1,
+            artist: "Flume",
+            title: "Flume: Delue Edition",
+            releaseYear: 2012,
+            trackCount: 33,
+            bestTrack: "HyperParadise - Flume Remix"
+          }
+        ]
+    },
+    {
+        id: 6,
+        name: "DROELOE",
+        hometown: "unknown, Netherlands",
+        genre: "Melodic Bass, Future House",
+        url: "https://droeloe.com/",
+        album: [
+          {
+            id: 1,
+            artist: "DROELOE",
+            title: "A Promise is Made",
+            releaseYear: 2019,
+            trackCount: 10,
+            bestTrack: "Push Through"
+          }
+        ]
+    },
+    {
+        id: 7,
+        name: "Above and Beyond",
+        hometown: "London, UK",
+        genre: "Trance, Progressive House",
+        url: "https://www.aboveandbeyond.nu/",
+        album: [
+          {
+            id: 1,
+            artist: "Above and Beyond",
+            title: "Group Therapy",
+            releaseYear: 2011,
+            trackCount: 15,
+            bestTrack: "Sun & Moon (feat. Richard Belford)"
+          }
+        ]
+    },
+    {
+        id: 8,
+        name: "Poter Robinson",
+        hometown: "Chapel Hill, NC",
+        genre: "Electro House, Electronica, Techno",
+        url: "http://porterrobinson.com/",
+        album: [
+          {
+            id: 1,
+            artist: "Porter Robinson",
+            title: "Worlds",
+            releaseYear: 2014,
+            trackCount: 12,
+            bestTrack: "Language <not on this album>"
+          }
+        ]
+    },
+    {
+        id: 9,
+        name: "MitiS",
+        hometown: "West Chester, PA",
+        genre: "Melodic Bass, Heaven Trap",
+        url: "https://www.facebook.com/Mitismusic/",
+        album: [
+          {
+            id: 1,
+            artist: "MitiS",
+            title: "'Til the End",
+            releaseYear: 2018,
+            trackCount: 11,
+            bestTrack: "Mercy (feat. glasscat) <not on this album>"
+          }
+        ]
+    },
+    {
+        id: 10,
+        name: "ODESZA",
+        hometown: "Bellingham, WA",
+        genre: "Indietronica, Future Bass",
+        url: "https://odesza.com/",
+        album: [
+          {
+            id: 1,
+            artist: "ODESZA",
+            title: "In Return",
+            releaseYear: 2014,
+            trackCount: 13,
+            bestTrack: "Something About You - ODESZA Remix <not on this album>"
+          }
+        ]
+    },
+    {
+        id: 11,
+        name: "Wolfgang Gartner",
+        hometown: "	San Luis Obispo, California",
+        genre: "House, Electro House",
+        url: "http://www.wolfganggartner.com/",
+        album: [
+          {
+            id: 1,
+            artist: "Wolfgang Gartner",
+            title: "10 Ways To Steal Home Plate",
+            releaseYear: 2016,
+            trackCount: 10,
+            bestTrack: "Redline <not on this album>"
+          }
+        ]
+    },
+    {
+        id: 12,
+        name: "Seven Lions",
+        hometown: "Santa Barbara, CA",
+        genre: "House, Melodic Bass",
+        url: "https://sevenlions.com/",
+        album: [
+          {
+            id: 1,
+            artist: "Seven Lions",
+            title: "Worlds Apart",
+            releaseYear: 2014,
+            trackCount: 5,
+            bestTrack: "Worlds Apart (feat. Kerli)"
+          }
+        ]
+    }
+];
