@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Artist } from '../artist.model';
 import { ARTISTS } from '../artist.data';
 import { ArtistService } from '../shared/artist.service';
+import { Observable } from 'rxjs';
 
 
 @Component({
@@ -10,16 +11,14 @@ import { ArtistService } from '../shared/artist.service';
   styleUrls: ['./artist-list.component.css']
 })
 export class ArtistListComponent implements OnInit {
-  artistsArray: Artist[];
+  artistsArray: Observable<Artist[]>;
 
   constructor(private artistService: ArtistService) { }
 
   getArtists() {
-    this.artistService.getArtists()
-    .subscribe(
-        artists => this.artistsArray = artists,
-        error => console.log("Error: ", error));
-}
+    this.artistsArray = this.artistService.getArtists()
+  }
+
   ngOnInit() {
     this.getArtists();
   }
