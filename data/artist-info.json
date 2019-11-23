@@ -21,7 +21,7 @@
             "id": 2,
             "name": "Adventure Club",
             "hometown": "Montreal, Quebec",
-            "genre": "Dubstep, Melodic Bass",
+            "genre": "Melodic Dubstep/Bass",
             "url": "https://weareadventureclub.com/",
             "album": [
             {
@@ -89,7 +89,7 @@
             "id": 6,
             "name": "DROELOE",
             "hometown": "unknown, Netherlands",
-            "genre": "Melodic Bass, Future House",
+            "genre": "Melodic/Future Bass",
             "url": "https://droeloe.com/",
             "album": [
             {
@@ -123,7 +123,7 @@
             "id": 8,
             "name": "Poter Robinson",
             "hometown": "Chapel Hill, NC",
-            "genre": "Electro House, Electronica, Techno",
+            "genre": "Electronica, Techno",
             "url": "http://porterrobinson.com/",
             "album": [
             {
@@ -173,7 +173,7 @@
         {
             "id": 11,
             "name": "Wolfgang Gartner",
-            "hometown": "San Luis Obispo, California",
+            "hometown": "San Luis Obispo, CA",
             "genre": "House, Electro House",
             "url": "http://www.wolfganggartner.com/",
             "album": [
