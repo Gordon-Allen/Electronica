@@ -203,6 +203,40 @@
                 "bestTrack": "Worlds Apart (feat. Kerli)"
             }
             ]
+        },
+        {
+            "id": 13,
+            "name": "Hermitude",
+            "hometown": "unknown, Australia",
+            "genre": "Electronic, Trap",
+            "url": "https://www.hermitude.com/",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Hermitude",
+                    "title": "Pollyanarachy",
+                    "releaseYear": 2019,
+                    "trackCount": 11,
+                    "bestTrack": "Northern Lights (feat. Soaky Siren and Vory)"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "GANZ",
+            "hometown": "unknown, Netherlands",
+            "genre": "Trap, Future Bass",
+            "url": "https://iamganz.com/",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "GANZ",
+                    "title": "Pollyanarachy",
+                    "releaseYear": 2019,
+                    "trackCount": 11,
+                    "bestTrack": "Stupid World (feat. Bibi Bourelly) - GANZ Remix"
+                }
+            ]
         }
     ]
 }
