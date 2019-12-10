@@ -237,6 +237,76 @@
                     "bestTrack": "Stupid World (feat. Bibi Bourelly) - GANZ Remix"
                 }
             ]
+        },
+        {
+            "id": 15,
+            "name": "Pretty Lights",
+            "hometown": "Fort Collins, CO",
+            "genre": "Electronic, Hip-Hop, Soul",
+            "url": "http://prettylightsmusic.com",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Pretty Lights",
+                    "title": "A Color Map of the Sun",
+                    "releaseYear": 2013,
+                    "trackCount": 13,
+                    "bestTrack": "All of the Lights - Pretty Lights Remix"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "KRATER",
+            "hometown": "Sweden",
+            "genre": "Future Bass, Trance-Fusion",
+            "url": "https://soundcloud.com/kraterbeats",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "KRATER",
+                    "title": "Alliance EP",
+                    "releaseYear": 2017,
+                    "trackCount": 4,
+                    "bestTrack": "TOKYO"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "SLANDER",
+            "hometown": "Los Angeles, CA",
+            "genre": "Future Bass, Trap",
+            "url": "http://www.slanderofficial.com/the-eye-tour",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "SLANDER",
+                    "title": "Duality EP",
+                    "releaseYear": 2017,
+                    "trackCount": 9,
+                    "bestTrack": "Fall Apart (SLANDER Remix)"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Zedd",
+            "hometown": "Germany",
+            "genre": "House, Electronica",
+            "url": "http://zedd.net/",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Zedd",
+                    "title": "Clarity",
+                    "releaseYear": 2013,
+                    "trackCount": 10,
+                    "bestTrack": "Clarity (feat. Foxes)"
+                }
+            ]
         }
+
+
     ]
 }
