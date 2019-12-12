@@ -194,14 +194,14 @@
             "genre": "House, Melodic Bass",
             "url": "https://sevenlions.com/",
             "album": [
-            {
+                {
                 "id": 1,
                 "artist": "Seven Lions",
                 "title": "Worlds Apart",
                 "releaseYear": 2014,
                 "trackCount": 5,
                 "bestTrack": "Worlds Apart (feat. Kerli)"
-            }
+                }
             ]
         },
         {
@@ -231,7 +231,7 @@
                 {
                     "id": 1,
                     "artist": "GANZ",
-                    "title": "Pollyanarachy",
+                    "title": "Skin In The Game EP",
                     "releaseYear": 2019,
                     "trackCount": 11,
                     "bestTrack": "Stupid World (feat. Bibi Bourelly) - GANZ Remix"
