@@ -1,6 +1,6 @@
 <div class="container">
     <div class="row my-3">
-    <img *ngIf="artist" class="float-right img-fluid img-thumbnail"style=" max-width: 30%" src="assets/img/{{ artist.id }}.jpg" alt="{{ artist?.name }}" />
+    <img *ngIf="artist" class="float-right img-fluid img-thumbnail"style="max-width: 30%" src="assets/img/{{ artist.id }}.jpg" alt="{{ artist?.name }}" />
 
     <ul style="list-style: none;">
       <li>
@@ -9,7 +9,8 @@
       <li>Hometown: <em>{{ artist?.hometown }}</em></li>
       <li>Genre: <em>{{ artist?.genre }}</em></li>
       <li><a href="{{ artist?.url }}">Website</a></li>
-      <li>Electronica's Curated Best Track: {{ artist?.curatedTrack }}</li>
+      <br>
+      <li style="font-size: 18px;">Electronica's Curated Track of Choice:  <a href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a>  <a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -1px;" src="assets/img/youtube_logo.png"></a></li>
     </ul>
   </div>
   <div class="row" *ngFor="let album of artist.album">
@@ -25,7 +26,7 @@
       <tbody *ngFor="let album of artist.album">
         <tr *ngFor="let tracks of album.tracks">
           <th scope="row">{{ tracks.trackNumber }}</th>
-          <td>{{ tracks.trackTitle }}</td>
+          <td><em>{{ tracks.trackTitle }}</em></td>
           <td>{{ tracks.trackLength }}</td>
         </tr>
       </tbody>

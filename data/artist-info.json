@@ -7,6 +7,7 @@
             "genre": "House, Electronica",
             "url": "http://daftpunk.com/",
             "curatedTrack": "Doin' It Right (feat. Panda Bear)",
+            "curatedTrackUrl" : "https://www.youtube.com/watch?v=LL-gyhZVvx0",
             "album": [
             {
                 "id": 1,
@@ -91,6 +92,7 @@
             "genre": "Melodic Dubstep/Bass",
             "url": "https://weareadventureclub.com/",
             "curatedTrack": "Crash 2.0",
+            "curatedTrackUrl" : "https://www.youtube.com/watch?v=er894vE-8Zk",
             "album": [
             {
                 "id": 1,
@@ -170,6 +172,7 @@
             "genre": "House, Progressive House",
             "url": "https://www.tiesto.com/",
             "curatedTrack": "Walls (feat. Quilla)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=u94VpYq0RIw",
             "album": [
             {
                 "id": 1,
@@ -274,6 +277,7 @@
             "genre": "Electro House, Techno",
             "url": "http://www.deadmau5.com/",
             "curatedTrack": "The Veldt (feat. Chris James)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=uiUAq4aVTjY",
             "album": [
             {
                 "id": 1,
@@ -358,6 +362,7 @@
             "genre": "Electronica, Future Bass",
             "url": "https://flumemusic.com/",
             "curatedTrack": "HyperParadise - Flume Remix",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=dIyKy4A4kBU",
             "album": [
             {
                 "id": 1,
@@ -458,6 +463,7 @@
             "genre": "Melodic/Future Bass",
             "url": "https://droeloe.com/",
             "curatedTrack": "Push Through",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=ypLSc3ncYUk",
             "album": [
             {
                 "id": 1,
@@ -527,6 +533,7 @@
             "genre": "Trance, Progressive House",
             "url": "https://www.aboveandbeyond.nu/",
             "curatedTrack": "Sun & Moon (feat. Richard Belford)",
+            "curatedTrackUrl":"https://www.youtube.com/watch?v=ll5ykbAumD4",
             "album": [
             {
                 "id": 1,
@@ -621,6 +628,7 @@
             "genre": "Electronica, Techno",
             "url": "http://porterrobinson.com/",
             "curatedTrack": "Language",
+            "curatedTrackUrl":"https://www.youtube.com/watch?v=Vsy1URDYK88",
             "album": [
             {
                 "id": 1,
@@ -700,6 +708,7 @@
             "genre": "Melodic Bass, Heaven Trap",
             "url": "https://www.facebook.com/Mitismusic/",
             "curatedTrack": "Mercy (feat. glasscat)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=1p-Umy6tVv0",
             "album": [
             {
                 "id": 1,
@@ -774,6 +783,7 @@
             "genre": "Indietronica, Future Bass",
             "url": "https://odesza.com/",
             "curatedTrack": "Something About You - ODESZA Remix",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=X-n9zzjCR_Q",
             "album": [
             {
                 "id": 1,
@@ -858,6 +868,7 @@
             "genre": "House, Electro House",
             "url": "http://www.wolfganggartner.com/",
             "curatedTrack": "Redline",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=G-z6gj2z-Vw",
             "album": [
             {
                 "id": 1,
@@ -927,6 +938,7 @@
             "genre": "House, Melodic Bass",
             "url": "https://sevenlions.com/",
             "curatedTrack": "Worlds Apart (feat. Kerli)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=beM2Bf3sDDY",
             "album": [
                 {
                 "id": 1,
@@ -971,6 +983,7 @@
             "genre": "Electronic, Trap",
             "url": "https://www.hermitude.com/",
             "curatedTrack": "Northern Lights (feat. Soaky Siren and Vory)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=QVNk6yd80rE",
             "album": [
                 {
                     "id": 1,
@@ -1045,6 +1058,7 @@
             "genre": "Trap, Future Bass",
             "url": "https://iamganz.com/",
             "curatedTrack": "Stupid World (feat. Bibi Bourelly) - GANZ Remix",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=JqAT5cUhul8",
             "album": [
                 {
                     "id": 1,
@@ -1089,6 +1103,7 @@
             "genre": "Electronic, Hip-Hop, Soul",
             "url": "http://prettylightsmusic.com",
             "curatedTrack": "All of the Lights - Pretty Lights Remix",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=6SMRZVgi_fw",
             "album": [
                 {
                     "id": 1,
@@ -1173,6 +1188,7 @@
             "genre": "Future Bass, Trance-Fusion",
             "url": "https://soundcloud.com/kraterbeats",
             "curatedTrack": "TOKYO",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=FkNR58OLVxs",
             "album": [
                 {
                     "id": 1,
@@ -1212,6 +1228,7 @@
             "genre": "Future Bass, Trap",
             "url": "http://www.slanderofficial.com/the-eye-tour",
             "curatedTrack": "Fall Apart (SLANDER Remix)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=rS9t176LxGM",
             "album": [
                 {
                     "id": 1,
@@ -1276,6 +1293,7 @@
             "genre": "House, Electronica",
             "url": "http://zedd.net/",
             "curatedTrack": "Clarity (feat. Foxes)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=IxxstCcJlsc",
             "album": [
                 {
                     "id": 1,
