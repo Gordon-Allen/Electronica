@@ -1,26 +1,30 @@
 <div class="container">
     <div class="row my-3">
-    <img *ngIf="artist" class="float-right img-fluid img-thumbnail"style="max-width: 30%" src="assets/img/{{ artist.id }}.jpg" alt="{{ artist?.name }}" />
+    <img *ngIf="artist" class="float-right img-fluid img-thumbnail"style="max-width: 30%; max-height: 255px;" src="assets/img/{{ artist.id }}.jpg" alt="{{ artist?.name }}" />
 
     <ul style="list-style: none;">
       <li>
-        <h2>{{ artist?.name }}</h2>
+        <h1>{{ artist?.name }}</h1>
       </li>
-      <li>Hometown: <em>{{ artist?.hometown }}</em></li>
-      <li>Genre: <em>{{ artist?.genre }}</em></li>
-      <li><a href="{{ artist?.url }}">Website</a></li>
       <li>
         <a href="{{ artist?.spotifyUrl }}"><img style="width: 38px; height:38px; margin-right: 5px;" src="assets/img/spotify_icon_small.png"></a>
-        <a href="{{ artist?.youtubeUrl }}"><img style="width: 43px; height:32px; margin-right: 5px;" src="assets/img/youtube_icon_small.png"></a>
-        <a href="{{ artist?.appleMusicUrl }}"><img style="width: 40px; height:40px;" src="assets/img/applemusic_logo_small.png"></a>
+        <a href="{{ artist?.youtubeUrl }}"><img style="width: 45px; height:32px; margin-right: 5px;" src="assets/img/youtube_icon_small.png"></a>
+        <a href="{{ artist?.appleMusicUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/applemusic_logo_small.png"></a>
+        <a href="{{ artist?.twitterUrl }}"><img style="width: 40px; height:40px;" src="assets/img/twitter_icon.png"></a>
+
       </li>
-      <br>
-      <li style="font-size: 18px;">Electronica's Curated Track of Choice:  <a href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -1px;" src="assets/img/youtube_icon.png"></a></li>
+      <li style="margin-top: 10px;"><h6><a href="{{ artist?.url }}">{{ artist?.name }}'s Website</a></h6></li>
+      <li><h6>Hometown: <em>{{ artist?.hometown }}</em></h6></li>
+      <li><h6>Genre: <em>{{ artist?.genre }}</em></h6></li>
+      <li style="font-size: 18px; margin-top: 15px; font-weight: 525;"><img style="width: 45px; height:45px;" src="assets/electronica.png">Electronica's Curated Track of Choice: <a href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -4px;" src="assets/img/youtube_icon.png"></a></li>
     </ul>
   </div>
-  <div class="row" *ngFor="let album of artist.album">
-    <h4>Best Album: <em>{{ album?.title }}</em> ({{ album?.releaseYear }}) - {{ album?.trackCount }} Tracks</h4>
-    <table class="table">
+  <div class="row" style="margin-top: 10px;"   *ngFor="let album of artist.album">
+    <h4><span style="text-decoration-line: underline;">Best Album</span>: <em>{{ album?.title }}</em> ({{ album?.releaseYear }})</h4>
+    <a href="{{ album?.albumSpotifyUrl }}"><img style="width: 110px; height: 33px; margin-left: 5px;" src="assets/img/spotify_icon.png"></a><a href="{{ album?.albumAppleMusicUrl }}"><img style="width: 100px; height: 25px; margin-left: 10px;" src="assets/img/applemusic_icon.png"></a>
+    
+    <table class="table table-striped">
+      <caption><em>{{ album?.title }}</em> by {{ album?.artist }} ({{ album?.releaseYear }} - {{ album?.trackCount }} Tracks)</caption>
       <thead class="thead-light">
         <tr>
           <th scope="col">Track #</th>
