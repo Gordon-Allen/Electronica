@@ -9,25 +9,24 @@
       <li>Hometown: <em>{{ artist?.hometown }}</em></li>
       <li>Genre: <em>{{ artist?.genre }}</em></li>
       <li><a href="{{ artist?.url }}">Website</a></li>
+      <li>Electronica's Curated Best Track: {{ artist?.curatedTrack }}</li>
     </ul>
   </div>
-  <div class="row">
-    <h4>Best Album</h4>
+  <div class="row" *ngFor="let album of artist.album">
+    <h4>Best Album: <em>{{ album?.title }}</em> ({{ album?.releaseYear }}) - {{ album?.trackCount }} Tracks</h4>
     <table class="table">
       <thead class="thead-light">
         <tr>
+          <th scope="col">Track #</th>
           <th scope="col">Title</th>
-          <th scope="col">Release Year</th>
-          <th scope="col"># of Tracks</th>
-          <th scope="col">Best Track Created</th>
+          <th scope="col">Length</th>
         </tr>
       </thead>
-      <tbody *ngIf="artist">
-        <tr *ngFor="let album of artist.album">
-          <th scope="row">{{ album.title }}</th>
-          <td>{{ album.releaseYear }}</td>
-          <td>{{ album.trackCount }}</td>
-          <td>{{ album.bestTrack }}</td>
+      <tbody *ngFor="let album of artist.album">
+        <tr *ngFor="let tracks of album.tracks">
+          <th scope="row">{{ tracks.trackNumber }}</th>
+          <td>{{ tracks.trackTitle }}</td>
+          <td>{{ tracks.trackLength }}</td>
         </tr>
       </tbody>
     </table>

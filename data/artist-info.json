@@ -6,6 +6,7 @@
             "hometown": "Paris, France",
             "genre": "House, Electronica",
             "url": "http://daftpunk.com/",
+            "curatedTrack": "Doin' It Right (feat. Panda Bear)",
             "album": [
             {
                 "id": 1,
@@ -13,7 +14,73 @@
                 "title": "Random Access Memories",
                 "releaseYear": 2013,
                 "trackCount": 13,
-                "bestTrack": "Doin' It Right (feat. Panda Bear)"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Give Life Back To Music",
+                        "trackLength": "4:35"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "The Game of Love",
+                        "trackLength": "5:22"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Giorgio by Moroder",
+                        "trackLength": "9:05"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "Within",
+                        "trackLength": "3:49"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Instant Crush (feat. Julian Casablancas)",
+                        "trackLength": "5:38"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Lose Yourself to Dance (feat. Pharrell Williams)",
+                        "trackLength": "5:54"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Touch (feat. Paul Williams)",
+                        "trackLength": "8:19"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Get Luncky (feat. Pharrell Williams & Nile Rodgers)",
+                        "trackLength": "6:10"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "Beyond",
+                        "trackLength": "4:50"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Motherboard",
+                        "trackLength": "5:42"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "Fragments of Time (feat. Todd Edwards)",
+                        "trackLength": "4:40"
+                    },
+                    {   
+                        "trackNumber": 12,
+                        "trackTitle": "Doin' It Right (feat. Panda Bear)",
+                        "trackLength": "4:11"
+                    },
+                    {   
+                        "trackNumber": 13,
+                        "trackTitle": "Contact",
+                        "trackLength": "6:24"
+                    }
+                ]
             }
             ]
         },
@@ -23,6 +90,7 @@
             "hometown": "Montreal, Quebec",
             "genre": "Melodic Dubstep/Bass",
             "url": "https://weareadventureclub.com/",
+            "curatedTrack": "Crash 2.0",
             "album": [
             {
                 "id": 1,
@@ -30,7 +98,68 @@
                 "title": "Red // Blue",
                 "releaseYear": 2016,
                 "trackCount": 12,
-                "bestTrack": "Crash 2.0"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Without You",
+                        "trackLength": "3:07"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Dreams (feat. ELEA)",
+                        "trackLength": "3:30"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Firetorm (feat. Sara Diamond)",
+                        "trackLength": "3:27"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "Forever (feat. Ben Stevenson)",
+                        "trackLength": "3:49"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Limitless (feat. Delaney Jane)",
+                        "trackLength": "4:05"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Breathe (feat. SONDAR)",
+                        "trackLength": "3:51"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Ghosts",
+                        "trackLength": "2:43"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Reaction (feat. Leah Culver)",
+                        "trackLength": "3:19"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "Crash 2.0 (feat. DallasK)",
+                        "trackLength": "4:15"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Save Me (feat. Adara)",
+                        "trackLength": "2:51"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "Fade (feat. Zak Waters)",
+                        "trackLength": "3:28"
+                    },
+                    {   
+                        "trackNumber": 12,
+                        "trackTitle": "Goodnight",
+                        "trackLength": "3:14"
+                    }
+                ]
             }
             ]
         },
@@ -40,6 +169,7 @@
             "hometown": "Breda, Netherlands",
             "genre": "House, Progressive House",
             "url": "https://www.tiesto.com/",
+            "curatedTrack": "Walls (feat. Quilla)",
             "album": [
             {
                 "id": 1,
@@ -47,7 +177,93 @@
                 "title": "Club Life - Volume 2 Miami",
                 "releaseYear": 2012,
                 "trackCount": 17,
-                "bestTrack": "Walls (feat. Quilla)"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Miami (Original Mix)",
+                        "trackLength": "2:05"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Chasing Summers (Original Mix)",
+                        "trackLength": "4:15"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "We Own the Night (feat. Wolfgang Gartner & Luciana) [Original Mix]",
+                        "trackLength": "4:30"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "What Can We Do (A Deeper Love) [Third Party Remix]",
+                        "trackLength": "4:45"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "If a Lie Was Love [Baggi Begovic KNAL Mix]",
+                        "trackLength": "3:00"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Somebody That I Used to Know (Tiësto Remix)",
+                        "trackLength": "4.33"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Paradise (Tiësto Remix)",
+                        "trackLength": "4:44"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Walls (Original Mix)",
+                        "trackLength": "7:16"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "Young Blood (Tiësto & Hardwell Remix)",
+                        "trackLength": "6:37"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Life (feat. John Dahlbäck) [Original Mix]",
+                        "trackLength": "6:19"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "Long Time (feat. John De Sohn & Andreas Moe) [Original Mix]",
+                        "trackLength": "6:22"
+                    },
+                    {   
+                        "trackNumber": 12,
+                        "trackTitle": "In My Mind (Axwell Mix)",
+                        "trackLength": "6:40"
+                    },
+                    {   
+                        "trackNumber": 13,
+                        "trackTitle": "Arena (feat. Avesta) [Original Mix]",
+                        "trackLength": "7:23"
+                    },
+                    {   
+                        "trackNumber": 14,
+                        "trackTitle": "Can't Stop Me (feat. Afrojack and Shermanology) [Tiësto Remix]",
+                        "trackLength": "5:19"
+                    },
+                    {   
+                        "trackNumber": 15,
+                        "trackTitle": "Make Some Noise (feat. Swanky Tunes & Ben McInerney of New Navy)[Original Mix]",
+                        "trackLength": "7:20"
+                    },
+                    {   
+                        "trackNumber": 16,
+                        "trackTitle": "Maximal Crazy (Original Mix)",
+                        "trackLength": "6:49"
+                    },
+                    {   
+                        "trackNumber": 17,
+                        "trackTitle": "Las Vegas (Moska Remix)",
+                        "trackLength": "6:24"
+                    }
+                ]
             }
             ]
         },
@@ -57,6 +273,7 @@
             "hometown": "Montreal, Quebec",
             "genre": "Electro House, Techno",
             "url": "http://www.deadmau5.com/",
+            "curatedTrack": "The Veldt (feat. Chris James)",
             "album": [
             {
                 "id": 1,
@@ -64,7 +281,73 @@
                 "title": "album title goes here",
                 "releaseYear": 2013,
                 "trackCount": 13,
-                "bestTrack": "The Veldt (feat. Chris James)"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Superliminal",
+                        "trackLength": "6:15"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Channel 42 (feat. Wolfgang Gartner)",
+                        "trackLength": "4:48"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "The Veldt (feat. Chris James)",
+                        "trackLength": "8:25"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "Fn Pig",
+                        "trackLength": "8:42"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Professional Griefers (feat. Gerard Way)",
+                        "trackLength": "4:04"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Maths",
+                        "trackLength": "6:38"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "There Might Be Coffee",
+                        "trackLength": "7:00"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Take Care of the Proper Paperwork",
+                        "trackLength": "6:52"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "Closer",
+                        "trackLength": "6:58"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "October",
+                        "trackLength": "7:10"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "Sleepless",
+                        "trackLength": "4:06"
+                    },
+                    {   
+                        "trackNumber": 12,
+                        "trackTitle": "Failbait (feat. Cypress Hill)",
+                        "trackLength": "4:49"
+                    },
+                    {   
+                        "trackNumber": 13,
+                        "trackTitle": "Telemiscommunications (feat. Imogen Heap)",
+                        "trackLength": "4:03"
+                    }
+                ]
             }
             ]
         },
@@ -74,14 +357,97 @@
             "hometown": "Sydney, Australia",
             "genre": "Electronica, Future Bass",
             "url": "https://flumemusic.com/",
+            "curatedTrack": "HyperParadise - Flume Remix",
             "album": [
             {
                 "id": 1,
                 "artist": "Flume",
-                "title": "Flume: Delue Edition",
-                "releaseYear": 2012,
-                "trackCount": 33,
-                "bestTrack": "HyperParadise - Flume Remix"
+                "title": "Skin",
+                "releaseYear": 2016,
+                "trackCount": 16,
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Helix",
+                        "trackLength": "3:30"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Never Be like You (feat. Kai)",
+                        "trackLength": "3:54"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Lose It (feat. Vic Mensa)",
+                        "trackLength": "3:45"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "Numb & Getting Colder (feat. Kučka)",
+                        "trackLength": "5:08"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Say It (feat. Tove Lo)",
+                        "trackLength": "4:23"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Wall Fuck",
+                        "trackLength": "3:09"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Pika",
+                        "trackLength": "1:55"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Smoke & Retribution (feat. Vince Staples and Kučka)",
+                        "trackLength": "4:01"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "3",
+                        "trackLength": "3:04"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "When Everything Was New",
+                        "trackLength": "2:27"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "You Know (feat. Allan Kingdom and Raekwon)",
+                        "trackLength": "3:22"
+                    },
+                    {   
+                        "trackNumber": 12,
+                        "trackTitle": "Take a Chance (feat. Little Dragon)",
+                        "trackLength": "5:28"
+                    },
+                    {   
+                        "trackNumber": 13,
+                        "trackTitle": "Innocence (feat. AlunaGeorge)",
+                        "trackLength": "6:18"
+                    },
+                    {   
+                        "trackNumber": 14,
+                        "trackTitle": "Like Water (feat. MNDR)",
+                        "trackLength": "3:13"
+                    },
+                    {   
+                        "trackNumber": 15,
+                        "trackTitle": "Free",
+                        "trackLength": "2:56"
+                    },
+                    {   
+                        "trackNumber": 16,
+                        "trackTitle": "Tiny Cities (feat. Beck)",
+                        "trackLength": "3:56"
+                    }
+
+                ]
             }
             ]
         },
@@ -91,6 +457,7 @@
             "hometown": "unknown, Netherlands",
             "genre": "Melodic/Future Bass",
             "url": "https://droeloe.com/",
+            "curatedTrack": "Push Through",
             "album": [
             {
                 "id": 1,
@@ -98,7 +465,58 @@
                 "title": "A Promise is Made",
                 "releaseYear": 2019,
                 "trackCount": 10,
-                "bestTrack": "Push Through"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Oath",
+                        "trackLength": "2:26"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Virtual Friends",
+                        "trackLength": "3:47"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Casual Friends",
+                        "trackLength": "3:11"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "Broken Bricks (feat. Kalulu)",
+                        "trackLength": "3:32"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Komorebi",
+                        "trackLength": "2:32"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Written Maze (feat. Iris Penning)",
+                        "trackLength": "6:38"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Petrified",
+                        "trackLength": "3:03"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "World Full of Snakes (feat. PJOTR V) [Explicit]",
+                        "trackLength": "2:37"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "Grind & Hustle",
+                        "trackLength": "2:24"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Push Through",
+                        "trackLength": "3:52"
+                    }
+                ]
             }
             ]
         },
@@ -108,6 +526,7 @@
             "hometown": "London, UK",
             "genre": "Trance, Progressive House",
             "url": "https://www.aboveandbeyond.nu/",
+            "curatedTrack": "Sun & Moon (feat. Richard Belford)",
             "album": [
             {
                 "id": 1,
@@ -115,7 +534,83 @@
                 "title": "Group Therapy",
                 "releaseYear": 2011,
                 "trackCount": 15,
-                "bestTrack": "Sun & Moon (feat. Richard Belford)"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Filmic",
+                        "trackLength": "3:49"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Alchemy (feat. Zoë Johnston)",
+                        "trackLength": "5:17"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Sun & Moon (feat. Richard Belford)",
+                        "trackLength": "5:25"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "You Got to Go (feat. Zoë Johnston)",
+                        "trackLength": "5:34"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Black Room Boy (feat. Andrew Bayer & Richard Bedford)",
+                        "trackLength": "6:10"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Giving It Out (feat. Zoë Johnston)",
+                        "trackLength": "3:53"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Sun & Moon (feat. Richard Belford)",
+                        "trackLength": "3:53"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Prelude",
+                        "trackLength": "5:44"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "Sun in Your Eyes",
+                        "trackLength": "4:50"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Love Is Not Enough (feat. Zoë Johnston)",
+                        "trackLength": "6:33"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "Every Little Beat (feat. Richard Belford)",
+                        "trackLength": "6:00"
+                    },
+                    {   
+                        "trackNumber": 12,
+                        "trackTitle": "Sweetest Heart (feat. Zoë Johnston)",
+                        "trackLength": "3:36"
+                    },
+                    {   
+                        "trackNumber": 13,
+                        "trackTitle": "Thing Called Love (feat. Richard Belford)",
+                        "trackLength": "5:29"
+                    },
+                    {   
+                        "trackNumber": 14,
+                        "trackTitle": "Only A Few Things (feat. Zoë Johnston)",
+                        "trackLength": "5:02"
+                    },
+                    {   
+                        "trackNumber": 15,
+                        "trackTitle": "Eternal",
+                        "trackLength": "2:53"
+                    }
+                ]
             }
             ]
         },
@@ -125,6 +620,7 @@
             "hometown": "Chapel Hill, NC",
             "genre": "Electronica, Techno",
             "url": "http://porterrobinson.com/",
+            "curatedTrack": "Language",
             "album": [
             {
                 "id": 1,
@@ -132,7 +628,68 @@
                 "title": "Worlds",
                 "releaseYear": 2014,
                 "trackCount": 12,
-                "bestTrack": "Language"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Divinity (feat. Amy Millan)",
+                        "trackLength": "6:08"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Sad Machine",
+                        "trackLength": "5:50"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Years of War (feat. Breanne Düren and Sean Caskey)",
+                        "trackLength": "3:56"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "Flicker",
+                        "trackLength": "4:39"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Fresh Static Snow",
+                        "trackLength": "5:58"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Polygon Dust (feat. Lemaitre)",
+                        "trackLength": "3:29"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Hear the Bells (feat. Imaginary Cities)",
+                        "trackLength": "4:46"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Natural Light",
+                        "trackLength": "2:21"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "Lionhearted (feat. Urban Cone)",
+                        "trackLength": "4:24"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Sea of Voices",
+                        "trackLength": "4:59"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "Fellow Feeling",
+                        "trackLength": "5:49"
+                    },
+                    {   
+                        "trackNumber": 12,
+                        "trackTitle": "Goodbye to a World",
+                        "trackLength": "5:28"
+                    }
+                ]
             }
             ]
         },
@@ -142,6 +699,7 @@
             "hometown": "West Chester, PA",
             "genre": "Melodic Bass, Heaven Trap",
             "url": "https://www.facebook.com/Mitismusic/",
+            "curatedTrack": "Mercy (feat. glasscat)",
             "album": [
             {
                 "id": 1,
@@ -149,7 +707,63 @@
                 "title": "'Til the End",
                 "releaseYear": 2018,
                 "trackCount": 11,
-                "bestTrack": "Mercy (feat. glasscat)"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Til the End",
+                        "trackLength": "3:36"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Away (feat. Gioto)",
+                        "trackLength": "4:19"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Moments (feat. Adara)",
+                        "trackLength": "4:38"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "By My Side (feat. Tedy)",
+                        "trackLength": "3:10"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Reconnect (feat. MaHi)",
+                        "trackLength": "4:06"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Your Revolution (Interlude)",
+                        "trackLength": "2:40"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Forests (feat. Lauren Hunter)",
+                        "trackLength": "3:36"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "For Miles & Miles (feat. PartyNails)",
+                        "trackLength": "3:55"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "We Collide",
+                        "trackLength": "4:33"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Embers (feat. PRXZM & SubLion)",
+                        "trackLength": "4:12"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "Dreams (Outro)",
+                        "trackLength": "2:57"
+                    }
+                ]
             }
             ]
         },
@@ -159,6 +773,7 @@
             "hometown": "Bellingham, WA",
             "genre": "Indietronica, Future Bass",
             "url": "https://odesza.com/",
+            "curatedTrack": "Something About You - ODESZA Remix",
             "album": [
             {
                 "id": 1,
@@ -166,7 +781,73 @@
                 "title": "In Return",
                 "releaseYear": 2014,
                 "trackCount": 13,
-                "bestTrack": "Something About You - ODESZA Remix"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Always This Late",
+                        "trackLength": "2:40"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Say My Name (feat. Zyra)",
+                        "trackLength": "4:22"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Bloom",
+                        "trackLength": "3:15"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "All We Need (feat. Shy Girls)",
+                        "trackLength": "3:31"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Sundara",
+                        "trackLength": "2:16"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "White Lies (feat. Jenni Potts)",
+                        "trackLength": "4:37"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Kusanagi",
+                        "trackLength": "3:28"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Echoes (feat. Py)",
+                        "trackLength": "4:23"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "It's Only (feat. Zyra)",
+                        "trackLength": "4:28"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Koto",
+                        "trackLength": "3:14"
+                    },
+                    {   
+                        "trackNumber": 11,
+                        "trackTitle": "Memories That You Call (feat. Monsoonsiren)",
+                        "trackLength": "4:08"
+                    },
+                    {   
+                        "trackNumber": 12,
+                        "trackTitle": "Sun Models (feat. Madelyn Grant)",
+                        "trackLength": "2:40"
+                    },
+                    {   
+                        "trackNumber": 13,
+                        "trackTitle": "For Us (feat. Briana Marela)",
+                        "trackLength": "5:49"
+                    }
+                ]
             }
             ]
         },
@@ -176,6 +857,7 @@
             "hometown": "San Luis Obispo, CA",
             "genre": "House, Electro House",
             "url": "http://www.wolfganggartner.com/",
+            "curatedTrack": "Redline",
             "album": [
             {
                 "id": 1,
@@ -183,7 +865,58 @@
                 "title": "10 Ways To Steal Home Plate",
                 "releaseYear": 2016,
                 "trackCount": 10,
-                "bestTrack": "Redline"
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Turn Up (feat. Wiley & Trina)",
+                        "trackLength": "3:19"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Looking For You (feat. Negin Djafari)",
+                        "trackLength": "2:45"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Hurricane Slurricane(feat. Dâm-Funk & E-40)",
+                        "trackLength": "2:56"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "Saved",
+                        "trackLength": "2:46"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Replay It (feat. D.A.)",
+                        "trackLength": "3:38"
+                    },
+                    {   
+                        "trackNumber": 6,
+                        "trackTitle": "Unholy (feat. Bobby Saint)",
+                        "trackLength": "3:28"
+                    },
+                    {   
+                        "trackNumber": 7,
+                        "trackTitle": "Y.W.M.O. (feat. Gene Noble)",
+                        "trackLength": "3:10"
+                    },
+                    {   
+                        "trackNumber": 8,
+                        "trackTitle": "Faded (feat. Marc Griffin)",
+                        "trackLength": "3:51"
+                    },
+                    {   
+                        "trackNumber": 9,
+                        "trackTitle": "Feel Right (feat. JHart)",
+                        "trackLength": "3:15"
+                    },
+                    {   
+                        "trackNumber": 10,
+                        "trackTitle": "Up in Smoke (feat. A-Trak & Sirah)",
+                        "trackLength": "3:54"
+                    }
+                ]
             }
             ]
         },
@@ -193,6 +926,7 @@
             "hometown": "Santa Barbara, CA",
             "genre": "House, Melodic Bass",
             "url": "https://sevenlions.com/",
+            "curatedTrack": "Worlds Apart (feat. Kerli)",
             "album": [
                 {
                 "id": 1,
@@ -200,8 +934,34 @@
                 "title": "Worlds Apart",
                 "releaseYear": 2014,
                 "trackCount": 5,
-                "bestTrack": "Worlds Apart (feat. Kerli)"
-                }
+                "tracks": [
+                    {   
+                        "trackNumber": 1,
+                        "trackTitle": "Don't Leave (feat. Ellie Goulding)",
+                        "trackLength": "6:02"
+                    },
+                    {   
+                        "trackNumber": 2,
+                        "trackTitle": "Worlds Apart (feat. Kerli)",
+                        "trackLength": "6:16"
+                    },
+                    {   
+                        "trackNumber": 3,
+                        "trackTitle": "Nepenthe",
+                        "trackLength": "5:16"
+                    },
+                    {   
+                        "trackNumber": 4,
+                        "trackTitle": "Strangers (feat. Myon & Shane 54 & Tove Lo)",
+                        "trackLength": "3:24"
+                    },
+                    {   
+                        "trackNumber": 5,
+                        "trackTitle": "Keep It Close (feat. Kerli)",
+                        "trackLength": "5:12"
+                    }
+                ]
+            }
             ]
         },
         {
@@ -210,6 +970,7 @@
             "hometown": "unknown, Australia",
             "genre": "Electronic, Trap",
             "url": "https://www.hermitude.com/",
+            "curatedTrack": "Northern Lights (feat. Soaky Siren and Vory)",
             "album": [
                 {
                     "id": 1,
@@ -217,16 +978,73 @@
                     "title": "Pollyanarachy",
                     "releaseYear": 2019,
                     "trackCount": 11,
-                    "bestTrack": "Northern Lights (feat. Soaky Siren and Vory)"
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Pilot Light",
+                            "trackLength": "4:07"
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Stupid World (feat. Bibi Bourelly)",
+                            "trackLength": "3:35"
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Swerve (feat. Wes Period)",
+                            "trackLength": "3:08"
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Northern Lights (feat. Soaky Siren and Vory)",
+                            "trackLength": "3:16"
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Phew (feat. Bibi Bourelly)",
+                            "trackLength": "3:19"
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Dusk Till Dawn (feat. Vic Mensa)",
+                            "trackLength": "3:32"
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Balafono",
+                            "trackLength": "3:23"
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "OneFourThree (feat. BJ The Chicago Kid & Buddy)",
+                            "trackLength": "3:47"
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Let It Burn (feat. Haiku Hands)",
+                            "trackLength": "3:07"
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Every Day (feat. Hoodlum)",
+                            "trackLength": "3:24"
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Glorious (feat. Electric Fields)",
+                            "trackLength": "4:29"
+                        }
+                    ]
                 }
-            ]
-        },
-        {
+                ]
+            },
+            {
             "id": 14,
             "name": "GANZ",
             "hometown": "unknown, Netherlands",
             "genre": "Trap, Future Bass",
             "url": "https://iamganz.com/",
+            "curatedTrack": "Stupid World (feat. Bibi Bourelly) - GANZ Remix",
             "album": [
                 {
                     "id": 1,
@@ -234,16 +1052,43 @@
                     "title": "Skin In The Game EP",
                     "releaseYear": 2019,
                     "trackCount": 11,
-                    "bestTrack": "Stupid World (feat. Bibi Bourelly) - GANZ Remix"
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Let's Fly Away Together (feat. LUNA MAY)",
+                            "trackLength": "3:37"
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Slippin' (feat. CUT_)",
+                            "trackLength": "3:05"
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "I'll Be Gone",
+                            "trackLength": "2:45"
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Skin In The Game",
+                            "trackLength": "2:39"
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Playing With Fire",
+                            "trackLength": "4:28"
+                        }
+                    ]
                 }
-            ]
-        },
-        {
+                ]
+            },
+            {
             "id": 15,
             "name": "Pretty Lights",
             "hometown": "Fort Collins, CO",
             "genre": "Electronic, Hip-Hop, Soul",
             "url": "http://prettylightsmusic.com",
+            "curatedTrack": "All of the Lights - Pretty Lights Remix",
             "album": [
                 {
                     "id": 1,
@@ -251,16 +1096,83 @@
                     "title": "A Color Map of the Sun",
                     "releaseYear": 2013,
                     "trackCount": 13,
-                    "bestTrack": "All of the Lights - Pretty Lights Remix"
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Color of My Soul",
+                            "trackLength": "6:08"
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Press Pause",
+                            "trackLength": "4:49"
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Let's Get Busy",
+                            "trackLength": "3:52"
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Around the Block (feat. Talib Kweli)",
+                            "trackLength": "4:13"
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Yellow Bird",
+                            "trackLength": "5:40"
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Go Down Sunshine",
+                            "trackLength": "5:05"
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "So Bright (feat. Eligh)",
+                            "trackLength": "5:51"
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Vibe Vendetta",
+                            "trackLength": "5:24"
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Done Wrong",
+                            "trackLength": "6:35"
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Prophet",
+                            "trackLength": "5:56"
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "One Day They'll Know",
+                            "trackLength": "6:59"
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Always All Ways",
+                            "trackLength": "5:32"
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "My Only Hope",
+                            "trackLength": "4:52"
+                        }
+                    ]
                 }
-            ]
-        },
-        {
+                ]
+            },
+            {
             "id": 16,
             "name": "KRATER",
             "hometown": "Sweden",
             "genre": "Future Bass, Trance-Fusion",
             "url": "https://soundcloud.com/kraterbeats",
+            "curatedTrack": "TOKYO",
             "album": [
                 {
                     "id": 1,
@@ -268,16 +1180,38 @@
                     "title": "Alliance EP",
                     "releaseYear": 2017,
                     "trackCount": 4,
-                    "bestTrack": "TOKYO"
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "By Your Side",
+                            "trackLength": "3:35"
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Alliance",
+                            "trackLength": "2:33"
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Need To Know",
+                            "trackLength": "4:12"
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Tell Me",
+                            "trackLength": "3:20"
+                        }
+                    ]
                 }
-            ]
-        },
-        {
+                ]
+            },
+            {
             "id": 17,
             "name": "SLANDER",
             "hometown": "Los Angeles, CA",
             "genre": "Future Bass, Trap",
             "url": "http://www.slanderofficial.com/the-eye-tour",
+            "curatedTrack": "Fall Apart (SLANDER Remix)",
             "album": [
                 {
                     "id": 1,
@@ -285,16 +1219,63 @@
                     "title": "Duality EP",
                     "releaseYear": 2017,
                     "trackCount": 9,
-                    "bestTrack": "Fall Apart (SLANDER Remix)"
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Love Again (feat. WAVZ)",
+                            "trackLength": "4:55"
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Dead",
+                            "trackLength": "3:20"
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Dead (NGHTMARE Remix)",
+                            "trackLength": "3:05"
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Dead (SAYMYNAME Remix)",
+                            "trackLength": "2:33"
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Dead (YOOKIE Remix)",
+                            "trackLength": "2:52"
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Dead (KLAXX Remix)",
+                            "trackLength": "3:31"
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Love Again (feat. WAVZ) [AdamK Remix]",
+                            "trackLength": "3:26"
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Love Again (feat. WAVZ) [Palranoid Remix]",
+                            "trackLength": "4:32"
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Love Again (feat. WAVZ) [WAVZ Remix]",
+                            "trackLength": "3:31"
+                        }
+                    ]
                 }
-            ]
-        },
-        {
+                ]
+            },
+            {
             "id": 18,
             "name": "Zedd",
             "hometown": "Germany",
             "genre": "House, Electronica",
             "url": "http://zedd.net/",
+            "curatedTrack": "Clarity (feat. Foxes)",
             "album": [
                 {
                     "id": 1,
@@ -302,11 +1283,65 @@
                     "title": "Clarity",
                     "releaseYear": 2013,
                     "trackCount": 10,
-                    "bestTrack": "Clarity (feat. Foxes)"
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Hourglass (feat. Liz)",
+                            "trackLength": "5:13"
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Shave It",
+                            "trackLength": "3:10"
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Spectrum (feat. Matthew Koma)",
+                            "trackLength": "4:03"
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Lost at Sea (feat. Ryan Tedder)",
+                            "trackLength": "3:45"
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Clarity (feat. Foxes)",
+                            "trackLength": "3:45"
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Codec",
+                            "trackLength": "6:01"
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Stache",
+                            "trackLength": "4:04"
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Vibe Vendetta",
+                            "trackLength": "5:24"
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Fall Into the Sky (feat. Lucky Date & Ellie Goulding)",
+                            "trackLength": "3:37"
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Follow You Down (feat. Bright Lights)",
+                            "trackLength": "5:47"
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Epos",
+                            "trackLength": "5:36"
+                        }
+                    ]
                 }
-            ]
-        }
-
-
+                ]
+            }
     ]
 }
