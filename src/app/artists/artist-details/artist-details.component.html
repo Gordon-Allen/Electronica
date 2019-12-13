@@ -9,8 +9,13 @@
       <li>Hometown: <em>{{ artist?.hometown }}</em></li>
       <li>Genre: <em>{{ artist?.genre }}</em></li>
       <li><a href="{{ artist?.url }}">Website</a></li>
+      <li>
+        <a href="{{ artist?.spotifyUrl }}"><img style="width: 38px; height:38px; margin-right: 5px;" src="assets/img/spotify_icon_small.png"></a>
+        <a href="{{ artist?.youtubeUrl }}"><img style="width: 43px; height:32px; margin-right: 5px;" src="assets/img/youtube_icon_small.png"></a>
+        <a href="{{ artist?.appleMusicUrl }}"><img style="width: 40px; height:40px;" src="assets/img/applemusic_logo_small.png"></a>
+      </li>
       <br>
-      <li style="font-size: 18px;">Electronica's Curated Track of Choice:  <a href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a>  <a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -1px;" src="assets/img/youtube_logo.png"></a></li>
+      <li style="font-size: 18px;">Electronica's Curated Track of Choice:  <a href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -1px;" src="assets/img/youtube_icon.png"></a></li>
     </ul>
   </div>
   <div class="row" *ngFor="let album of artist.album">
