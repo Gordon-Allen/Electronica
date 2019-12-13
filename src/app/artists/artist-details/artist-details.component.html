@@ -4,7 +4,7 @@
 
     <ul style="list-style: none;">
       <li>
-        <a style="color:#0069D9" href="{{ artist?.url }}"><h1 style="text-decoration-line: underline;">{{ artist?.name }}</h1></a>
+        <a style="color:#0069D9;" href="{{ artist?.url }}"><h1 style="text-decoration-line: underline;">{{ artist?.name }}</h1></a>
       </li>
       <li>
         <a href="{{ artist?.facebookUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/facebook_icon.png"></a>
@@ -14,10 +14,10 @@
         <a href="{{ artist?.appleMusicUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/applemusic_icon_small.png"></a>
         <a href="{{ artist?.youtubeUrl }}"><img style="width: 45px; height:32px; margin-right: 5px;" src="assets/img/youtube_icon_small.png"></a>
       </li>
-      <li style="margin-top: 10px;"><h6><a href="{{ artist?.url }}">{{ artist?.name }}'s Website</a></h6></li>
+      <li style="margin-top: 10px; color:#0069D9;"><h6><a href="{{ artist?.url }}">{{ artist?.name }}'s Website</a></h6></li>
       <li><h6>Hometown: <em>{{ artist?.hometown }}</em></h6></li>
       <li><h6>Genre: <em>{{ artist?.genre }}</em></h6></li>
-      <li style="font-size: 18px; margin-top: 15px; font-weight: 525;"><img style="width: 45px; height:45px;" src="assets/electronica.png">Electronica's Curated Track of Choice: <a href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -4px;" src="assets/img/youtube_icon.png"></a></li>
+      <li style="font-size: 18px; margin-top: 15px; font-weight: 525;"><img style="width: 45px; height:45px;" src="assets/electronica.png">Electronica's Curated Track of Choice: <a style="color:#0069D9" href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -4px;" src="assets/img/youtube_icon.png"></a></li>
     </ul>
   </div>
   <div class="row" style="margin-top: 10px;"   *ngFor="let album of artist.album">
