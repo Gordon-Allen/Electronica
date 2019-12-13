@@ -7,11 +7,11 @@
         <h1>{{ artist?.name }}</h1>
       </li>
       <li>
+        <a href="{{ artist?.facebookUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/facebook_icon.png"></a>
+        <a href="{{ artist?.twitterUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/twitter_icon.png"></a>
         <a href="{{ artist?.spotifyUrl }}"><img style="width: 38px; height:38px; margin-right: 5px;" src="assets/img/spotify_icon_small.png"></a>
-        <a href="{{ artist?.youtubeUrl }}"><img style="width: 45px; height:32px; margin-right: 5px;" src="assets/img/youtube_icon_small.png"></a>
         <a href="{{ artist?.appleMusicUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/applemusic_logo_small.png"></a>
-        <a href="{{ artist?.twitterUrl }}"><img style="width: 40px; height:40px;" src="assets/img/twitter_icon.png"></a>
-
+        <a href="{{ artist?.youtubeUrl }}"><img style="width: 45px; height:32px; margin-right: 5px;" src="assets/img/youtube_icon_small.png"></a>
       </li>
       <li style="margin-top: 10px;"><h6><a href="{{ artist?.url }}">{{ artist?.name }}'s Website</a></h6></li>
       <li><h6>Hometown: <em>{{ artist?.hometown }}</em></h6></li>
