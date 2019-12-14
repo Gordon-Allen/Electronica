@@ -7,39 +7,40 @@
         <a style="color:#0069D9;" href="{{ artist?.url }}"><h1 style="text-decoration-line: underline;">{{ artist?.name }}</h1></a>
       </li>
       <li>
-        <a href="{{ artist?.facebookUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/facebook_icon.png"></a>
-        <a href="{{ artist?.instagramUrl }}"><img style="width: 42px; height:42px; margin-right: 5px;" src="assets/img/instagram_icon.png"></a>
-        <a href="{{ artist?.twitterUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/twitter_icon.png"></a>
-        <a href="{{ artist?.spotifyUrl }}"><img style="width: 38px; height:38px; margin-right: 5px;" src="assets/img/spotify_icon_small.png"></a>
-        <a href="{{ artist?.appleMusicUrl }}"><img style="width: 40px; height:40px; margin-right: 5px;" src="assets/img/applemusic_icon_small.png"></a>
-        <a href="{{ artist?.youtubeUrl }}"><img style="width: 45px; height:32px; margin-right: 5px;" src="assets/img/youtube_icon_small.png"></a>
+        <a href="{{ artist?.facebookUrl }}"><img style="width: 40px; height: 40px; margin-right: 5px;" src="assets/img/facebook_icon.png"></a>
+        <a href="{{ artist?.instagramUrl }}"><img style="width: 42px; height: 42px; margin-right: 5px;" src="assets/img/instagram_icon.png"></a>
+        <a href="{{ artist?.twitterUrl }}"><img style="width: 40px; height: 40px; margin-right: 5px;" src="assets/img/twitter_icon.png"></a>
+        <a href="{{ artist?.youtubeUrl }}"><img style="width: 37.5px; height: 37.5px; margin-right: 5px;" src="assets/img/youtube_icon_small.png"></a>
+        <a href="{{ artist?.spotifyUrl }}"><img style="width: 38px; height:3 8px; margin-right: 5px;" src="assets/img/spotify_icon_small.png"></a>
+        <a href="{{ artist?.appleMusicUrl }}"><img style="width: 40px; height: 40px; margin-right: 1px;" src="assets/img/applemusic_icon_small.png"></a>
+        <a href="{{ artist?.soundcloudUrl }}"><img style="width: 45px; height: 45px; margin-right: 5px;" src="assets/img/soundcloud_icon.png"></a>
       </li>
       <li style="margin-top: 10px; color:#0069D9;"><h6><a href="{{ artist?.url }}">{{ artist?.name }}'s Website</a></h6></li>
       <li><h6>Hometown: <em>{{ artist?.hometown }}</em></h6></li>
       <li><h6>Genre: <em>{{ artist?.genre }}</em></h6></li>
-      <li style="font-size: 18px; margin-top: 15px; font-weight: 525;"><img style="width: 45px; height:45px;" src="assets/electronica.png">Electronica's Curated Track of Choice: <a style="color:#0069D9" href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -4px;" src="assets/img/youtube_icon.png"></a></li>
+      <li style="font-size: 18px; margin-top: 15px; font-weight: 525;"><img style="width: 45px; height:45px;" src="assets/img/electronica.png">Electronica's Curated Track of Choice: <a style="color:#0069D9" href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -4px;" src="assets/img/youtube_icon.png"></a></li>
     </ul>
   </div>
   <div class="row" style="margin-top: 10px;"   *ngFor="let album of artist.album">
     <h4><span style="text-decoration-line: underline;">Best Album</span>: <em>{{ album?.title }}</em> ({{ album?.releaseYear }})</h4>
     <a href="{{ album?.albumSpotifyUrl }}"><img style="width: 110px; height: 33px; margin-left: 5px;" src="assets/img/spotify_icon.png"></a><a href="{{ album?.albumAppleMusicUrl }}"><img style="width: 100px; height: 25px; margin-left: 10px;" src="assets/img/applemusic_icon.png"></a>
     
-    <table class="table table-striped" style="border: 2px solid #0069D9;">
+    <table class="table table-striped" style="border: 4px solid #0069D9;">
       <caption><em>{{ album?.title }}</em> by {{ album?.artist }} ({{ album?.releaseYear }} - {{ album?.trackCount }} Tracks)</caption>
-      <thead class="thead-light">
-        <tr>
-          <th scope="col">Track #</th>
-          <th scope="col">Title</th>
-          <th scope="col">Length</th>
-          <th scope="col">Listen?</th>
+      <thead class="thead-light" style="border: 4px solid #0069D9;">
+        <tr style="border: 2px solid #0069D9;">
+          <th scope="col" style="color:#0069D9; font-size: 18px;">Track #</th>
+          <th scope="col" style="color:#0069D9; font-size: 18px;">Title</th>
+          <th scope="col" style="color:#0069D9; font-size: 18px;">Length</th>
+          <th scope="col" style="color:#0069D9; font-size: 18px;">Listen?</th>
         </tr>
       </thead>
       <tbody *ngFor="let album of artist.album">
-        <tr *ngFor="let tracks of album.tracks">
+        <tr style="border: 2px solid #0069D9;" *ngFor="let tracks of album.tracks">
           <th scope="row">{{ tracks.trackNumber }}</th>
           <td><em>{{ tracks.trackTitle }}</em></td>
           <td>{{ tracks.trackLength }}</td>
-          <td><a href="{{ tracks.trackUrl }}"><img style="width: 35px; height:25px;" src="assets/img/youtube_icon_small.png"></a></td>
+          <td><a href="{{ tracks.trackUrl }}"><img style="width: 47.5px; height:27.5px;" src="assets/img/youtube_icon_playtrack.png"></a></td>
         </tr>
       </tbody>
     </table>
