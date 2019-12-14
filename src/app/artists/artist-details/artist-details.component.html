@@ -31,6 +31,7 @@
           <th scope="col">Track #</th>
           <th scope="col">Title</th>
           <th scope="col">Length</th>
+          <th scope="col">Listen?</th>
         </tr>
       </thead>
       <tbody *ngFor="let album of artist.album">
@@ -38,6 +39,7 @@
           <th scope="row">{{ tracks.trackNumber }}</th>
           <td><em>{{ tracks.trackTitle }}</em></td>
           <td>{{ tracks.trackLength }}</td>
+          <td><a href="{{ tracks.trackUrl }}"><img style="width: 35px; height:25px;" src="assets/img/youtube_icon_small.png"></a></td>
         </tr>
       </tbody>
     </table>

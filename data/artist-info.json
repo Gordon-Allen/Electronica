@@ -27,67 +27,80 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Give Life Back To Music",
-                        "trackLength": "4:35"
+                        "trackLength": "4:35",
+                        "trackUrl":"https://www.youtube.com/watch?v=IluRBvnYMoY" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "The Game of Love",
-                        "trackLength": "5:22"
+                        "trackLength": "5:22",
+                        "trackUrl":"https://www.youtube.com/watch?v=ajGKWk0auOc" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Giorgio by Moroder",
-                        "trackLength": "9:05"
+                        "trackLength": "9:05",
+                        "trackUrl":"https://www.youtube.com/watch?v=zhl-Cs1-sG4" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "Within",
-                        "trackLength": "3:49"
+                        "trackLength": "3:49",
+                        "trackUrl":"https://www.youtube.com/watch?v=cuj__JnGWLg" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Instant Crush (feat. Julian Casablancas)",
-                        "trackLength": "5:38"
+                        "trackLength": "5:38",
+                        "trackUrl":"https://www.youtube.com/watch?v=a5uQMwRMHcs" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Lose Yourself to Dance (feat. Pharrell Williams)",
-                        "trackLength": "5:54"
+                        "trackLength": "5:54",
+                        "trackUrl":"https://www.youtube.com/watch?v=NF-kLy44Hls" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Touch (feat. Paul Williams)",
-                        "trackLength": "8:19"
+                        "trackLength": "8:19",
+                        "trackUrl":"https://www.youtube.com/watch?v=0Gkhol2Q1og" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Get Luncky (feat. Pharrell Williams & Nile Rodgers)",
-                        "trackLength": "6:10"
+                        "trackLength": "6:10",
+                        "trackUrl":"https://www.youtube.com/watch?v=5NV6Rdv1a3I" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "Beyond",
-                        "trackLength": "4:50"
+                        "trackLength": "4:50",
+                        "trackUrl":"https://www.youtube.com/watch?v=3T0NqvdUiWI" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Motherboard",
-                        "trackLength": "5:42"
+                        "trackLength": "5:42",
+                        "trackUrl":"https://www.youtube.com/watch?v=wz7YiQdNmZ8" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "Fragments of Time (feat. Todd Edwards)",
-                        "trackLength": "4:40"
+                        "trackLength": "4:40",
+                        "trackUrl":"https://www.youtube.com/watch?v=_ScM9pKlCfo" 
                     },
                     {   
                         "trackNumber": 12,
                         "trackTitle": "Doin' It Right (feat. Panda Bear)",
-                        "trackLength": "4:11"
+                        "trackLength": "4:11",
+                        "trackUrl":"https://www.youtube.com/watch?v=LL-gyhZVvx0" 
                     },
                     {   
                         "trackNumber": 13,
                         "trackTitle": "Contact",
-                        "trackLength": "6:24"
+                        "trackLength": "6:24",
+                        "trackUrl":"https://www.youtube.com/watch?v=JI5noh4OyXc" 
                     }
                 ]
             }
@@ -120,62 +133,74 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Without You",
-                        "trackLength": "3:07"
+                        "trackLength": "3:07",
+                        "trackUrl": "https://www.youtube.com/watch?v=eZkrt1rvdlo" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Dreams (feat. ELEA)",
-                        "trackLength": "3:30"
+                        "trackLength": "3:30",
+                        "trackUrl": "https://www.youtube.com/watch?v=jlk7aRJ3B8M" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Firetorm (feat. Sara Diamond)",
-                        "trackLength": "3:27"
+                        "trackLength": "3:27",
+                        "trackUrl": "https://www.youtube.com/watch?v=oqXWUAmdEBo" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "Forever (feat. Ben Stevenson)",
-                        "trackLength": "3:49"
+                        "trackLength": "3:49",
+                        "trackUrl": "https://www.youtube.com/watch?v=nX4I1HH_WRQ" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Limitless (feat. Delaney Jane)",
-                        "trackLength": "4:05"
+                        "trackLength": "4:05",
+                        "trackUrl": "https://www.youtube.com/watch?v=XnMv5vI3keQ" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Breathe (feat. SONDAR)",
-                        "trackLength": "3:51"
+                        "trackLength": "3:51",
+                        "trackUrl": "https://www.youtube.com/watch?v=d039nltHPTc" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Ghosts",
-                        "trackLength": "2:43"
+                        "trackLength": "2:43",
+                        "trackUrl": "https://www.youtube.com/watch?v=ZFJGKq00Mww" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Reaction (feat. Leah Culver)",
-                        "trackLength": "3:19"
+                        "trackLength": "3:19",
+                        "trackUrl": "https://www.youtube.com/watch?v=Fizhg2FqyiE" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "Crash 2.0 (feat. DallasK)",
-                        "trackLength": "4:15"
+                        "trackLength": "4:15",
+                        "trackUrl": "https://www.youtube.com/watch?v=er894vE-8Zk" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Save Me (feat. Adara)",
-                        "trackLength": "2:51"
+                        "trackLength": "2:51",
+                        "trackUrl": "https://www.youtube.com/watch?v=fG-dr7esn20" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "Fade (feat. Zak Waters)",
-                        "trackLength": "3:28"
+                        "trackLength": "3:28",
+                        "trackUrl": "https://www.youtube.com/watch?v=k_L2BU6PBno" 
                     },
                     {   
                         "trackNumber": 12,
                         "trackTitle": "Goodnight",
-                        "trackLength": "3:14"
+                        "trackLength": "3:14",
+                        "trackUrl": "https://www.youtube.com/watch?v=hQj-7lOIPos" 
                     }
                 ]
             }
@@ -208,87 +233,104 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Miami (Original Mix)",
-                        "trackLength": "2:05"
+                        "trackLength": "2:05",
+                        "trackUrl": "https://www.youtube.com/watch?v=HxRHh-L7FdQ" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Chasing Summers (Original Mix)",
-                        "trackLength": "4:15"
+                        "trackLength": "4:15",
+                        "trackUrl": "https://www.youtube.com/watch?v=9RX8meS5Q9w" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "We Own the Night (feat. Wolfgang Gartner & Luciana) [Original Mix]",
-                        "trackLength": "4:30"
+                        "trackLength": "4:30",
+                        "trackUrl": "https://www.youtube.com/watch?v=GZ_Gasgd92o" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "What Can We Do (A Deeper Love) [Third Party Remix]",
-                        "trackLength": "4:45"
+                        "trackLength": "4:45",
+                        "trackUrl": "https://www.youtube.com/watch?v=Kgs_pBGL5kM" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "If a Lie Was Love [Baggi Begovic KNAL Mix]",
-                        "trackLength": "3:00"
+                        "trackLength": "3:00",
+                        "trackUrl": "https://www.youtube.com/watch?v=J0i0hWuEXVc" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Somebody That I Used to Know (Tiësto Remix)",
-                        "trackLength": "4.33"
+                        "trackLength": "4.33",
+                        "trackUrl": "https://www.youtube.com/watch?v=DS4OkfcCLBE" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Paradise (Tiësto Remix)",
-                        "trackLength": "4:44"
+                        "trackLength": "4:44",
+                        "trackUrl": "https://www.youtube.com/watch?v=hphpTNifT6g" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Walls (Original Mix)",
-                        "trackLength": "7:16"
+                        "trackLength": "7:16",
+                        "trackUrl": "https://www.youtube.com/watch?v=u94VpYq0RIw" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "Young Blood (Tiësto & Hardwell Remix)",
-                        "trackLength": "6:37"
+                        "trackLength": "6:37",
+                        "trackUrl": "https://www.youtube.com/watch?v=pe2hdaES2Gk" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Life (feat. John Dahlbäck) [Original Mix]",
-                        "trackLength": "6:19"
+                        "trackLength": "6:19",
+                        "trackUrl": "" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "Long Time (feat. John De Sohn & Andreas Moe) [Original Mix]",
-                        "trackLength": "6:22"
+                        "trackLength": "6:22",
+                        "trackUrl": "" 
                     },
                     {   
                         "trackNumber": 12,
                         "trackTitle": "In My Mind (Axwell Mix)",
-                        "trackLength": "6:40"
+                        "trackLength": "6:40",
+                        "trackUrl": "https://www.youtube.com/watch?v=eE72jAiQuwI" 
                     },
                     {   
                         "trackNumber": 13,
                         "trackTitle": "Arena (feat. Avesta) [Original Mix]",
-                        "trackLength": "7:23"
+                        "trackLength": "7:23",
+                        "trackUrl": "https://www.youtube.com/watch?v=EqWQkeEvmdY" 
                     },
                     {   
                         "trackNumber": 14,
                         "trackTitle": "Can't Stop Me (feat. Afrojack and Shermanology) [Tiësto Remix]",
-                        "trackLength": "5:19"
+                        "trackLength": "5:19",
+                        "trackUrl": "https://www.youtube.com/watch?v=X2ISPOyc5EM" 
                     },
                     {   
                         "trackNumber": 15,
                         "trackTitle": "Make Some Noise (feat. Swanky Tunes & Ben McInerney of New Navy)[Original Mix]",
-                        "trackLength": "7:20"
+                        "trackLength": "7:20",
+                        "trackUrl": "https://www.youtube.com/watch?v=ry1i3jWfCao" 
                     },
                     {   
                         "trackNumber": 16,
                         "trackTitle": "Maximal Crazy (Original Mix)",
-                        "trackLength": "6:49"
+                        "trackLength": "6:49",
+                        "trackUrl": "https://www.youtube.com/watch?v=7AxI4rxCf2E&" 
                     },
                     {   
                         "trackNumber": 17,
                         "trackTitle": "Las Vegas (Moska Remix)",
-                        "trackLength": "6:24"
+                        "trackLength": "6:24",
+                        "trackUrl": "https://www.youtube.com/watch?v=6AsVsnkNylE" 
                     }
                 ]
             }
@@ -321,67 +363,80 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Superliminal",
-                        "trackLength": "6:15"
+                        "trackLength": "6:15",
+                        "trackUrl": "https://www.youtube.com/watch?v=hKqprJwWH4M" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Channel 42 (feat. Wolfgang Gartner)",
-                        "trackLength": "4:48"
+                        "trackLength": "4:48",
+                        "trackUrl": "https://www.youtube.com/watch?v=ZdEs0uvaH38" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "The Veldt (feat. Chris James)",
-                        "trackLength": "8:25"
+                        "trackLength": "8:25",
+                        "trackUrl": "https://www.youtube.com/watch?v=uiUAq4aVTjY" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "Fn Pig",
-                        "trackLength": "8:42"
+                        "trackLength": "8:42",
+                        "trackUrl": "https://www.youtube.com/watch?v=R_uwZZB5Yv0" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Professional Griefers (feat. Gerard Way)",
-                        "trackLength": "4:04"
+                        "trackLength": "4:04",
+                        "trackUrl": "" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Maths",
-                        "trackLength": "6:38"
+                        "trackLength": "6:38",
+                        "trackUrl": "https://www.youtube.com/watch?v=QJelsOHe6xk" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "There Might Be Coffee",
-                        "trackLength": "7:00"
+                        "trackLength": "7:00",
+                        "trackUrl": "https://www.youtube.com/watch?v=s7kIwISX5fM" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Take Care of the Proper Paperwork",
-                        "trackLength": "6:52"
+                        "trackLength": "6:52",
+                        "trackUrl": "https://www.youtube.com/watch?v=m_DXXEJ8Wl4" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "Closer",
-                        "trackLength": "6:58"
+                        "trackLength": "6:58",
+                        "trackUrl": "https://www.youtube.com/watch?v=CFCPOwsxK3Q" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "October",
-                        "trackLength": "7:10"
+                        "trackLength": "7:10",
+                        "trackUrl": "https://www.youtube.com/watch?v=CFCPOwsxK3Q" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "Sleepless",
-                        "trackLength": "4:06"
+                        "trackLength": "4:06",
+                        "trackUrl": "https://www.youtube.com/watch?v=l2L599fMDPI" 
                     },
                     {   
                         "trackNumber": 12,
                         "trackTitle": "Failbait (feat. Cypress Hill)",
-                        "trackLength": "4:49"
+                        "trackLength": "4:49",
+                        "trackUrl": "https://www.youtube.com/watch?v=xILoKSumFtU" 
                     },
                     {   
                         "trackNumber": 13,
                         "trackTitle": "Telemiscommunications (feat. Imogen Heap)",
-                        "trackLength": "4:03"
+                        "trackLength": "4:03",
+                        "trackUrl": "https://www.youtube.com/watch?v=8SXdDhvrypg" 
                     }
                 ]
             }
@@ -414,82 +469,98 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Helix",
-                        "trackLength": "3:30"
+                        "trackLength": "3:30",
+                        "trackUrl": "https://www.youtube.com/watch?v=7HKVvcNOQb0" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Never Be like You (feat. Kai)",
-                        "trackLength": "3:54"
+                        "trackLength": "3:54",
+                        "trackUrl": "https://www.youtube.com/watch?v=Ly7uj0JwgKg" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Lose It (feat. Vic Mensa)",
-                        "trackLength": "3:45"
+                        "trackLength": "3:45",
+                        "trackUrl": "https://www.youtube.com/watch?v=MbYuEEU5e50" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "Numb & Getting Colder (feat. Kučka)",
-                        "trackLength": "5:08"
+                        "trackLength": "5:08",
+                        "trackUrl": "https://www.youtube.com/watch?v=dceGIpBtQZo" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Say It (feat. Tove Lo)",
-                        "trackLength": "4:23"
+                        "trackLength": "4:23",
+                        "trackUrl": "https://www.youtube.com/watch?v=hZe5K1DN4ec" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Wall Fuck",
-                        "trackLength": "3:09"
+                        "trackLength": "3:09",
+                        "trackUrl": "https://www.youtube.com/watch?v=0dtkfpTwDxU" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Pika",
-                        "trackLength": "1:55"
+                        "trackLength": "1:55",
+                        "trackUrl": "" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Smoke & Retribution (feat. Vince Staples and Kučka)",
-                        "trackLength": "4:01"
+                        "trackLength": "4:01",
+                        "trackUrl": "" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "3",
-                        "trackLength": "3:04"
+                        "trackLength": "3:04",
+                        "trackUrl": "https://www.youtube.com/watch?v=lIJ5JJXKWo8" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "When Everything Was New",
-                        "trackLength": "2:27"
+                        "trackLength": "2:27",
+                        "trackUrl": "https://www.youtube.com/watch?v=rhSNyz5cDaM" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "You Know (feat. Allan Kingdom and Raekwon)",
-                        "trackLength": "3:22"
+                        "trackLength": "3:22",
+                        "trackUrl": "https://www.youtube.com/watch?v=lLf84LPzlVc" 
                     },
                     {   
                         "trackNumber": 12,
                         "trackTitle": "Take a Chance (feat. Little Dragon)",
-                        "trackLength": "5:28"
+                        "trackLength": "5:28",
+                        "trackUrl": "https://www.youtube.com/watch?v=5IqDR2WjVl8" 
                     },
                     {   
                         "trackNumber": 13,
                         "trackTitle": "Innocence (feat. AlunaGeorge)",
-                        "trackLength": "6:18"
+                        "trackLength": "6:18",
+                        "trackUrl": "https://www.youtube.com/watch?v=juAnFFcMw3I" 
                     },
                     {   
                         "trackNumber": 14,
                         "trackTitle": "Like Water (feat. MNDR)",
-                        "trackLength": "3:13"
+                        "trackLength": "3:13",
+                        "trackUrl": "https://www.youtube.com/watch?v=pQKsIi8W60Y" 
                     },
                     {   
                         "trackNumber": 15,
                         "trackTitle": "Free",
-                        "trackLength": "2:56"
+                        "trackLength": "2:56",
+                        "trackUrl": "https://www.youtube.com/watch?v=Ytgx9aiGHkU" 
                     },
                     {   
                         "trackNumber": 16,
                         "trackTitle": "Tiny Cities (feat. Beck)",
-                        "trackLength": "3:56"
+                        "trackLength": "3:56",
+                        "trackUrl": "https://www.youtube.com/watch?v=p_6In1gr36A" 
                     }
 
                 ]
@@ -523,52 +594,62 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Oath",
-                        "trackLength": "2:26"
+                        "trackLength": "2:26",
+                        "trackUrl": "https://www.youtube.com/watch?v=gYXLiWzRk9A" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Virtual Friends",
-                        "trackLength": "3:47"
+                        "trackLength": "3:47",
+                        "trackUrl": "https://www.youtube.com/watch?v=BPbsu4K63g8" 
                     },
                     {   
                         "trackNumber": 3,
-                        "trackTitle": "Casual Friends",
-                        "trackLength": "3:11"
+                        "trackTitle": "Casual Trouble",
+                        "trackLength": "3:11",
+                        "trackUrl": "https://www.youtube.com/watch?v=kNxoFOhffqU" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "Broken Bricks (feat. Kalulu)",
-                        "trackLength": "3:32"
+                        "trackLength": "3:32",
+                        "trackUrl": "https://www.youtube.com/watch?v=tH6ycVB8TOY" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Komorebi",
-                        "trackLength": "2:32"
+                        "trackLength": "2:32",
+                        "trackUrl": "https://www.youtube.com/watch?v=ACcCVN957nk" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Written Maze (feat. Iris Penning)",
-                        "trackLength": "6:38"
+                        "trackLength": "6:38",
+                        "trackUrl": "https://www.youtube.com/watch?v=YX5CH3VfGyA" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Petrified",
-                        "trackLength": "3:03"
+                        "trackLength": "3:03",
+                        "trackUrl": "https://www.youtube.com/watch?v=Km5I5keTrgE" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "World Full of Snakes (feat. PJOTR V) [Explicit]",
-                        "trackLength": "2:37"
+                        "trackLength": "2:37",
+                        "trackUrl": "https://www.youtube.com/watch?v=45lF2ZpIftA" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "Grind & Hustle",
-                        "trackLength": "2:24"
+                        "trackLength": "2:24",
+                        "trackUrl": "https://www.youtube.com/watch?v=APixAFeYy08" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Push Through",
-                        "trackLength": "3:52"
+                        "trackLength": "3:52",
+                        "trackUrl": "https://www.youtube.com/watch?v=ypLSc3ncYUk" 
                     }
                 ]
             }
@@ -601,77 +682,92 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Filmic",
-                        "trackLength": "3:49"
+                        "trackLength": "3:49",
+                        "trackUrl": "https://www.youtube.com/watch?v=ZGkX8gsMT7c" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Alchemy (feat. Zoë Johnston)",
-                        "trackLength": "5:17"
+                        "trackLength": "5:17",
+                        "trackUrl": "https://www.youtube.com/watch?v=xBeMQ2V3yuk" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Sun & Moon (feat. Richard Belford)",
-                        "trackLength": "5:25"
+                        "trackLength": "5:25",
+                        "trackUrl": "https://www.youtube.com/watch?v=ll5ykbAumD4" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "You Got to Go (feat. Zoë Johnston)",
-                        "trackLength": "5:34"
+                        "trackLength": "5:34",
+                        "trackUrl": "https://www.youtube.com/watch?v=ZfdXbJptvos" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Black Room Boy (feat. Andrew Bayer & Richard Bedford)",
-                        "trackLength": "6:10"
+                        "trackLength": "6:10",
+                        "trackUrl": "https://www.youtube.com/watch?v=bA9vAsg-uI8" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Giving It Out (feat. Zoë Johnston)",
-                        "trackLength": "3:53"
+                        "trackLength": "3:53",
+                        "trackUrl": "https://www.youtube.com/watch?v=jE_rOykdfAs" 
                     },
                     {   
                         "trackNumber": 7,
-                        "trackTitle": "Sun & Moon (feat. Richard Belford)",
-                        "trackLength": "3:53"
+                        "trackTitle": "On The Way To Heaven (feat. Richard Belford)",
+                        "trackLength": "3:53",
+                        "trackUrl": "https://www.youtube.com/watch?v=IYDYjvLOZZw" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Prelude",
-                        "trackLength": "5:44"
+                        "trackLength": "5:44",
+                        "trackUrl": "https://www.youtube.com/watch?v=TyZX0u6pwOc" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "Sun in Your Eyes",
-                        "trackLength": "4:50"
+                        "trackLength": "4:50",
+                        "trackUrl": "https://www.youtube.com/watch?v=Se9yBvqQHxk" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Love Is Not Enough (feat. Zoë Johnston)",
-                        "trackLength": "6:33"
+                        "trackLength": "6:33",
+                        "trackUrl": "https://www.youtube.com/watch?v=EBcMSBsceeg" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "Every Little Beat (feat. Richard Belford)",
-                        "trackLength": "6:00"
+                        "trackLength": "6:00",
+                        "trackUrl": "https://www.youtube.com/watch?v=Zr6phJoaWVU" 
                     },
                     {   
                         "trackNumber": 12,
                         "trackTitle": "Sweetest Heart (feat. Zoë Johnston)",
-                        "trackLength": "3:36"
+                        "trackLength": "3:36",
+                        "trackUrl": "https://www.youtube.com/watch?v=WRIziB_rxu8" 
                     },
                     {   
                         "trackNumber": 13,
                         "trackTitle": "Thing Called Love (feat. Richard Belford)",
-                        "trackLength": "5:29"
+                        "trackLength": "5:29",
+                        "trackUrl": "https://www.youtube.com/watch?v=ZgRnLM9Vi24" 
                     },
                     {   
                         "trackNumber": 14,
                         "trackTitle": "Only A Few Things (feat. Zoë Johnston)",
-                        "trackLength": "5:02"
+                        "trackLength": "5:02",
+                        "trackUrl": "https://www.youtube.com/watch?v=sNQfoFK8feo" 
                     },
                     {   
                         "trackNumber": 15,
                         "trackTitle": "Eternal",
-                        "trackLength": "2:53"
+                        "trackLength": "2:53",
+                        "trackUrl": "https://www.youtube.com/watch?v=JaXK1j7N-Mc" 
                     }
                 ]
             }
@@ -704,62 +800,74 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Divinity (feat. Amy Millan)",
-                        "trackLength": "6:08"
+                        "trackLength": "6:08",
+                        "trackUrl": "https://www.youtube.com/watch?v=si81bIoZRJQ" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Sad Machine",
-                        "trackLength": "5:50"
+                        "trackLength": "5:50",
+                        "trackUrl": "https://www.youtube.com/watch?v=HAIDqt2aUek" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Years of War (feat. Breanne Düren and Sean Caskey)",
-                        "trackLength": "3:56"
+                        "trackLength": "3:56",
+                        "trackUrl": "https://www.youtube.com/watch?v=34thwBLMe4g" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "Flicker",
-                        "trackLength": "4:39"
+                        "trackLength": "4:39",
+                        "trackUrl": "https://www.youtube.com/watch?v=D1sZ_vwqwcE" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Fresh Static Snow",
-                        "trackLength": "5:58"
+                        "trackLength": "5:58",
+                        "trackUrl": "https://www.youtube.com/watch?v=5S21AIWMLbw" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Polygon Dust (feat. Lemaitre)",
-                        "trackLength": "3:29"
+                        "trackLength": "3:29",
+                        "trackUrl": "https://www.youtube.com/watch?v=d1ZhnSNN8UI" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Hear the Bells (feat. Imaginary Cities)",
-                        "trackLength": "4:46"
+                        "trackLength": "4:46",
+                        "trackUrl": "https://www.youtube.com/watch?v=capV8asfWnc" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Natural Light",
-                        "trackLength": "2:21"
+                        "trackLength": "2:21",
+                        "trackUrl": "https://www.youtube.com/watch?v=l2YIZOE2GjQ" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "Lionhearted (feat. Urban Cone)",
-                        "trackLength": "4:24"
+                        "trackLength": "4:24",
+                        "trackUrl": "https://www.youtube.com/watch?v=hgKDu5pp_fU" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Sea of Voices",
-                        "trackLength": "4:59"
+                        "trackLength": "4:59",
+                        "trackUrl": "https://www.youtube.com/watch?v=lSooYPG-5Rg" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "Fellow Feeling",
-                        "trackLength": "5:49"
+                        "trackLength": "5:49",
+                        "trackUrl": "https://www.youtube.com/watch?v=Ardc3nrQMxw" 
                     },
                     {   
                         "trackNumber": 12,
                         "trackTitle": "Goodbye to a World",
-                        "trackLength": "5:28"
+                        "trackLength": "5:28",
+                        "trackUrl": "https://www.youtube.com/watch?v=W2TE0DjdNqI" 
                     }
                 ]
             }
@@ -792,57 +900,68 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Til the End",
-                        "trackLength": "3:36"
+                        "trackLength": "3:36",
+                        "trackUrl": "https://www.youtube.com/watch?v=FsjGpg6MRCg" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Away (feat. Gioto)",
-                        "trackLength": "4:19"
+                        "trackLength": "4:19",
+                        "trackUrl": "https://www.youtube.com/watch?v=yHGQH-k1hOQ" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Moments (feat. Adara)",
-                        "trackLength": "4:38"
+                        "trackLength": "4:38",
+                        "trackUrl": "https://www.youtube.com/watch?v=R19uQyfwqhg" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "By My Side (feat. Tedy)",
-                        "trackLength": "3:10"
+                        "trackLength": "3:10",
+                        "trackUrl": "https://www.youtube.com/watch?v=0YdNrot0_oU" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Reconnect (feat. MaHi)",
-                        "trackLength": "4:06"
+                        "trackLength": "4:06",
+                        "trackUrl": "https://www.youtube.com/watch?v=Fkt3M9WkN24" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Your Revolution (Interlude)",
-                        "trackLength": "2:40"
+                        "trackLength": "2:40",
+                        "trackUrl": "https://www.youtube.com/watch?v=-lbBN7QmoX8" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Forests (feat. Lauren Hunter)",
-                        "trackLength": "3:36"
+                        "trackLength": "3:36",
+                        "trackUrl": "https://www.youtube.com/watch?v=KhJQHOcoK7E" 
                     },
                     {   
                         "trackNumber": 8,
-                        "trackTitle": "For Miles & Miles (feat. PartyNails)",
-                        "trackLength": "3:55"
+                        "trackTitle": "For Miles & Niles (feat. PartyNails)",
+                        "trackLength": "3:55",
+                        "trackUrl": "https://www.youtube.com/watch?v=HhCn427Q2oE" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "We Collide",
-                        "trackLength": "4:33"
+                        "trackLength": "4:33",
+                        "trackUrl": "https://www.youtube.com/watch?v=MxHPXWitHSs" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Embers (feat. PRXZM & SubLion)",
-                        "trackLength": "4:12"
+                        "trackLength": "4:12",
+                        "trackUrl": "https://www.youtube.com/watch?v=o6YRkEOLGng" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "Dreams (Outro)",
-                        "trackLength": "2:57"
+                        "trackLength": "2:57",
+                        "trackUrl": "https://www.youtube.com/watch?v=OQdumHWSgt4" 
                     }
                 ]
             }
@@ -875,67 +994,80 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Always This Late",
-                        "trackLength": "2:40"
+                        "trackLength": "2:40",
+                        "trackUrl": "https://www.youtube.com/watch?v=c8-QPnnM7j8" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Say My Name (feat. Zyra)",
-                        "trackLength": "4:22"
+                        "trackLength": "4:22",
+                        "trackUrl": "https://www.youtube.com/watch?v=HdzI-191xhU" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Bloom",
-                        "trackLength": "3:15"
+                        "trackLength": "3:15",
+                        "trackUrl": "https://www.youtube.com/watch?v=wuC1fHTnuJs" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "All We Need (feat. Shy Girls)",
-                        "trackLength": "3:31"
+                        "trackLength": "3:31",
+                        "trackUrl": "https://www.youtube.com/watch?v=Oi4Cf6lkDr4" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Sundara",
-                        "trackLength": "2:16"
+                        "trackLength": "2:16",
+                        "trackUrl": "https://www.youtube.com/watch?v=oL4KJmMGda8" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "White Lies (feat. Jenni Potts)",
-                        "trackLength": "4:37"
+                        "trackLength": "4:37",
+                        "trackUrl": "https://www.youtube.com/watch?v=ypX5RiWRPIQ" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Kusanagi",
-                        "trackLength": "3:28"
+                        "trackLength": "3:28",
+                        "trackUrl": "https://www.youtube.com/watch?v=I2mK-Ql9r1Y" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Echoes (feat. Py)",
-                        "trackLength": "4:23"
+                        "trackLength": "4:23",
+                        "trackUrl": "https://www.youtube.com/watch?v=jZYck6Tq9cw" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "It's Only (feat. Zyra)",
-                        "trackLength": "4:28"
+                        "trackLength": "4:28",
+                        "trackUrl": "https://www.youtube.com/watch?v=wPqTCrm61-I" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Koto",
-                        "trackLength": "3:14"
+                        "trackLength": "3:14",
+                        "trackUrl": "https://www.youtube.com/watch?v=Km-0kHxa7jg" 
                     },
                     {   
                         "trackNumber": 11,
                         "trackTitle": "Memories That You Call (feat. Monsoonsiren)",
-                        "trackLength": "4:08"
+                        "trackLength": "4:08",
+                        "trackUrl": "https://www.youtube.com/watch?v=sRddl5qdzqE" 
                     },
                     {   
                         "trackNumber": 12,
                         "trackTitle": "Sun Models (feat. Madelyn Grant)",
-                        "trackLength": "2:40"
+                        "trackLength": "2:40",
+                        "trackUrl": "https://www.youtube.com/watch?v=cwLRN5sdfnA" 
                     },
                     {   
                         "trackNumber": 13,
                         "trackTitle": "For Us (feat. Briana Marela)",
-                        "trackLength": "5:49"
+                        "trackLength": "5:49",
+                        "trackUrl": "https://www.youtube.com/watch?v=np-MguHafE0" 
                     }
                 ]
             }
@@ -968,52 +1100,62 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Turn Up (feat. Wiley & Trina)",
-                        "trackLength": "3:19"
+                        "trackLength": "3:19",
+                        "trackUrl": "https://www.youtube.com/watch?v=tnb1duhPoFU" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Looking For You (feat. Negin Djafari)",
-                        "trackLength": "2:45"
+                        "trackLength": "2:45",
+                        "trackUrl": "https://www.youtube.com/watch?v=4RggPkLjAkA" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Hurricane Slurricane(feat. Dâm-Funk & E-40)",
-                        "trackLength": "2:56"
+                        "trackLength": "2:56",
+                        "trackUrl": "https://www.youtube.com/watch?v=kOABXygq4t8" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "Saved",
-                        "trackLength": "2:46"
+                        "trackLength": "2:46",
+                        "trackUrl": "https://www.youtube.com/watch?v=2bIrgrP6EQw&pbjreload=10" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Replay It (feat. D.A.)",
-                        "trackLength": "3:38"
+                        "trackLength": "3:38",
+                        "trackUrl": "https://www.youtube.com/watch?v=fozbSdgxl9s" 
                     },
                     {   
                         "trackNumber": 6,
                         "trackTitle": "Unholy (feat. Bobby Saint)",
-                        "trackLength": "3:28"
+                        "trackLength": "3:28",
+                        "trackUrl": "https://www.youtube.com/watch?v=wcpy_3LAlgc" 
                     },
                     {   
                         "trackNumber": 7,
                         "trackTitle": "Y.W.M.O. (feat. Gene Noble)",
-                        "trackLength": "3:10"
+                        "trackLength": "3:10",
+                        "trackUrl": "https://www.youtube.com/watch?v=wqXEeWSEHO0" 
                     },
                     {   
                         "trackNumber": 8,
                         "trackTitle": "Faded (feat. Marc Griffin)",
-                        "trackLength": "3:51"
+                        "trackLength": "3:51",
+                        "trackUrl": "https://www.youtube.com/watch?v=tokjU19a2ow" 
                     },
                     {   
                         "trackNumber": 9,
                         "trackTitle": "Feel Right (feat. JHart)",
-                        "trackLength": "3:15"
+                        "trackLength": "3:15",
+                        "trackUrl": "https://www.youtube.com/watch?v=2-8zfvAV1vE" 
                     },
                     {   
                         "trackNumber": 10,
                         "trackTitle": "Up in Smoke (feat. A-Trak & Sirah)",
-                        "trackLength": "3:54"
+                        "trackLength": "3:54",
+                        "trackUrl": "https://www.youtube.com/watch?v=3s4E6GQHE5Q" 
                     }
                 ]
             }
@@ -1046,27 +1188,32 @@
                     {   
                         "trackNumber": 1,
                         "trackTitle": "Don't Leave (feat. Ellie Goulding)",
-                        "trackLength": "6:02"
+                        "trackLength": "6:02",
+                        "trackUrl": "https://www.youtube.com/watch?v=Cux4k-hQ81E" 
                     },
                     {   
                         "trackNumber": 2,
                         "trackTitle": "Worlds Apart (feat. Kerli)",
-                        "trackLength": "6:16"
+                        "trackLength": "6:16",
+                        "trackUrl": "https://www.youtube.com/watch?v=beM2Bf3sDDY" 
                     },
                     {   
                         "trackNumber": 3,
                         "trackTitle": "Nepenthe",
-                        "trackLength": "5:16"
+                        "trackLength": "5:16",
+                        "trackUrl": "https://www.youtube.com/watch?v=dsmDSSB9b50" 
                     },
                     {   
                         "trackNumber": 4,
                         "trackTitle": "Strangers (feat. Myon & Shane 54 & Tove Lo)",
-                        "trackLength": "3:24"
+                        "trackLength": "3:24",
+                        "trackUrl": "https://www.youtube.com/watch?v=fthOxQ0rAds" 
                     },
                     {   
                         "trackNumber": 5,
                         "trackTitle": "Keep It Close (feat. Kerli)",
-                        "trackLength": "5:12"
+                        "trackLength": "5:12",
+                        "trackUrl": "https://www.youtube.com/watch?v=BdgzyOYtnvQ" 
                     }
                 ]
             }
@@ -1099,57 +1246,68 @@
                         {   
                             "trackNumber": 1,
                             "trackTitle": "Pilot Light",
-                            "trackLength": "4:07"
+                            "trackLength": "4:07",
+                            "trackUrl": "https://www.youtube.com/watch?v=1a41CeAEvig" 
                         },
                         {   
                             "trackNumber": 2,
                             "trackTitle": "Stupid World (feat. Bibi Bourelly)",
-                            "trackLength": "3:35"
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=nVaMjQndUZk" 
                         },
                         {   
                             "trackNumber": 3,
                             "trackTitle": "Swerve (feat. Wes Period)",
-                            "trackLength": "3:08"
+                            "trackLength": "3:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=f9xHkqGHZb0" 
                         },
                         {   
                             "trackNumber": 4,
                             "trackTitle": "Northern Lights (feat. Soaky Siren and Vory)",
-                            "trackLength": "3:16"
+                            "trackLength": "3:16",
+                            "trackUrl": "https://www.youtube.com/watch?v=QVNk6yd80rE" 
                         },
                         {   
                             "trackNumber": 5,
                             "trackTitle": "Phew (feat. Bibi Bourelly)",
-                            "trackLength": "3:19"
+                            "trackLength": "3:19",
+                            "trackUrl": "https://www.youtube.com/watch?v=sltHARmHjM0" 
                         },
                         {   
                             "trackNumber": 6,
                             "trackTitle": "Dusk Till Dawn (feat. Vic Mensa)",
-                            "trackLength": "3:32"
+                            "trackLength": "3:32",
+                            "trackUrl": "https://www.youtube.com/watch?v=Px-zVO6J8PY" 
                         },
                         {   
                             "trackNumber": 7,
                             "trackTitle": "Balafono",
-                            "trackLength": "3:23"
+                            "trackLength": "3:23",
+                            "trackUrl": "https://www.youtube.com/watch?v=Su2cxCSprfo" 
                         },
                         {   
                             "trackNumber": 8,
                             "trackTitle": "OneFourThree (feat. BJ The Chicago Kid & Buddy)",
-                            "trackLength": "3:47"
+                            "trackLength": "3:47",
+                            "trackUrl": "https://www.youtube.com/watch?v=v-7thL5JBWc" 
                         },
                         {   
                             "trackNumber": 9,
                             "trackTitle": "Let It Burn (feat. Haiku Hands)",
-                            "trackLength": "3:07"
+                            "trackLength": "3:07",
+                            "trackUrl": "https://www.youtube.com/watch?v=THV2gNC4R70" 
                         },
                         {   
                             "trackNumber": 10,
                             "trackTitle": "Every Day (feat. Hoodlum)",
-                            "trackLength": "3:24"
+                            "trackLength": "3:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=XRrNCvCh_ig" 
                         },
                         {   
                             "trackNumber": 11,
                             "trackTitle": "Glorious (feat. Electric Fields)",
-                            "trackLength": "4:29"
+                            "trackLength": "4:29",
+                            "trackUrl": "https://www.youtube.com/watch?v=uyi15yKA2_E" 
                         }
                     ]
                 }
@@ -1182,27 +1340,32 @@
                         {   
                             "trackNumber": 1,
                             "trackTitle": "Let's Fly Away Together (feat. LUNA MAY)",
-                            "trackLength": "3:37"
+                            "trackLength": "3:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=prRUfy4Vjow" 
                         },
                         {   
                             "trackNumber": 2,
                             "trackTitle": "Slippin' (feat. CUT_)",
-                            "trackLength": "3:05"
+                            "trackLength": "3:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=rDQfTACArh0" 
                         },
                         {   
                             "trackNumber": 3,
                             "trackTitle": "I'll Be Gone",
-                            "trackLength": "2:45"
+                            "trackLength": "2:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=DhMhL1tLk4Y" 
                         },
                         {   
                             "trackNumber": 4,
                             "trackTitle": "Skin In The Game",
-                            "trackLength": "2:39"
+                            "trackLength": "2:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=8WW3FC-CJi0" 
                         },
                         {   
                             "trackNumber": 5,
                             "trackTitle": "Playing With Fire",
-                            "trackLength": "4:28"
+                            "trackLength": "4:28",
+                            "trackUrl": "https://www.youtube.com/watch?v=WPY7BneYyvw" 
                         }
                     ]
                 }
@@ -1235,67 +1398,80 @@
                         {   
                             "trackNumber": 1,
                             "trackTitle": "Color of My Soul",
-                            "trackLength": "6:08"
+                            "trackLength": "6:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=4a1_GVRtme0" 
                         },
                         {   
                             "trackNumber": 2,
                             "trackTitle": "Press Pause",
-                            "trackLength": "4:49"
+                            "trackLength": "4:49",
+                            "trackUrl": "https://www.youtube.com/watch?v=Pc78OFnITKg" 
                         },
                         {   
                             "trackNumber": 3,
                             "trackTitle": "Let's Get Busy",
-                            "trackLength": "3:52"
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=lgUMDG7Y3IU" 
                         },
                         {   
                             "trackNumber": 4,
                             "trackTitle": "Around the Block (feat. Talib Kweli)",
-                            "trackLength": "4:13"
+                            "trackLength": "4:13",
+                            "trackUrl": "https://www.youtube.com/watch?v=_RlcrCRSY4Y" 
                         },
                         {   
                             "trackNumber": 5,
                             "trackTitle": "Yellow Bird",
-                            "trackLength": "5:40"
+                            "trackLength": "5:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=SFH2Xou9ZPI" 
                         },
                         {   
                             "trackNumber": 6,
                             "trackTitle": "Go Down Sunshine",
-                            "trackLength": "5:05"
+                            "trackLength": "5:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=MEAUhW15pcA" 
                         },
                         {   
                             "trackNumber": 7,
                             "trackTitle": "So Bright (feat. Eligh)",
-                            "trackLength": "5:51"
+                            "trackLength": "5:51",
+                            "trackUrl": "https://www.youtube.com/watch?v=Gcjw0c4RGL0" 
                         },
                         {   
                             "trackNumber": 8,
                             "trackTitle": "Vibe Vendetta",
-                            "trackLength": "5:24"
+                            "trackLength": "5:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=_pz7Rv9KghA" 
                         },
                         {   
                             "trackNumber": 9,
                             "trackTitle": "Done Wrong",
-                            "trackLength": "6:35"
+                            "trackLength": "6:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=PNxNa_5L2TU" 
                         },
                         {   
                             "trackNumber": 10,
                             "trackTitle": "Prophet",
-                            "trackLength": "5:56"
+                            "trackLength": "5:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=nDRzmmkbwmE" 
                         },
                         {   
                             "trackNumber": 11,
                             "trackTitle": "One Day They'll Know",
-                            "trackLength": "6:59"
+                            "trackLength": "6:59",
+                            "trackUrl": "https://www.youtube.com/watch?v=7xUsUkzmnL4" 
                         },
                         {   
                             "trackNumber": 12,
                             "trackTitle": "Always All Ways",
-                            "trackLength": "5:32"
+                            "trackLength": "5:32",
+                            "trackUrl": "https://www.youtube.com/watch?v=-moXLrfm_SQ" 
                         },
                         {   
                             "trackNumber": 13,
                             "trackTitle": "My Only Hope",
-                            "trackLength": "4:52"
+                            "trackLength": "4:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=iDR6FGmV2Eo" 
                         }
                     ]
                 }
@@ -1328,22 +1504,26 @@
                         {   
                             "trackNumber": 1,
                             "trackTitle": "By Your Side",
-                            "trackLength": "3:35"
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=Fnje-gkF8hI" 
                         },
                         {   
                             "trackNumber": 2,
                             "trackTitle": "Alliance",
-                            "trackLength": "2:33"
+                            "trackLength": "2:33",
+                            "trackUrl": "https://www.youtube.com/watch?v=dIQOSzLJ8QI" 
                         },
                         {   
                             "trackNumber": 3,
                             "trackTitle": "Need To Know",
-                            "trackLength": "4:12"
+                            "trackLength": "4:12",
+                            "trackUrl": "https://www.youtube.com/watch?v=p3mP_7YIGeU" 
                         },
                         {   
                             "trackNumber": 4,
                             "trackTitle": "Tell Me",
-                            "trackLength": "3:20"
+                            "trackLength": "3:20",
+                            "trackUrl": "https://www.youtube.com/watch?v=LGOh8ekWN_o" 
                         }
                     ]
                 }
@@ -1376,47 +1556,56 @@
                         {   
                             "trackNumber": 1,
                             "trackTitle": "Love Again (feat. WAVZ)",
-                            "trackLength": "4:55"
+                            "trackLength": "4:55",
+                            "trackUrl": "https://www.youtube.com/watch?v=bPJEykXiJgk" 
                         },
                         {   
                             "trackNumber": 2,
                             "trackTitle": "Dead",
-                            "trackLength": "3:20"
+                            "trackLength": "3:20",
+                            "trackUrl": "https://www.youtube.com/watch?v=rLScSxErB7E" 
                         },
                         {   
                             "trackNumber": 3,
                             "trackTitle": "Dead (NGHTMARE Remix)",
-                            "trackLength": "3:05"
+                            "trackLength": "3:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=_4o5LDsCEco" 
                         },
                         {   
                             "trackNumber": 4,
                             "trackTitle": "Dead (SAYMYNAME Remix)",
-                            "trackLength": "2:33"
+                            "trackLength": "2:33",
+                            "trackUrl": "https://www.youtube.com/watch?v=rPKC-Ue7Lic" 
                         },
                         {   
                             "trackNumber": 5,
                             "trackTitle": "Dead (YOOKIE Remix)",
-                            "trackLength": "2:52"
+                            "trackLength": "2:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=mJFgirNIllI" 
                         },
                         {   
                             "trackNumber": 6,
                             "trackTitle": "Dead (KLAXX Remix)",
-                            "trackLength": "3:31"
+                            "trackLength": "3:31",
+                            "trackUrl": "https://www.youtube.com/watch?v=Sgq4VPIKvDI" 
                         },
                         {   
                             "trackNumber": 7,
                             "trackTitle": "Love Again (feat. WAVZ) [AdamK Remix]",
-                            "trackLength": "3:26"
+                            "trackLength": "3:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=VGaqGpVpLMc" 
                         },
                         {   
                             "trackNumber": 8,
                             "trackTitle": "Love Again (feat. WAVZ) [Palranoid Remix]",
-                            "trackLength": "4:32"
+                            "trackLength": "4:32",
+                            "trackUrl": "https://www.youtube.com/watch?v=MnKuXf06rfc" 
                         },
                         {   
                             "trackNumber": 9,
                             "trackTitle": "Love Again (feat. WAVZ) [WAVZ Remix]",
-                            "trackLength": "3:31"
+                            "trackLength": "3:31",
+                            "trackUrl": "https://www.youtube.com/watch?v=wsdbezk6-AM" 
                         }
                     ]
                 }
@@ -1449,57 +1638,62 @@
                         {   
                             "trackNumber": 1,
                             "trackTitle": "Hourglass (feat. Liz)",
-                            "trackLength": "5:13"
+                            "trackLength": "5:13",
+                            "trackUrl": "https://www.youtube.com/watch?v=SKJJlNRrboI" 
                         },
                         {   
                             "trackNumber": 2,
                             "trackTitle": "Shave It",
-                            "trackLength": "3:10"
+                            "trackLength": "3:10",
+                            "trackUrl": "https://www.youtube.com/watch?v=s8Qa2t71aFE" 
                         },
                         {   
                             "trackNumber": 3,
                             "trackTitle": "Spectrum (feat. Matthew Koma)",
-                            "trackLength": "4:03"
+                            "trackLength": "4:03",
+                            "trackUrl": "https://www.youtube.com/watch?v=HfbKF_Jcbhk" 
                         },
                         {   
                             "trackNumber": 4,
                             "trackTitle": "Lost at Sea (feat. Ryan Tedder)",
-                            "trackLength": "3:45"
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=O7S21zudhtY" 
                         },
                         {   
                             "trackNumber": 5,
                             "trackTitle": "Clarity (feat. Foxes)",
-                            "trackLength": "3:45"
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=IxxstCcJlsc" 
                         },
                         {   
                             "trackNumber": 6,
                             "trackTitle": "Codec",
-                            "trackLength": "6:01"
+                            "trackLength": "6:01",
+                            "trackUrl": "https://www.youtube.com/watch?v=e9sObZ7ejrI" 
                         },
                         {   
                             "trackNumber": 7,
                             "trackTitle": "Stache",
-                            "trackLength": "4:04"
+                            "trackLength": "4:04",
+                            "trackUrl": "https://www.youtube.com/watch?v=lw97SWRo70I" 
                         },
                         {   
                             "trackNumber": 8,
-                            "trackTitle": "Vibe Vendetta",
-                            "trackLength": "5:24"
+                            "trackTitle": "Fall Into the Sky (feat. Lucky Date & Ellie Goulding)",
+                            "trackLength": "3:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=gmF07cPqGKQ" 
                         },
                         {   
                             "trackNumber": 9,
-                            "trackTitle": "Fall Into the Sky (feat. Lucky Date & Ellie Goulding)",
-                            "trackLength": "3:37"
+                            "trackTitle": "Follow You Down (feat. Bright Lights)",
+                            "trackLength": "5:47",
+                            "trackUrl": "https://www.youtube.com/watch?v=-_0ReVR_2oU" 
                         },
                         {   
                             "trackNumber": 10,
-                            "trackTitle": "Follow You Down (feat. Bright Lights)",
-                            "trackLength": "5:47"
-                        },
-                        {   
-                            "trackNumber": 11,
                             "trackTitle": "Epos",
-                            "trackLength": "5:36"
+                            "trackLength": "5:36",
+                            "trackUrl": "https://www.youtube.com/watch?v=rqqkbCmhIKA" 
                         }
                     ]
                 }
