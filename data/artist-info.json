@@ -1969,7 +1969,7 @@
             "id": 23,
             "name": "Sj",
             "homecountry": "USA",
-            "genre": "Electronica, Future Bass",
+            "genre": "Electronica, Electro",
             "url": "http://www.sethjon.es/",
             "twitterUrl": "https://twitter.com/hereissj",
             "facebookUrl": "https://www.facebook.com/hereisSj/",
@@ -2026,6 +2026,120 @@
                             "trackLength": "4:01",
                             "trackUrl": "https://www.youtube.com/watch?v=vNPYeuvv84k" 
                         }
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 24,
+            "name": "Kaskade",
+            "homecountry": "USA",
+            "genre": "Electro, Progressive House",
+            "url": "http://www.kaskademusic.com/",
+            "twitterUrl": "https://twitter.com/kaskade",
+            "facebookUrl": "https://www.facebook.com/kaskade",
+            "instagramUrl": "https://www.instagram.com/kaskade/",
+            "spotifyUrl": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1",
+            "appleMusicUrl": "https://music.apple.com/us/artist/kaskade/2827464",
+            "soundcloudUrl": "https://soundcloud.com/kaskade",
+            "youtubeUrl": "https://www.youtube.com/channel/UCSw6mt6ounKWBFoHby719sw",
+            "curatedTrack": "With You (feat. Meghan Trainor)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=8guZoHXUFnQ",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Kaskade",
+                    "title": "Automatic",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/02NhNhhyNfv5OdlJw4jUpj",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/automatic/1029738562",    
+                    "releaseYear": 2015,
+                    "trackCount": 14,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "We Don't Stop",
+                            "trackLength": "4:16",
+                            "trackUrl": "https://www.youtube.com/watch?v=R0WYf4LlYSU" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Us (feat. CID)",
+                            "trackLength": "3:15",
+                            "trackUrl": "https://www.youtube.com/watch?v=5J6hxKcYdXg" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Mercy (feat. Galantis)",
+                            "trackLength": "4:03",
+                            "trackUrl": "https://www.youtube.com/watch?v=EsI8uTU7moQ" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Tear Down These Walls (feat. Tamra Keenan)",
+                            "trackLength": "4:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=bsnait5POP8" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Phoenix (feat. Sasha Sloan)",
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=6ngqXZ22Cds" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Disarm You (feat. Ilsey)",
+                            "trackLength": "3:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=ILK0RcnKp3M" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Never Sleep Alone (feat. Tess Comrie)",
+                            "trackLength": "3:44",
+                            "trackUrl": "https://www.youtube.com/watch?v=66vdaLrxN8s" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Day Trippin' (feat. Estelle)",
+                            "trackLength": "3:12",
+                            "trackUrl": "https://www.youtube.com/watch?v=us5zHdRXumY" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Promise (feat. K. Flay)",
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=w5eQkhLxKX8" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Breaking Up (feat. Scott Shepard)",
+                            "trackLength": "4:46",
+                            "trackUrl": "https://www.youtube.com/watch?v=nMxAe7ZFEoI" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "A Little More (feat. John Dahlbäck & Sansa)",
+                            "trackLength": "3:53",
+                            "trackUrl": "https://www.youtube.com/watch?v=h7w4sUNw6tI" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Papercuts (feat. Two Nations)",
+                            "trackLength": "3:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=h2AFvdn-A58" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Where Are You Now (feat. Tamra Keenan)",
+                            "trackLength": "3:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=CGQ_WQULcT8" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Whatever (feat. KOLAJ)",
+                            "trackLength": "4:03",
+                            "trackUrl": "https://www.youtube.com/watch?v=6WsygLeh5pM" 
+                        }
+
                     ]
                 }
                 ]
