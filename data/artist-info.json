@@ -1511,35 +1511,41 @@
                 {
                     "id": 1,
                     "artist": "KRATER",
-                    "title": "Alliance EP",
-                    "albumSpotifyUrl": "https://open.spotify.com/album/5nOXq5PIZadfKLb5pvrYlj",
-                    "albumAppleMusicUrl": "https://music.apple.com/us/album/alliance-ep/1253506442",    
-                    "releaseYear": 2017,
-                    "trackCount": 4,
+                    "title": "Skysensor EP",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/1wYzMWRavsEIwhtmaqLP8j",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/skysensor-ep/1458616441",    
+                    "releaseYear": 2019,
+                    "trackCount": 5,
                     "tracks": [
                         {   
                             "trackNumber": 1,
-                            "trackTitle": "By Your Side",
-                            "trackLength": "3:35",
-                            "trackUrl": "https://www.youtube.com/watch?v=Fnje-gkF8hI" 
+                            "trackTitle": "Horizon",
+                            "trackLength": "3:19",
+                            "trackUrl": "https://www.youtube.com/watch?v=Hyslsq6svMo" 
                         },
                         {   
                             "trackNumber": 2,
-                            "trackTitle": "Alliance",
-                            "trackLength": "2:33",
-                            "trackUrl": "https://www.youtube.com/watch?v=dIQOSzLJ8QI" 
+                            "trackTitle": "Formations",
+                            "trackLength": "3:33",
+                            "trackUrl": "https://www.youtube.com/watch?v=0SPP7-sospc" 
                         },
                         {   
                             "trackNumber": 3,
-                            "trackTitle": "Need To Know",
-                            "trackLength": "4:12",
-                            "trackUrl": "https://www.youtube.com/watch?v=p3mP_7YIGeU" 
+                            "trackTitle": "Skysensor",
+                            "trackLength": "3:25",
+                            "trackUrl": "https://www.youtube.com/watch?v=YHbSe4xcpVc" 
                         },
                         {   
                             "trackNumber": 4,
-                            "trackTitle": "Tell Me",
-                            "trackLength": "3:20",
-                            "trackUrl": "https://www.youtube.com/watch?v=LGOh8ekWN_o" 
+                            "trackTitle": "Bright Lights",
+                            "trackLength": "3:33",
+                            "trackUrl": "https://www.youtube.com/watch?v=Qg8IKswImik" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Isolate",
+                            "trackLength": "4:04",
+                            "trackUrl": "https://www.youtube.com/watch?v=pJnUX7T3-ZE" 
                         }
                     ]
                 }
