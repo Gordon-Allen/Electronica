@@ -1964,6 +1964,71 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 23,
+            "name": "Sj",
+            "homecountry": "USA",
+            "genre": "Electronica, Future Bass",
+            "url": "http://www.sethjon.es/",
+            "twitterUrl": "https://twitter.com/hereissj",
+            "facebookUrl": "https://www.facebook.com/hereisSj/",
+            "instagramUrl": "https://www.instagram.com/hereissj/",
+            "spotifyUrl": "https://open.spotify.com/artist/3kBTda7vNOOAA2Tu5uD13Y",
+            "appleMusicUrl": "https://music.apple.com/us/artist/sj/1308635330",
+            "soundcloudUrl": "https://soundcloud.com/hereissj",
+            "youtubeUrl": "https://www.youtube.com/user/EnhancedRecordings/search?query=sj",
+            "curatedTrack": "Flicker",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=vNPYeuvv84k",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Sj",
+                    "title": "Calabasas",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/7v5aC2tZImvd8TFPbYQn36",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/calabasas-ep/1377619629",    
+                    "releaseYear": 2018,
+                    "trackCount": 6,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "If We Could Stay High (feat. Chelsea Lankes)",
+                            "trackLength": "3:42",
+                            "trackUrl": "https://www.youtube.com/watch?v=wfZkXpI1gC8" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Calabasas (feat. Tritonal & Tima Dee)",
+                            "trackLength": "3:44",
+                            "trackUrl": "https://www.youtube.com/watch?v=hFFYQ2z_1aE" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Hung Up (feat. Tritonal & Emma Gatsby)",
+                            "trackLength": "3:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=BAvv5fg7SkQ" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Void (feat. Zookëper & Emmalyn)",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=383orKDm7I4" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Reflection",
+                            "trackLength": "3:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=gz6aoCVsKqA" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Flicker",
+                            "trackLength": "4:01",
+                            "trackUrl": "https://www.youtube.com/watch?v=vNPYeuvv84k" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
