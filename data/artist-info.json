@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Daft Punk",
-            "hometown": "Paris, France",
+            "homecountry": "France",
             "genre": "House, Electronica",
             "url": "http://daftpunk.com/",
             "twitterUrl": "https://twitter.com/daftpunk_music",
@@ -110,7 +110,7 @@
         {
             "id": 2,
             "name": "Adventure Club",
-            "hometown": "Montreal, Quebec",
+            "homecountry": "Quebec",
             "genre": "Melodic, Dubstep",
             "url": "https://weareadventureclub.com/",
             "twitterUrl": "https://twitter.com/AdventureDub?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -211,7 +211,7 @@
         {
             "id": 3,
             "name": "Tiësto",
-            "hometown": "Breda, Netherlands",
+            "homecountry": "Netherlands",
             "genre": "House, Progressive House",
             "url": "https://www.tiesto.com/",
             "twitterUrl": "https://twitter.com/tiesto?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -342,7 +342,7 @@
         {
             "id": 4,
             "name": "DeadMau5",
-            "hometown": "Montreal, Quebec",
+            "homecountry": "Quebec",
             "genre": "Electro House, Techno",
             "url": "http://www.deadmau5.com/",
             "twitterUrl": "https://twitter.com/deadmau5?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -449,7 +449,7 @@
         {
             "id": 5,
             "name": "Flume",
-            "hometown": "Sydney, Australia",
+            "homecountry": "Australia",
             "genre": "Electronica, Future Bass",
             "url": "https://flumemusic.com/",
             "twitterUrl": "https://twitter.com/flumemusic?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -575,7 +575,7 @@
         {
             "id": 6,
             "name": "DROELOE",
-            "hometown": "unknown, Netherlands",
+            "homecountry": "Netherlands",
             "genre": "Melodic, Future Bass",
             "url": "https://droeloe.com/",
             "twitterUrl": "https://twitter.com/DROELOEMUSIC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -664,7 +664,7 @@
         {
             "id": 7,
             "name": "Above & Beyond",
-            "hometown": "London, UK",
+            "homecountry": "United Kingdom",
             "genre": "Trance, Progressive House",
             "url": "https://www.aboveandbeyond.nu/",
             "twitterUrl": "https://twitter.com/aboveandbeyond?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -783,7 +783,7 @@
         {
             "id": 8,
             "name": "Poter Robinson",
-            "hometown": "Chapel Hill, NC",
+            "homecountry": "USA",
             "genre": "Electronica, Techno",
             "url": "http://porterrobinson.com/",
             "twitterUrl": "https://twitter.com/porterrobinson",
@@ -884,7 +884,7 @@
         {
             "id": 9,
             "name": "MitiS",
-            "hometown": "West Chester, PA",
+            "homecountry": "USA",
             "genre": "Melodic Bass, Heaven Trap",
             "url": "https://www.facebook.com/Mitismusic/",
             "twitterUrl": "https://twitter.com/MitisOfficial?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -979,7 +979,7 @@
         {
             "id": 10,
             "name": "ODESZA",
-            "hometown": "Bellingham, WA",
+            "homecountry": "USA",
             "genre": "Indietronica, Future Bass",
             "url": "https://odesza.com/",
             "twitterUrl": "https://twitter.com/odesza",
@@ -1086,7 +1086,7 @@
         {
             "id": 11,
             "name": "Wolfgang Gartner",
-            "hometown": "San Luis Obispo, CA",
+            "homecountry": "USA",
             "genre": "House, Electro House",
             "url": "http://www.wolfganggartner.com/",
             "twitterUrl": "https://twitter.com/wolfganggartner",
@@ -1175,7 +1175,7 @@
         {
             "id": 12,
             "name": "Seven Lions",
-            "hometown": "Santa Barbara, CA",
+            "homecountry": "USA",
             "genre": "House, Melodic Bass",
             "url": "https://sevenlions.com/",
             "twitterUrl": "https://twitter.com/SevenLionsMusic?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -1234,7 +1234,7 @@
         {
             "id": 13,
             "name": "Hermitude",
-            "hometown": "unknown, Australia",
+            "homecountry": "Australia",
             "genre": "Electronic, Trap",
             "url": "https://www.hermitude.com/",
             "twitterUrl": "https://twitter.com/hermitudemusic?lang=en",
@@ -1329,7 +1329,7 @@
             {
             "id": 14,
             "name": "GANZ",
-            "hometown": "unknown, Netherlands",
+            "homecountry": "Netherlands",
             "genre": "Trap, Future Bass",
             "url": "https://iamganz.com/",
             "twitterUrl": "https://twitter.com/ganzgvnz",
@@ -1388,7 +1388,7 @@
             {
             "id": 15,
             "name": "Pretty Lights",
-            "hometown": "Fort Collins, CO",
+            "homecountry": "USA",
             "genre": "Electronic, Hip-Hop, Soul",
             "url": "http://prettylightsmusic.com",
             "twitterUrl": "https://twitter.com/prettylights",
@@ -1495,7 +1495,7 @@
             {
             "id": 16,
             "name": "KRATER",
-            "hometown": "Sweden",
+            "homecountry": "Sweden",
             "genre": "Future Bass, Trance-Fusion",
             "url": "https://soundcloud.com/kraterbeats",
             "twitterUrl": "https://twitter.com/kraterbeats",
@@ -1548,7 +1548,7 @@
             {
             "id": 17,
             "name": "SLANDER",
-            "hometown": "Los Angeles, CA",
+            "homecountry": "USA",
             "genre": "Future Bass, Trap",
             "url": "http://www.slanderofficial.com/the-eye-tour",
             "twitterUrl": "https://twitter.com/SlanderOfficial?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -1631,7 +1631,7 @@
             {
             "id": 18,
             "name": "Zedd",
-            "hometown": "Germany",
+            "homecountry": "Germany",
             "genre": "House, Electronica",
             "url": "http://zedd.net/",
             "twitterUrl": "https://twitter.com/Zedd?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -1720,7 +1720,7 @@
             {
             "id": 19,
             "name": "Juventa",
-            "hometown": "Netherlands",
+            "homecountry": "Netherlands",
             "genre": "Electronica, Trance",
             "url": "https://www.beatport.com/artist/juventa/126176",
             "twitterUrl": "https://twitter.com/juventamusic",
@@ -1771,6 +1771,107 @@
                             "trackTitle": "Miami Waves",
                             "trackLength": "3:45",
                             "trackUrl": "https://www.youtube.com/watch?v=KeKQXTQMnH4" 
+                        }
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 20,
+            "name": "Illenium",
+            "homecountry": "USA",
+            "genre": "Future Bass, Trap",
+            "url": "https://illenium.com",
+            "twitterUrl": "https://twitter.com/ILLENIUMMUSIC",
+            "facebookUrl": "https://www.facebook.com/ILLENIUM/",
+            "instagramUrl": "https://www.instagram.com/ILLENIUMMUSIC/",
+            "spotifyUrl": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg",
+            "appleMusicUrl": "https://music.apple.com/us/artist/illenium/645420096",
+            "soundcloudUrl": "https://soundcloud.com/illeniumofficial",
+            "youtubeUrl": "https://www.youtube.com/channel/UCv0tIDoaBZCTXQvVO4zosng",
+            "curatedTrack": "Say It (feat. Tove Lo) - Illenium Remix",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=80AlC3LaPqQ",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Illenium",
+                    "title": "Ashes",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/1aNWsfl6osnt0NO7Kubknx",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/ashes/1321275200",    
+                    "releaseYear": 2016,
+                    "trackCount": 12,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Reverie (feat. King Deco)",
+                            "trackLength": "4:59",
+                            "trackUrl": "https://www.youtube.com/watch?v=AcwyvOkS9BA" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Fortress (feat. Joni Fatora)",
+                            "trackLength": "3:23",
+                            "trackUrl": "https://www.youtube.com/watch?v=7gF-05RYizs" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "With You (feat. Quinn XCII)",
+                            "trackLength": "5:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=im8UW6qPZfo" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Sleepwalker (feat. Joni Fatora)",
+                            "trackLength": "4:10",
+                            "trackUrl": "https://www.youtube.com/watch?v=lhVykHuCpyo" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "It's All on U (feat. Liam O'Donnell)",
+                            "trackLength": "3:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=ikND0ib2Eew" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Spirals (feat. Sound Remedy & King Deco)",
+                            "trackLength": "6:01",
+                            "trackUrl": "https://www.youtube.com/watch?v=acseyuGgfOU" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Without You (feat. SKYLR)",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=0k_iD-BrVrA" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Only One (feat. Nina Sung)",
+                            "trackLength": "4:12",
+                            "trackUrl": "https://www.youtube.com/watch?v=m7WS5V_Quwc" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "I'll Be Your Reason",
+                            "trackLength": "3:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=1UTREei-00w" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Afterlife (feat. Echos)",
+                            "trackLength": "6:04",
+                            "trackUrl": "https://www.youtube.com/watch?v=2N2B7-tRWtg" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Jester (feat. Chilled Velvet)",
+                            "trackLength": "3:01",
+                            "trackUrl": "https://www.youtube.com/watch?v=bI86i893MAk" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Bring Forth the Pressure (feat. Dirt Monkey)",
+                            "trackLength": "2:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=r3kcbkawKo4" 
                         }
                     ]
                 }
