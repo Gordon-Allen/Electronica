@@ -1386,111 +1386,93 @@
                 ]
             },
             {
-            "id": 15,
-            "name": "Pretty Lights",
-            "homecountry": "USA",
-            "genre": "Electronic, Hip-Hop, Soul",
-            "url": "http://prettylightsmusic.com",
-            "twitterUrl": "https://twitter.com/prettylights",
-            "facebookUrl": "https://www.facebook.com/PrettyLights/",
-            "instagramUrl": "https://www.instagram.com/prettylights/",
-            "spotifyUrl": "https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q",
-            "appleMusicUrl": "https://music.apple.com/us/artist/pretty-lights/294600594",
-            "soundcloudUrl": "https://soundcloud.com/prettylights",
-            "youtubeUrl": "https://www.youtube.com/channel/UCyNworDpSylZcjRNRWYljCg",
-            "curatedTrack": "All of the Lights - Pretty Lights Remix",
-            "curatedTrackUrl": "https://www.youtube.com/watch?v=6SMRZVgi_fw",
-            "album": [
-                {
-                    "id": 1,
-                    "artist": "Pretty Lights",
-                    "title": "A Color Map of the Sun",
-                    "albumSpotifyUrl": "https://open.spotify.com/album/0okq27WOMbdHpDiyCWhnZC",
-                    "albumAppleMusicUrl": "https://music.apple.com/us/album/a-color-map-of-the-sun/658162187",    
-                    "releaseYear": 2013,
-                    "trackCount": 13,
-                    "tracks": [
-                        {   
-                            "trackNumber": 1,
-                            "trackTitle": "Color of My Soul",
-                            "trackLength": "6:08",
-                            "trackUrl": "https://www.youtube.com/watch?v=4a1_GVRtme0" 
-                        },
-                        {   
-                            "trackNumber": 2,
-                            "trackTitle": "Press Pause",
-                            "trackLength": "4:49",
-                            "trackUrl": "https://www.youtube.com/watch?v=Pc78OFnITKg" 
-                        },
-                        {   
-                            "trackNumber": 3,
-                            "trackTitle": "Let's Get Busy",
-                            "trackLength": "3:52",
-                            "trackUrl": "https://www.youtube.com/watch?v=lgUMDG7Y3IU" 
-                        },
-                        {   
-                            "trackNumber": 4,
-                            "trackTitle": "Around the Block (feat. Talib Kweli)",
-                            "trackLength": "4:13",
-                            "trackUrl": "https://www.youtube.com/watch?v=_RlcrCRSY4Y" 
-                        },
-                        {   
-                            "trackNumber": 5,
-                            "trackTitle": "Yellow Bird",
-                            "trackLength": "5:40",
-                            "trackUrl": "https://www.youtube.com/watch?v=SFH2Xou9ZPI" 
-                        },
-                        {   
-                            "trackNumber": 6,
-                            "trackTitle": "Go Down Sunshine",
-                            "trackLength": "5:05",
-                            "trackUrl": "https://www.youtube.com/watch?v=MEAUhW15pcA" 
-                        },
-                        {   
-                            "trackNumber": 7,
-                            "trackTitle": "So Bright (feat. Eligh)",
-                            "trackLength": "5:51",
-                            "trackUrl": "https://www.youtube.com/watch?v=Gcjw0c4RGL0" 
-                        },
-                        {   
-                            "trackNumber": 8,
-                            "trackTitle": "Vibe Vendetta",
-                            "trackLength": "5:24",
-                            "trackUrl": "https://www.youtube.com/watch?v=_pz7Rv9KghA" 
-                        },
-                        {   
-                            "trackNumber": 9,
-                            "trackTitle": "Done Wrong",
-                            "trackLength": "6:35",
-                            "trackUrl": "https://www.youtube.com/watch?v=PNxNa_5L2TU" 
-                        },
-                        {   
-                            "trackNumber": 10,
-                            "trackTitle": "Prophet",
-                            "trackLength": "5:56",
-                            "trackUrl": "https://www.youtube.com/watch?v=nDRzmmkbwmE" 
-                        },
-                        {   
-                            "trackNumber": 11,
-                            "trackTitle": "One Day They'll Know",
-                            "trackLength": "6:59",
-                            "trackUrl": "https://www.youtube.com/watch?v=7xUsUkzmnL4" 
-                        },
-                        {   
-                            "trackNumber": 12,
-                            "trackTitle": "Always All Ways",
-                            "trackLength": "5:32",
-                            "trackUrl": "https://www.youtube.com/watch?v=-moXLrfm_SQ" 
-                        },
-                        {   
-                            "trackNumber": 13,
-                            "trackTitle": "My Only Hope",
-                            "trackLength": "4:52",
-                            "trackUrl": "https://www.youtube.com/watch?v=iDR6FGmV2Eo" 
-                        }
+                "id": 15,
+                "name": "Nora Van Elken",
+                "homecountry": "Netherlands",
+                "genre": "Deep House, Electronica",
+                "url": "https://www.beatport.com/artist/nora-van-elken/817806",
+                "twitterUrl": "https://twitter.com/noravanelken",
+                "facebookUrl": "https://www.facebook.com/noravanelken/",
+                "instagramUrl": "https://www.instagram.com/noravanelken/",
+                "spotifyUrl": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM",
+                "appleMusicUrl": "https://music.apple.com/us/artist/nora-van-elken/1304686019",
+                "soundcloudUrl": "https://soundcloud.com/noravanelken",
+                "youtubeUrl": "https://www.youtube.com/channel/UChVurcFzm9RujVepBRMg2Jg",
+                "curatedTrack": "Find You",
+                "curatedTrackUrl": "https://www.youtube.com/watch?v=mE456oBY7gk",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "Nora Van Elken",
+                        "title": "Nora Van Elken",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/4zQAYfRBSnxYEaisWlt5SL",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/nora-van-elken/1434974930",    
+                        "releaseYear": 2018,
+                        "trackCount": 10,
+                        "tracks": [
+                            {   
+                                "trackNumber": 1,
+                                "trackTitle": "All I Need",
+                                "trackLength": "3:42",
+                                "trackUrl": "https://www.youtube.com/watch?v=HYIYUG_RMxw" 
+                            },
+                            {   
+                                "trackNumber": 2,
+                                "trackTitle": "Stay Right There",
+                                "trackLength": "3:10",
+                                "trackUrl": "https://www.youtube.com/watch?v=cJ1JYOgfSj0" 
+                            },
+                            {   
+                                "trackNumber": 3,
+                                "trackTitle": "Be With You",
+                                "trackLength": "3:11",
+                                "trackUrl": "https://www.youtube.com/watch?v=d-0556Clz2w" 
+                            },
+                            {   
+                                "trackNumber": 4,
+                                "trackTitle": "Highway",
+                                "trackLength": "3:19",
+                                "trackUrl": "https://www.youtube.com/watch?v=nIRNYgL_s9w" 
+                            },
+                            {   
+                                "trackNumber": 5,
+                                "trackTitle": "Over You",
+                                "trackLength": "3:36",
+                                "trackUrl": "https://www.youtube.com/watch?v=ikE2sFSIfr4" 
+                            },
+                            {   
+                                "trackNumber": 6,
+                                "trackTitle": "I Know",
+                                "trackLength": "3:24",
+                                "trackUrl": "https://www.youtube.com/watch?v=vGniYOlOPsg" 
+                            },
+                            {   
+                                "trackNumber": 7,
+                                "trackTitle": "Best I Ever Had",
+                                "trackLength": "3:01",
+                                "trackUrl": "https://www.youtube.com/watch?v=0z5dCeqNcgU" 
+                            },
+                            {   
+                                "trackNumber": 8,
+                                "trackTitle": "I Told You",
+                                "trackLength": "3:22",
+                                "trackUrl": "https://www.youtube.com/watch?v=r8sJlIGPWMU" 
+                            },
+                            {   
+                                "trackNumber": 9,
+                                "trackTitle": "Fallin'",
+                                "trackLength": "3:04",
+                                "trackUrl": "https://www.youtube.com/watch?v=fzQL9A0sx8c" 
+                            },
+                            {   
+                                "trackNumber": 10,
+                                "trackTitle": "I'll Be There",
+                                "trackLength": "2:49",
+                                "trackUrl": "https://www.youtube.com/watch?v=V1h6U1q3KAU" 
+                            }
+                        ]
+                    }
                     ]
-                }
-                ]
             },
             {
             "id": 16,
@@ -2034,7 +2016,7 @@
             "id": 24,
             "name": "Kaskade",
             "homecountry": "USA",
-            "genre": "Electro, Progressive House",
+            "genre": "Progressive, Deep House",
             "url": "http://www.kaskademusic.com/",
             "twitterUrl": "https://twitter.com/kaskade",
             "facebookUrl": "https://www.facebook.com/kaskade",
@@ -2140,6 +2122,113 @@
                             "trackUrl": "https://www.youtube.com/watch?v=6WsygLeh5pM" 
                         }
 
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 25,
+            "name": "Pretty Lights",
+            "homecountry": "USA",
+            "genre": "Electronic, Hip-Hop, Soul",
+            "url": "http://prettylightsmusic.com",
+            "twitterUrl": "https://twitter.com/prettylights",
+            "facebookUrl": "https://www.facebook.com/PrettyLights/",
+            "instagramUrl": "https://www.instagram.com/prettylights/",
+            "spotifyUrl": "https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q",
+            "appleMusicUrl": "https://music.apple.com/us/artist/pretty-lights/294600594",
+            "soundcloudUrl": "https://soundcloud.com/prettylights",
+            "youtubeUrl": "https://www.youtube.com/channel/UCyNworDpSylZcjRNRWYljCg",
+            "curatedTrack": "All of the Lights - Pretty Lights Remix",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=6SMRZVgi_fw",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Pretty Lights",
+                    "title": "A Color Map of the Sun",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/0okq27WOMbdHpDiyCWhnZC",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/a-color-map-of-the-sun/658162187",    
+                    "releaseYear": 2013,
+                    "trackCount": 13,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Color of My Soul",
+                            "trackLength": "6:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=4a1_GVRtme0" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Press Pause",
+                            "trackLength": "4:49",
+                            "trackUrl": "https://www.youtube.com/watch?v=Pc78OFnITKg" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Let's Get Busy",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=lgUMDG7Y3IU" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Around the Block (feat. Talib Kweli)",
+                            "trackLength": "4:13",
+                            "trackUrl": "https://www.youtube.com/watch?v=_RlcrCRSY4Y" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Yellow Bird",
+                            "trackLength": "5:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=SFH2Xou9ZPI" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Go Down Sunshine",
+                            "trackLength": "5:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=MEAUhW15pcA" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "So Bright (feat. Eligh)",
+                            "trackLength": "5:51",
+                            "trackUrl": "https://www.youtube.com/watch?v=Gcjw0c4RGL0" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Vibe Vendetta",
+                            "trackLength": "5:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=_pz7Rv9KghA" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Done Wrong",
+                            "trackLength": "6:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=PNxNa_5L2TU" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Prophet",
+                            "trackLength": "5:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=nDRzmmkbwmE" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "One Day They'll Know",
+                            "trackLength": "6:59",
+                            "trackUrl": "https://www.youtube.com/watch?v=7xUsUkzmnL4" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Always All Ways",
+                            "trackLength": "5:32",
+                            "trackUrl": "https://www.youtube.com/watch?v=-moXLrfm_SQ" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "My Only Hope",
+                            "trackLength": "4:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=iDR6FGmV2Eo" 
+                        }
                     ]
                 }
                 ]
