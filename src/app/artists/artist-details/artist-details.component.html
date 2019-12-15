@@ -16,9 +16,9 @@
         <a href="{{ artist?.soundcloudUrl }}"><img style="width: 45px; height: 45px; margin-right: 5px;" src="assets/img/soundcloud_icon.png"></a>
       </li>
       <li style="margin-top: 10px; color:#0069D9;"><h6><a href="{{ artist?.url }}">{{ artist?.name }}'s Website</a></h6></li>
-      <li><h6>Home-Country: <em>{{ artist?.homecountry }}</em></h6></li>
-      <li><h6>Genre: <em>{{ artist?.genre }}</em></h6></li>
-      <li style="font-size: 18px; margin-top: 15px; font-weight: 525;"><img style="width: 45px; height:45px;" src="assets/img/electronica.png">Electronica's Curated Track of Choice: <a style="color:#0069D9" href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -4px;" src="assets/img/youtube_icon.png"></a></li>
+      <li><h6><span style="font-weight: 575; text-decoration-line: underline;">Home-Country</span>: <em>{{ artist?.homecountry }}</em></h6></li>
+      <li><h6><span style="font-weight: 575; text-decoration-line: underline;">Genre</span>: <em>{{ artist?.genre }}</em></h6></li>
+      <li style="font-size: 18px; margin-top: 15px; font-weight: 650;"><img style="width: 45px; height:45px;" src="assets/img/electronica.png">Electronica's Curated Track of Choice: <a style="color:#0069D9" href="{{ artist?.curatedTrackUrl }} ">{{ artist?.curatedTrack }}</a><a href="{{ artist?.curatedTrackUrl }}"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -4px;" src="assets/img/youtube_icon.png"></a></li>
     </ul>
   </div>
   <div class="row" style="margin-top: 10px;"   *ngFor="let album of artist.album">
@@ -38,8 +38,8 @@
       <tbody *ngFor="let album of artist.album">
         <tr style="border: 2px solid #0069D9;" *ngFor="let tracks of album.tracks">
           <th scope="row">{{ tracks.trackNumber }}</th>
-          <td><em>{{ tracks.trackTitle }}</em></td>
-          <td>{{ tracks.trackLength }}</td>
+          <td><em style="font-weight: 500;">{{ tracks.trackTitle }}</em></td>
+          <td style="font-weight: 500;">{{ tracks.trackLength }}</td>
           <td><a href="{{ tracks.trackUrl }}"><img style="width: 47.5px; height:27.5px;" src="assets/img/youtube_icon_playtrack.png"></a></td>
         </tr>
       </tbody>
