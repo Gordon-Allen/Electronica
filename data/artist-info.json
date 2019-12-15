@@ -1882,6 +1882,53 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 21,
+            "name": "RetroVision",
+            "homecountry": "France",
+            "genre": "Electronica, Future Bass",
+            "url": "https://www.beatport.com/artist/retrovision/53990",
+            "twitterUrl": "https://twitter.com/retrovisionfr",
+            "facebookUrl": "https://www.facebook.com/retrovisionmusic/",
+            "instagramUrl": "https://www.instagram.com/ILLENIUMMUSIC/",
+            "spotifyUrl": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS",
+            "appleMusicUrl": "https://music.apple.com/us/artist/retrovision/531288445",
+            "soundcloudUrl": "https://soundcloud.com/retro_vision",
+            "youtubeUrl": "https://www.youtube.com/channel/UC_DRS3lamW6T1_iheYLhEkQ",
+            "curatedTrack": "All Night Long (feat. Jonas Blue)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=4655JKMpABA",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "RetroVision",
+                    "title": "Get Up EP",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/12VxnbSPSjS5Uxc7j1ui4f",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/get-up-single/1444138714",    
+                    "releaseYear": 2018,
+                    "trackCount": 3,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Get Up",
+                            "trackLength": "2:50",
+                            "trackUrl": "https://www.youtube.com/watch?v=DuL-y-IHLWk" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Found You",
+                            "trackLength": "3:27",
+                            "trackUrl": "https://www.youtube.com/watch?v=tZFwp2ScAh4" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Bring The Beat Back",
+                            "trackLength": "3:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=J9UppaIIz3E" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
