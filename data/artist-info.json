@@ -1716,6 +1716,65 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 19,
+            "name": "Juventa",
+            "hometown": "Netherlands",
+            "genre": "Electronica, Trance",
+            "url": "https://www.beatport.com/artist/juventa/126176",
+            "twitterUrl": "https://twitter.com/juventamusic",
+            "facebookUrl": "https://www.facebook.com/djjuventa/",
+            "instagramUrl": "https://www.instagram.com/jordinpost/",
+            "spotifyUrl": "https://open.spotify.com/artist/2c8lJBXnL9RqVgp81tm2np",
+            "appleMusicUrl": "https://music.apple.com/us/artist/juventa/350841586",
+            "soundcloudUrl": "https://soundcloud.com/juventa",
+            "youtubeUrl": "https://www.youtube.com/channel/UCJgP9vRU9KHrcO76TD0crKw",
+            "curatedTrack": "Freefalling",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=hACFeU-BR_E",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Juventa",
+                    "title": "Culture Flow EP",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/43rBrsqBb86qdiEk9dqlhx",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/culture-flow-ep/891374044",    
+                    "releaseYear": 2014,
+                    "trackCount": 5,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Break of Day",
+                            "trackLength": "5:09",
+                            "trackUrl": "https://www.youtube.com/watch?v=_9Ro7-V_knw" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "NTRMZ (Interlude)",
+                            "trackLength": "2:13",
+                            "trackUrl": "https://www.youtube.com/watch?v=LDRFZN7GZWQ" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Things Left Unsaid",
+                            "trackLength": "5:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=8YgUifi53Co" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Floridian Knockdown (Interlude)",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=M7ffLQfFdIE" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Miami Waves",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=KeKQXTQMnH4" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
