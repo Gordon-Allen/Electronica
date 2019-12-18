@@ -2386,6 +2386,101 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 28,
+            "name": "Sound Remedy",
+            "homecountry": "USA",
+            "genre": "Electro, Melodic House",
+            "url": "https://www.facebook.com/soundremedy",
+            "twitterUrl": "https://twitter.com/soundremedy",
+            "facebookUrl": "https://www.facebook.com/soundremedy",
+            "instagramUrl": "https://www.instagram.com/soundremedymusic/",
+            "spotifyUrl": "https://open.spotify.com/artist/1UtzKaSQyctQO8GN8EyzOn",
+            "appleMusicUrl": "https://itunes.apple.com/us/artist/sound-remedy/610274922",
+            "soundcloudUrl": "https://soundcloud.com/soundremedy",
+            "youtubeUrl": "https://www.youtube.com/channel/UCMUWTPoRNceN2OsYovVAWdA",
+            "curatedTrack": "Medicine (Sound Remedy Remix)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=bBD_CJsLZj0",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Sound Remedy",
+                    "title": "Point Five",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/4rRbCiFDfv8rpoYRpR6NAE",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/point-five/1254604335",    
+                    "releaseYear": 2017,
+                    "trackCount": 10,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Don't Listen",
+                            "trackLength": "3:30",
+                            "trackUrl": "https://www.youtube.com/watch?v=FsFZW6BW9MA" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Uprising",
+                            "trackLength": "5:14",
+                            "trackUrl": "https://www.youtube.com/watch?v=mCwx5hhWDeI" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Heal U",
+                            "trackLength": "2:59",
+                            "trackUrl": "https://www.youtube.com/watch?v=cmLz_sKa-ek" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "New Flowers",
+                            "trackLength": "2:21",
+                            "trackUrl": "https://www.youtube.com/watch?v=g5Dmmm3wcus" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "What Must Be",
+                            "trackLength": "5:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=KjzBreHIHts" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Stay Loose",
+                            "trackLength": "3:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=CBb9rAj7iZI" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Iravoy",
+                            "trackLength": "5:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=3lrTxQc6AgM" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Clairvoyance Peak",
+                            "trackLength": "4:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=Jizn23qavxw" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Drift",
+                            "trackLength": "4:27",
+                            "trackUrl": "https://www.youtube.com/watch?v=hbk7oy7X368" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Finna",
+                            "trackLength": "3:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=IxJv1-D5P9A" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Can't Let You Go",
+                            "trackLength": "2:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=rdB65m_oINY" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
