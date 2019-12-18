@@ -2392,7 +2392,7 @@
             "name": "Sound Remedy",
             "homecountry": "USA",
             "genre": "Electro, Melodic House",
-            "url": "https://www.facebook.com/soundremedy",
+            "url": "https://www.insomniac.com/music/artists/sound-remedy/",
             "twitterUrl": "https://twitter.com/soundremedy",
             "facebookUrl": "https://www.facebook.com/soundremedy",
             "instagramUrl": "https://www.instagram.com/soundremedymusic/",
@@ -2477,6 +2477,53 @@
                             "trackTitle": "Can't Let You Go",
                             "trackLength": "2:40",
                             "trackUrl": "https://www.youtube.com/watch?v=rdB65m_oINY" 
+                        }
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 29,
+            "name": "Point Point",
+            "homecountry": "France",
+            "genre": "Electronica, Electro",
+            "url": "http://owsla.com/artist/point-point/",
+            "twitterUrl": "https://twitter.com/pointpointparis",
+            "facebookUrl": "https://www.facebook.com/pointpointparis/",
+            "instagramUrl": "https://www.instagram.com/pointpointparis",
+            "spotifyUrl": "https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ",
+            "appleMusicUrl": "https://music.apple.com/us/artist/point-point/935295068",
+            "soundcloudUrl": "https://soundcloud.com/pointpoint",
+            "youtubeUrl": "https://www.youtube.com/channel/UC4wo4ttV6XC_T9UqDsZIVHw",
+            "curatedTrack": "All This",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=3pdJLsRxWhI",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Point Point",
+                    "title": "Family Portrait EP",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/6vtMs29mzabSqMhWnJXBy3",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/family-portrait-ep/1132317172",    
+                    "releaseYear": 2016,
+                    "trackCount": 3,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Piece of Sun",
+                            "trackLength": "3:00",
+                            "trackUrl": "https://www.youtube.com/watch?v=I18suePwYn8" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "All This",
+                            "trackLength": "3:57",
+                            "trackUrl": "https://www.youtube.com/watch?v=3pdJLsRxWhI" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Au Revoir",
+                            "trackLength": "2:53",
+                            "trackUrl": "https://www.youtube.com/watch?v=L00RJi3QZTw" 
                         }
                     ]
                 }
