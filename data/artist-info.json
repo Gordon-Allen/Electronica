@@ -2528,6 +2528,113 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 30,
+            "name": "EDX",
+            "homecountry": "Switzerland",
+            "genre": "Deep House, Electro",
+            "url": "https://www.edx.ch/",
+            "twitterUrl": "https://twitter.com/edxMusic",
+            "facebookUrl": "https://www.facebook.com/EDXmusic/",
+            "instagramUrl": "https://www.instagram.com/edxmusic/",
+            "spotifyUrl": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6",
+            "appleMusicUrl": "https://music.apple.com/us/artist/edx/278926689",
+            "soundcloudUrl": "https://soundcloud.com/edxmusic",
+            "youtubeUrl": "https://www.youtube.com/channel/UC8unIciY8k6ZqusPtriSszA",
+            "curatedTrack": "Show Me Love (EDX Remix)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=qXkzWXEucIU",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "EDX",
+                    "title": "On The Edge",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/21NXzVQakij6zNoNnbQmyJ",
+                    "albumAppleMusicUrl": "https://music.apple.com/lb/album/on-the-edge/494884207",    
+                    "releaseYear": 2012,
+                    "trackCount": 13,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Everything (feat. Hadley)",
+                            "trackLength": "6:04",
+                            "trackUrl": "https://www.youtube.com/watch?v=OhPFG0-I_Hg" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "2 Hearts 1 Mind",
+                            "trackLength": "4:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=2mq0of8TNB8" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Angry Heart (feat. Sam Obernik)",
+                            "trackLength": "5:30",
+                            "trackUrl": "https://www.youtube.com/watch?v=2mq0of8TNB8" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Give It Up For Love (feat. John Williams)",
+                            "trackLength": "4:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=GAyKFI2rOog" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "D.A.N.C.E.",
+                            "trackLength": "4:14",
+                            "trackUrl": "https://www.youtube.com/watch?v=tJ1FMS5uSTk" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "This Is Your Life (feat. Nadia Ali)",
+                            "trackLength": "4:21",
+                            "trackUrl": "https://www.youtube.com/watch?v=p-hjr9H4aXI" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Warped Minds",
+                            "trackLength": "5:32",
+                            "trackUrl": "https://www.youtube.com/watch?v=aikanmq7TBY" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Love Express (feat. Seamus Haji & Jerique)",
+                            "trackLength": "5:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=OQyKWujady0" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "No Xcuses",
+                            "trackLength": "3:17",
+                            "trackUrl": "https://www.youtube.com/watch?v=t_0YUChxFWI" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Warrior (feat. Tamra Keenan)",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=Xg4_FDIlPKA" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Szeplo",
+                            "trackLength": "3:54",
+                            "trackUrl": "https://www.youtube.com/watch?v=EiJMeTvmp6M" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Falling Out of Love (feat. Sarah McLeod)",
+                            "trackLength": "3:28",
+                            "trackUrl": "https://www.youtube.com/watch?v=zIRY9jkefeA" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Embrace",
+                            "trackLength": "3:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=PY2Wr9K3vR8" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
