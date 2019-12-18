@@ -2232,6 +2232,95 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 26,
+            "name": "MYRNE",
+            "homecountry": "Singapore",
+            "genre": "Electronica, Electro",
+            "url": "http://myrne.co/",
+            "twitterUrl": "https://twitter.com/MYRNEmusic",
+            "facebookUrl": "https://www.facebook.com/myrnemusic/",
+            "instagramUrl": "https://www.instagram.com/myrnemusic/",
+            "spotifyUrl": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg",
+            "appleMusicUrl": "https://music.apple.com/us/artist/myrne/660616091",
+            "soundcloudUrl": "https://soundcloud.com/myrne",
+            "youtubeUrl": "https://www.youtube.com/channel/UCEjUyUpkbVgSLAU0GWncLPg",
+            "curatedTrack": "Worlds Away (feat. Karra)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=deJcB4JVOog",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "MYRNE",
+                    "title": "In Search of Solitude",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/4HdCbJpljjPEs651M93dd8",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/in-search-of-solitude/1481274907",    
+                    "releaseYear": 2019,
+                    "trackCount": 10,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Me ++ You",
+                            "trackLength": "3:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=S99oX3gXolA" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Another Lfe",
+                            "trackLength": "4:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=p0NQhnBvR6A" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Otherside (feat. Grabbitz)",
+                            "trackLength": "3:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=-yfqZ1GEoqU" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "All Night I've Been Waiting For You",
+                            "trackLength": "4:13",
+                            "trackUrl": "https://www.youtube.com/watch?v=BgoY5oY2RLM" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "You Could Stay (feat. Rynn)",
+                            "trackLength": "3:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=zTaVPUJ1g6Y" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Hyperviolence",
+                            "trackLength": "4:31",
+                            "trackUrl": "https://www.youtube.com/watch?v=28KybNmYN20" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Higher (feat. Lost Boy)",
+                            "trackLength": "2:43",
+                            "trackUrl": "https://www.youtube.com/watch?v=Dr-H-iGNIDs" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Starsigns",
+                            "trackLength": "3:10",
+                            "trackUrl": "https://www.youtube.com/watch?v=PGyqQ-_ghCc" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Worlds Away (feat. Karra)",
+                            "trackLength": "3:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=deJcB4JVOog" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Good At Being Alone (feat. Kyle Reynolds & April Bender)",
+                            "trackLength": "4:12",
+                            "trackUrl": "https://www.youtube.com/watch?v=qwRVG-H-nEM" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
