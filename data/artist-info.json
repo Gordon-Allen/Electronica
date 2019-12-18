@@ -2321,6 +2321,71 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 27,
+            "name": "Ekali",
+            "homecountry": "Vancouver, B.C.",
+            "genre": "Future, Melodic Bass",
+            "url": "https://www.ekalimusic.com/",
+            "twitterUrl": "https://twitter.com/EkaliMusic",
+            "facebookUrl": "https://www.facebook.com/ekalimusic/",
+            "instagramUrl": "https://www.instagram.com/ekalimusic/",
+            "spotifyUrl": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd",
+            "appleMusicUrl": "https://music.apple.com/us/artist/ekali/863405923",
+            "soundcloudUrl": "https://soundcloud.com/ekalimusic",
+            "youtubeUrl": "https://www.youtube.com/channel/UCaMh8ii0gfI8UKAu1VqzYIA/",
+            "curatedTrack": "Language (Ekali & QUIX Tribute)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=7hn-Xt2XtXY",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Ekali",
+                    "title": "Crystal Eyes",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/7toy7pb6WIQAOWCMcwGBOQ",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/crystal-eyes-ep/1437286982",    
+                    "releaseYear": 2018,
+                    "trackCount": 6,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Stay Hollow (feat. mossy.",
+                            "trackLength": "3:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=m73-fDp7GNE" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Forget How To Dream (feat. K.Flay)",
+                            "trackLength": "2:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=Yfr-_B4dvOs" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Helios (feat. SLUMBERJACK)",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=o76IntH_OhQ" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Forever (feat. Medasin & Elohim)",
+                            "trackLength": "3:15",
+                            "trackUrl": "https://www.youtube.com/watch?v=pP0zA7BhhOU" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Leaving (feat. Yuna)",
+                            "trackLength": "2:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=raPg5QpMEHE" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Crystal Eyes",
+                            "trackLength": "2:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=9fmaOZvCWHo" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
