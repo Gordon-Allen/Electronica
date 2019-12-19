@@ -3385,6 +3385,41 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 37,
+            "name": "Ellis",
+            "homecountry": "United Kingdom",
+            "genre": "Future House, Electronica",
+            "url": "https://www.facebook.com/EllisOfficial/",
+            "twitterUrl": "https://twitter.com/ellisofficial",
+            "facebookUrl": "https://www.facebook.com/EllisOfficial/",
+            "instagramUrl": "https://www.instagram.com/ellisofficial/",
+            "spotifyUrl": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X",
+            "appleMusicUrl": "https://music.apple.com/us/artist/ellis/1171048408",
+            "soundcloudUrl": "https://soundcloud.com/ellisofficial",
+            "youtubeUrl": "https://www.youtube.com/channel/UCfqkZ3YEpMV92fTJs28jy9A",
+            "curatedTrack": "Clear My Head",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=sla4_52vwnU",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Ellis",
+                    "title": "Scuttle (Single)",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/6c9WumGMyViubIba9g9Fgh",
+                    "albumAppleMusicUrl": "https://music.apple.com/in/album/scuttle-single/1328944649",    
+                    "releaseYear": 2017,
+                    "trackCount": 1,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Scuttle (feat. Jordi Rivera)",
+                            "trackLength": "3:07",
+                            "trackUrl": "https://www.youtube.com/watch?v=ri_2BEbB-og" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
