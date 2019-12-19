@@ -2325,7 +2325,7 @@
             {
             "id": 27,
             "name": "Ekali",
-            "homecountry": "Vancouver, B.C.",
+            "homecountry": "Canada",
             "genre": "Future, Melodic Bass",
             "url": "https://www.ekalimusic.com/",
             "twitterUrl": "https://twitter.com/EkaliMusic",
@@ -2768,6 +2768,143 @@
                             "trackTitle": "Only Way Out (feat. Vancouver Sleep Clinic)",
                             "trackLength": "3:47",
                             "trackUrl": "https://www.youtube.com/watch?v=NXGk_GcQ09g" 
+                        }
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 32,
+            "name": "Felix Cartal",
+            "homecountry": "Canada",
+            "genre": "Electro, Deep House",
+            "url": "https://www.felixcartal.com/",
+            "twitterUrl": "https://twitter.com/felixcartal",
+            "facebookUrl": "https://www.facebook.com/felixcartal",
+            "instagramUrl": "https://www.instagram.com/felixcartal/",
+            "spotifyUrl": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v",
+            "appleMusicUrl": "https://music.apple.com/us/artist/felix-cartal/313775922",
+            "soundcloudUrl": "https://soundcloud.com/felixcartal",
+            "youtubeUrl": "https://www.youtube.com/channel/UCXT9hMKKpXMN1K188R1nWmA",
+            "curatedTrack": "Falling Down",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=2Q6TqlN6OoM",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Felix Cartal",
+                    "title": "Next Season",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/0SyIOIfOM9lINTDWwtIg3R",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/next-season/1364321549",    
+                    "releaseYear": 2018,
+                    "trackCount": 18,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Stop Being Yourself (feat. Gabrielle Current)",
+                            "trackLength": "4:09",
+                            "trackUrl": "https://www.youtube.com/watch?v=ZolS6_BphW0" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Drifting Away (feat. Ofelia K)",
+                            "trackLength": "3:44",
+                            "trackUrl": "https://www.youtube.com/watch?v=A1gmizOYSgQ" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Faces (feat. Veronica)",
+                            "trackLength": "3:15",
+                            "trackUrl": "https://www.youtube.com/watch?v=grng80hJM5A" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Walking By (feat. Iselin)",
+                            "trackLength": "3:38",
+                            "trackUrl": "https://www.youtube.com/watch?v=WtnL95W8E1I" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Hold Tight",
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=_GXZ1U0t7EU" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Down for You (feat. Veronica)",
+                            "trackLength": "3:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=_EH_CkoYs0I" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "The Wave (feat. Moon Bounce)",
+                            "trackLength": "3:19",
+                            "trackUrl": "https://www.youtube.com/watch?v=zBKyr9N6LF4" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Everything is Fine (feat. Regn)",
+                            "trackLength": "3:44",
+                            "trackUrl": "https://www.youtube.com/watch?v=FS7uet0DQ9s" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "The Searchers",
+                            "trackLength": "1:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=RR3Hncr5fGI" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Wherever (feat. Coeur De Pirate)",
+                            "trackLength": "3:43",
+                            "trackUrl": "https://www.youtube.com/watch?v=Jdn1Bx-Nwos" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Everyone but Me (feat. Daniela Andrade)",
+                            "trackLength": "2:50",
+                            "trackUrl": "https://www.youtube.com/watch?v=VHhsrmCwvjk" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Runaway (feat. REGN)",
+                            "trackLength": "3:30",
+                            "trackUrl": "https://www.youtube.com/watch?v=SvAlpfokGXI" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Falling Down",
+                            "trackLength": "3:46",
+                            "trackUrl": "https://www.youtube.com/watch?v=2Q6TqlN6OoM" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Mood",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=ZzDp2Rgy2IA" 
+                        },
+                        {   
+                            "trackNumber": 15,
+                            "trackTitle": "Get What You Give",
+                            "trackLength": "3:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=Cf7lSbyyDs4" 
+                        },
+                        {   
+                            "trackNumber": 16,
+                            "trackTitle": "Overused",
+                            "trackLength": "1:57",
+                            "trackUrl": "https://www.youtube.com/watch?v=LuT3CaMYFvk" 
+                        },
+                        {   
+                            "trackNumber": 17,
+                            "trackTitle": "Worry (feat. Victoria Zaro)",
+                            "trackLength": "3:57",
+                            "trackUrl": "https://www.youtube.com/watch?v=AANdt8yJYck" 
+                        },
+                        {   
+                            "trackNumber": 18,
+                            "trackTitle": "Listen",
+                            "trackLength": "3:55",
+                            "trackUrl": "https://www.youtube.com/watch?v=ZixlC1pO5Ws" 
                         }
                     ]
                 }
