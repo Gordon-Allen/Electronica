@@ -2542,7 +2542,7 @@
             "appleMusicUrl": "https://music.apple.com/us/artist/edx/278926689",
             "soundcloudUrl": "https://soundcloud.com/edxmusic",
             "youtubeUrl": "https://www.youtube.com/channel/UC8unIciY8k6ZqusPtriSszA",
-            "curatedTrack": "Show Me Love (EDX Remix)",
+            "curatedTrack": "Show Me Love (EDX's Indian Summer Remix)",
             "curatedTrackUrl": "https://www.youtube.com/watch?v=qXkzWXEucIU",
             "album": [
                 {
@@ -2631,6 +2631,143 @@
                             "trackTitle": "Embrace",
                             "trackLength": "3:26",
                             "trackUrl": "https://www.youtube.com/watch?v=PY2Wr9K3vR8" 
+                        }
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 31,
+            "name": "Madeon",
+            "homecountry": "France",
+            "genre": "Electronica, Electro",
+            "url": "https://madeon.net/",
+            "twitterUrl": "https://twitter.com/madeon",
+            "facebookUrl": "https://www.facebook.com/itsmadeon",
+            "instagramUrl": "https://www.instagram.com/madeon/",
+            "spotifyUrl": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc",
+            "appleMusicUrl": "https://music.apple.com/us/artist/madeon/371199302",
+            "soundcloudUrl": "https://soundcloud.com/madeon",
+            "youtubeUrl": "https://www.youtube.com/channel/UCqMDNf3Pn5L7pcNkuSEeO3w",
+            "curatedTrack": "Technicolor",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=Vois0RMtPHE",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Madeon",
+                    "title": "Adventure",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/adventure-deluxe/955824966",    
+                    "releaseYear": 2015,
+                    "trackCount": 18,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Isometric (Intro)",
+                            "trackLength": "1:20",
+                            "trackUrl": "https://www.youtube.com/watch?v=rO1bZdtto7I" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "You're On (feat. Kyan)",
+                            "trackLength": "3:12",
+                            "trackUrl": "https://www.youtube.com/watch?v=CGCnoVrgf9c" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "OK",
+                            "trackLength": "3:01",
+                            "trackUrl": "https://www.youtube.com/watch?v=PgDMeLEqvYY" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "La Lune (featuring Dan Smith)",
+                            "trackLength": "3:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=Lg9ynbR8CQI" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Pay No Mind (featuring Passion Pit)",
+                            "trackLength": "4:09",
+                            "trackUrl": "https://www.youtube.com/watch?v=bQweR2QH1Io" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Beings",
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=tAhT6kFWkAo" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Imperium",
+                            "trackLength": "3:18",
+                            "trackUrl": "https://www.youtube.com/watch?v=ng4291cptOk" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Zephyr",
+                            "trackLength": "3:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=2HZNUMyzhA8" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Nonsense (featuring Mark Foster)",
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=QTE_W5SMP0Q" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Innocence (featuring Aquilo)",
+                            "trackLength": "3:44",
+                            "trackUrl": "https://www.youtube.com/watch?v=lz10F2Rtqv8" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Pixel Empire",
+                            "trackLength": "4:04",
+                            "trackUrl": "https://www.youtube.com/watch?v=nMwLbAZMdV4" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Home",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=Cxq3GIxlv20" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Icarus",
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=XHs99iVpnXU" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Finale (feat. Nicholas Petricca)",
+                            "trackLength": "3:25",
+                            "trackUrl": "https://www.youtube.com/watch?v=j0h2u87JwyA" 
+                        },
+                        {   
+                            "trackNumber": 15,
+                            "trackTitle": "The City",
+                            "trackLength": "3:54",
+                            "trackUrl": "https://www.youtube.com/watch?v=iqUBmeFn7qM" 
+                        },
+                        {   
+                            "trackNumber": 16,
+                            "trackTitle": "Cut The Kid",
+                            "trackLength": "3:18",
+                            "trackUrl": "https://www.youtube.com/watch?v=Ih-izudb6Uo" 
+                        },
+                        {   
+                            "trackNumber": 17,
+                            "trackTitle": "Technicolor",
+                            "trackLength": "6:25",
+                            "trackUrl": "https://www.youtube.com/watch?v=Vois0RMtPHE" 
+                        },
+                        {   
+                            "trackNumber": 18,
+                            "trackTitle": "Only Way Out (feat. Vancouver Sleep Clinic)",
+                            "trackLength": "3:47",
+                            "trackUrl": "https://www.youtube.com/watch?v=NXGk_GcQ09g" 
                         }
                     ]
                 }
