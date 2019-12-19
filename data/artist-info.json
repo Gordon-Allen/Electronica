@@ -2909,6 +2909,125 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 33,
+            "name": "Armin Van Buuren",
+            "homecountry": "Netherlands",
+            "genre": "Trance, Electronica",
+            "url": "https://www.arminvanbuuren.com/",
+            "twitterUrl": "https://twitter.com/arminvanbuuren",
+            "facebookUrl": "https://www.facebook.com/arminvanbuuren",
+            "instagramUrl": "https://www.instagram.com/arminvanbuuren/",
+            "spotifyUrl": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5",
+            "appleMusicUrl": "https://music.apple.com/us/artist/armin-van-buuren/17976294",
+            "soundcloudUrl": "https://soundcloud.com/arminvanbuuren",
+            "youtubeUrl": "https://www.youtube.com/user/arminvanbuuren",
+            "curatedTrack": "Rain (feat. Cathy Burton)",
+            "curatedTrackUrl": "hhttps://www.youtube.com/watch?v=2j0Oy8w2JkY",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Armin Van Buuren",
+                    "title": "Embrace",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/embrace/1044569985",    
+                    "releaseYear": 2015,
+                    "trackCount": 15,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Embrace (feat. Eric Vloeimans)",
+                            "trackLength": "7:36",
+                            "trackUrl": "https://www.youtube.com/watch?v=n70c3Dzw-ZM" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Another You (feat. Mr Probz)",
+                            "trackLength": "3:10",
+                            "trackUrl": "https://www.youtube.com/watch?v=6Xf038zEVvM" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Strong Ones (feat. Cimo Fränkel)",
+                            "trackLength": "3:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=Gi9_y0NuMTE" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Make It Right (feat. Angel Taylor)",
+                            "trackLength": "5:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=xweHsBLcqp4" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Face of Summer (feat. Sarah Decourcy)",
+                            "trackLength": "6:38",
+                            "trackUrl": "https://www.youtube.com/watch?v=QMKVlmmzvZI" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Heading Up High (feat. Kensington)",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=Q2C2V3kac08" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Gotta Be Love (feat. Lyrica Anderson)",
+                            "trackLength": "6:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=SGljqx-OAtQ" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Hands To Heaven (feat. Rock Mafia)",
+                            "trackLength": "6:02",
+                            "trackUrl": "https://www.youtube.com/watch?v=55dQtpcm3SY" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Caught In The Slipstream (feat. BullySongs",
+                            "trackLength": "5:07",
+                            "trackUrl": "https://www.youtube.com/watch?v=poPGR1S91Ls" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Embargo (feat. Cosmic Gate)",
+                            "trackLength": "5:19",
+                            "trackUrl": "https://www.youtube.com/watch?v=uZbnE3Ad4r8" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Freefall (feat. BullySongs)",
+                            "trackLength": "3:19",
+                            "trackUrl": "https://www.youtube.com/watch?v=Tjxh5cCfCFs" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Indestructible (feat. DBX)",
+                            "trackLength": "3:16",
+                            "trackUrl": "https://www.youtube.com/watch?v=93qNg1Pgcmo" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Old Skool",
+                            "trackLength": "3:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=57cdWU4NwIA" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Off The Hook (feat. Hardwell)",
+                            "trackLength": "5:44",
+                            "trackUrl": "https://www.youtube.com/watch?v=oH1Baa2XDro" 
+                        },
+                        {   
+                            "trackNumber": 15,
+                            "trackTitle": "Looking For Your Name (feat. Gavin DeGraw)",
+                            "trackLength": "4:53",
+                            "trackUrl": "https://www.youtube.com/watch?v=1qiKbKGfk-Y" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
