@@ -3533,6 +3533,83 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 39,
+            "name": "Skrux",
+            "homecountry": "USA",
+            "genre": "Melodic Bass, Electronica",
+            "url": "https://www.facebook.com/skruxmusic/",
+            "twitterUrl": "https://twitter.com/Skrux",
+            "facebookUrl": "https://www.facebook.com/skruxmusic/",
+            "instagramUrl": "https://www.instagram.com/skrux/",
+            "spotifyUrl": "https://open.spotify.com/artist/6cwRqYSDYwWsLveCcDRhyY",
+            "appleMusicUrl": "https://music.apple.com/us/artist/skrux/813824361",
+            "soundcloudUrl": "https://soundcloud.com/skrux",
+            "youtubeUrl": "https://www.youtube.com/channel/UC59ckOVjWdH2-r2F2wyupTA",
+            "curatedTrack": "You & Me",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=UifuuynvrlY",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Skrux",
+                    "title": "Awaken",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/6SzOXQSMYme5QapKLZRq81",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/awaken/1473735273",    
+                    "releaseYear": 2019,
+                    "trackCount": 8,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Dauntless",
+                            "trackLength": "3:48",
+                            "trackUrl": "https://www.youtube.com/watch?v=cY3uOKlNGQ8" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Euphoria",
+                            "trackLength": "4:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=pCHslYiivsM" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Radiant",
+                            "trackLength": "3:53",
+                            "trackUrl": "https://www.youtube.com/watch?v=32oUZoKcNKA" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Devotion",
+                            "trackLength": "3:57",
+                            "trackUrl": "https://www.youtube.com/watch?v=0RhuW2NllYM" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Interlude",
+                            "trackLength": "2:19",
+                            "trackUrl": "https://www.youtube.com/watch?v=TfkQccQx0eA" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Reborn",
+                            "trackLength": "5:21",
+                            "trackUrl": "https://www.youtube.com/watch?v=dUu5A2Bk58E" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Revelation",
+                            "trackLength": "3:32",
+                            "trackUrl": "https://www.youtube.com/watch?v=-LcsMWSlV2A" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Serenity",
+                            "trackLength": "4:00",
+                            "trackUrl": "https://www.youtube.com/watch?v=m1u-s4n9D38" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
