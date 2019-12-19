@@ -3276,43 +3276,43 @@
                     "tracks": [
                         {   
                             "trackNumber": 1,
-                            "trackTitle": "Believe (featuring Ansel Elgort)",
+                            "trackTitle": "Believe (feat. Ansel Elgort)",
                             "trackLength": "3:37",
                             "trackUrl": "https://www.youtube.com/watch?v=zTY7dvFJbXY" 
                         },
                         {   
                             "trackNumber": 2,
-                            "trackTitle": "Back to Us (featuring Mike Waters)",
+                            "trackTitle": "Back to Us (feat. Mike Waters)",
                             "trackLength": "3:00",
                             "trackUrl": "https://www.youtube.com/watch?v=RLam8EkAEbQ" 
                         },
                         {   
                             "trackNumber": 3,
-                            "trackTitle": "Everybody's Somebody (featuring BullySongs)",
+                            "trackTitle": "Everybody's Somebody (feat. BullySongs)",
                             "trackLength": "3:18",
                             "trackUrl": "https://www.youtube.com/watch?v=JoDcYRyWWYY" 
                         },
                         {   
                             "trackNumber": 4,
-                            "trackTitle": "Put It On For Me (featuring Nina Nesbitt)",
+                            "trackTitle": "Put It On For Me (feat. Nina Nesbitt)",
                             "trackLength": "3:23",
                             "trackUrl": "https://www.youtube.com/watch?v=HfE_tDJuMek" 
                         },
                         {   
                             "trackNumber": 5,
-                            "trackTitle": "Give Me Love (featuring Calum Scott)",
+                            "trackTitle": "Give Me Love (feat. Calum Scott)",
                             "trackLength": "3:28",
                             "trackUrl": "https://www.youtube.com/watch?v=7OvlmRI-WpU" 
                         },
                         {   
                             "trackNumber": 6,
-                            "trackTitle": "Higher (featuring Betty Who)",
+                            "trackTitle": "Higher (feat. Betty Who)",
                             "trackLength": "3:00",
                             "trackUrl": "https://www.youtube.com/watch?v=wbxblKFtGCg" 
                         },
                         {   
                             "trackNumber": 7,
-                            "trackTitle": "Head Up (featuring James Newman)",
+                            "trackTitle": "Head Up (feat. James Newman)",
                             "trackLength": "3:11",
                             "trackUrl": "https://www.youtube.com/watch?v=PtOb57oY4Sk" 
                         },
@@ -3324,13 +3324,13 @@
                         },
                         {   
                             "trackNumber": 9,
-                            "trackTitle": "Bright Skies (The Bit U Know) (featuring Miles Graham)",
+                            "trackTitle": "Bright Skies (The Bit U Know) (feat. Miles Graham)",
                             "trackLength": "3:37",
                             "trackUrl": "https://www.youtube.com/watch?v=ExaSJE087Fo" 
                         },
                         {   
                             "trackNumber": 10,
-                            "trackTitle": "Found You (featuring BullySongs)",
+                            "trackTitle": "Found You (feat. BullySongs)",
                             "trackLength": "3:09",
                             "trackUrl": "https://www.youtube.com/watch?v=S9bR7j07ut0" 
                         },
@@ -3354,19 +3354,19 @@
                         },
                         {   
                             "trackNumber": 14,
-                            "trackTitle": "Don't Let Go (featuring Holly Winter)",
+                            "trackTitle": "Don't Let Go (feat. Holly Winter)",
                             "trackLength": "3:12",
                             "trackUrl": "https://www.youtube.com/watch?v=dNfU2vjecz4" 
                         },
                         {   
                             "trackNumber": 15,
-                            "trackTitle": "Killer (featuring Dave Thomas Junior)",
+                            "trackTitle": "Killer (feat. Dave Thomas Junior)",
                             "trackLength": "4:07",
                             "trackUrl": "https://www.youtube.com/watch?v=rjOtIavFDXk" 
                         },
                         {   
                             "trackNumber": 16,
-                            "trackTitle": "People Say (featuring Paije)",
+                            "trackTitle": "People Say (feat. Paije)",
                             "trackLength": "3:09",
                             "trackUrl": "https://www.youtube.com/watch?v=SS0ebmCqHxs" 
                         },
@@ -3416,6 +3416,119 @@
                             "trackTitle": "Scuttle (feat. Jordi Rivera)",
                             "trackLength": "3:07",
                             "trackUrl": "https://www.youtube.com/watch?v=ri_2BEbB-og" 
+                        }
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 38,
+            "name": "Alesso",
+            "homecountry": "Sweden",
+            "genre": "Progressive House, Electro",
+            "url": "http://www.alessoworld.com/",
+            "twitterUrl": "https://twitter.com/Alesso",
+            "facebookUrl": "https://www.facebook.com/AlessoOfficial",
+            "instagramUrl": "https://www.instagram.com/alesso/",
+            "spotifyUrl": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t",
+            "appleMusicUrl": "https://music.apple.com/us/artist/alesso/432464201",
+            "soundcloudUrl": "https://soundcloud.com/alesso",
+            "youtubeUrl": "https://www.youtube.com/channel/UC05i95k-w8CvrtZ-yGTob7A",
+            "curatedTrack": "Under Control",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=yZqmarGShxg",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Alesso",
+                    "title": "Forever",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/0rKecMSGWfKqhls4Rp3PJn",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/forever/1440859007",    
+                    "releaseYear": 2015,
+                    "trackCount": 14,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Profondo",
+                            "trackLength": "2:19",
+                            "trackUrl": "https://www.youtube.com/watch?v=thaKSOUJi1M" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Payday",
+                            "trackLength": "3:17",
+                            "trackUrl": "https://www.youtube.com/watch?v=TUbZ76WRrZ8" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Heroes (We Could Be) (feat. Tove Lo)",
+                            "trackLength": "3:31",
+                            "trackUrl": "https://www.youtube.com/watch?v=a7SouU3ECpU" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Tear the Roof Up",
+                            "trackLength": "3:16",
+                            "trackUrl": "https://www.youtube.com/watch?v=gej2L1BDokE" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Cool (feat. Roy English)",
+                            "trackLength": "3:42",
+                            "trackUrl": "https://www.youtube.com/watch?v=-aWtrEFfS4E" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Scars (feat. Ryan Tedder)",
+                            "trackLength": "3:18",
+                            "trackUrl": "https://www.youtube.com/watch?v=TqfhgPS6fD0" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Sweet Escape (feat. Sirena)",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=thpsmZiDv6U" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Destinations",
+                            "trackLength": "5:29",
+                            "trackUrl": "https://www.youtube.com/watch?v=VGyHaI0K3tk" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "If It Wasn't For You",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=d8gxIIxSK5o" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "In My Blood",
+                            "trackLength": "3:04",
+                            "trackUrl": "" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Under Control (feat. Calvin Harris & Hurts)",
+                            "trackLength": "3:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=yZqmarGShxg" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "All This Love (feat. Noonie Bao)",
+                            "trackLength": "4:11",
+                            "trackUrl": "https://www.youtube.com/watch?v=I-ZhOC7HX5s" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "If I Lose Myself (versus OneRepublic)",
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=dLa_ryRjC7M" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Immortale",
+                            "trackLength": "3:11",
+                            "trackUrl": "https://www.youtube.com/watch?v=qTQdOOyEVwc" 
                         }
                     ]
                 }
