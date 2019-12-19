@@ -3147,6 +3147,107 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 35,
+            "name": "Anki",
+            "homecountry": "U.K.",
+            "genre": "Future Bass, Electronica",
+            "url": "https://www.facebook.com/ankimusic/",
+            "twitterUrl": "https://twitter.com/ankimusic",
+            "facebookUrl": "https://www.facebook.com/ankimusic/",
+            "instagramUrl": "https://www.instagram.com/ankimusic/",
+            "spotifyUrl": "https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC",
+            "appleMusicUrl": "https://music.apple.com/us/artist/anki/1437953776",
+            "soundcloudUrl": "https://soundcloud.com/ankimusic",
+            "youtubeUrl": "https://www.youtube.com/channel/UCBRMJlMRSLSbKN0CVLOyrQA",
+            "curatedTrack": "Language (Anki Remix)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=l14vq3LOyaE",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Anki",
+                    "title": "Bloom",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/2sy97HeTkGB4xLK4ATxuqV",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/bloom/1421855201",    
+                    "releaseYear": 2018,
+                    "trackCount": 12,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Our Escape (feat. Mouse)",
+                            "trackLength": "5:12",
+                            "trackUrl": "https://www.youtube.com/watch?v=Yp-pR1ddpvM" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "My Head (feat. Listing)",
+                            "trackLength": "4:31",
+                            "trackUrl": "https://www.youtube.com/watch?v=rC93upD21qE" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Stride",
+                            "trackLength": "4:00",
+                            "trackUrl": "https://www.youtube.com/watch?v=ehnsOBbq5Ag" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Down The Line (feat. Trove)",
+                            "trackLength": "4:11",
+                            "trackUrl": "https://www.youtube.com/watch?v=WwkqaOXQDw0" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Above (feat. Indigou)",
+                            "trackLength": "4:13",
+                            "trackUrl": "https://www.youtube.com/watch?v=BpT8Cw_9how" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Lost",
+                            "trackLength": "4:48",
+                            "trackUrl": "https://www.youtube.com/watch?v=F9-LQPukStU" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Interlude; Distant",
+                            "trackLength": "1:46",
+                            "trackUrl": "https://www.youtube.com/watch?v=cbT-W1d1aYg" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Just A Game (feat. HICARI)",
+                            "trackLength": "4:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=UVPLzaMeVqk" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "No More Promises (feat. Miles Away)",
+                            "trackLength": "4:19",
+                            "trackUrl": "https://www.youtube.com/watch?v=qxKiamkjkw4" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Brand New (feat. Vini)",
+                            "trackLength": "4:23",
+                            "trackUrl": "https://www.youtube.com/watch?v=ERVpaoUXpiA" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "For Infinity",
+                            "trackLength": "4:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=LYHv21v4KWk" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "No One Knows",
+                            "trackLength": "4:21",
+                            "trackUrl": "https://www.youtube.com/watch?v=YhKCJ47tzsw" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
