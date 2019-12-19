@@ -3151,7 +3151,7 @@
             {
             "id": 35,
             "name": "Anki",
-            "homecountry": "U.K.",
+            "homecountry": "United Kingdom",
             "genre": "Future Bass, Electronica",
             "url": "https://www.facebook.com/ankimusic/",
             "twitterUrl": "https://twitter.com/ankimusic",
@@ -3244,6 +3244,143 @@
                             "trackTitle": "No One Knows",
                             "trackLength": "4:21",
                             "trackUrl": "https://www.youtube.com/watch?v=YhKCJ47tzsw" 
+                        }
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 36,
+            "name": "Don Diablo",
+            "homecountry": "Netherlands",
+            "genre": "Future House, Electro",
+            "url": "https://www.dondiablo.com/",
+            "twitterUrl": "https://twitter.com/DonDiablo",
+            "facebookUrl": "https://www.facebook.com/OfficialDonDiablo/",
+            "instagramUrl": "https://www.instagram.com/dondiablo/",
+            "spotifyUrl": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1",
+            "appleMusicUrl": "https://music.apple.com/us/artist/don-diablo/76849154",
+            "soundcloudUrl": "https://soundcloud.com/dondiablo",
+            "youtubeUrl": "https://www.youtube.com/channel/UC8y7Xa0E1Lo6PnVsu2KJbOA",
+            "curatedTrack": "Let Me Love You (Don Diablo Remix)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=6nv2GtsDQBc",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Don Diablo",
+                    "title": "FUTURE",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/1GvqalfwQaKLYLlTliScTh",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/future-deluxe-edition/1360383527",    
+                    "releaseYear": 2018,
+                    "trackCount": 18,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Believe (featuring Ansel Elgort)",
+                            "trackLength": "3:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=zTY7dvFJbXY" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Back to Us (featuring Mike Waters)",
+                            "trackLength": "3:00",
+                            "trackUrl": "https://www.youtube.com/watch?v=RLam8EkAEbQ" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Everybody's Somebody (featuring BullySongs)",
+                            "trackLength": "3:18",
+                            "trackUrl": "https://www.youtube.com/watch?v=JoDcYRyWWYY" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Put It On For Me (featuring Nina Nesbitt)",
+                            "trackLength": "3:23",
+                            "trackUrl": "https://www.youtube.com/watch?v=HfE_tDJuMek" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Give Me Love (featuring Calum Scott)",
+                            "trackLength": "3:28",
+                            "trackUrl": "https://www.youtube.com/watch?v=7OvlmRI-WpU" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Higher (featuring Betty Who)",
+                            "trackLength": "3:00",
+                            "trackUrl": "https://www.youtube.com/watch?v=wbxblKFtGCg" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Head Up (featuring James Newman)",
+                            "trackLength": "3:11",
+                            "trackUrl": "https://www.youtube.com/watch?v=PtOb57oY4Sk" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Save A Little Love",
+                            "trackLength": "3:22",
+                            "trackUrl": "https://www.youtube.com/watch?v=k4LphhTa_xg" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Bright Skies (The Bit U Know) (featuring Miles Graham)",
+                            "trackLength": "3:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=ExaSJE087Fo" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Found You (featuring BullySongs)",
+                            "trackLength": "3:09",
+                            "trackUrl": "https://www.youtube.com/watch?v=S9bR7j07ut0" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Reflections",
+                            "trackLength": "4:33",
+                            "trackUrl": "https://www.youtube.com/watch?v=55a2Lg1umCo" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "You Can't Change Me",
+                            "trackLength": "3:07",
+                            "trackUrl": "https://www.youtube.com/watch?v=bBnUgWc7k-k" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Momentum",
+                            "trackLength": "2:49",
+                            "trackUrl": "https://www.youtube.com/watch?v=flDt8TC6Fok" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Don't Let Go (featuring Holly Winter)",
+                            "trackLength": "3:12",
+                            "trackUrl": "https://www.youtube.com/watch?v=dNfU2vjecz4" 
+                        },
+                        {   
+                            "trackNumber": 15,
+                            "trackTitle": "Killer (featuring Dave Thomas Junior)",
+                            "trackLength": "4:07",
+                            "trackUrl": "https://www.youtube.com/watch?v=rjOtIavFDXk" 
+                        },
+                        {   
+                            "trackNumber": 16,
+                            "trackTitle": "People Say (featuring Paije)",
+                            "trackLength": "3:09",
+                            "trackUrl": "https://www.youtube.com/watch?v=SS0ebmCqHxs" 
+                        },
+                        {   
+                            "trackNumber": 17,
+                            "trackTitle": "Satellites",
+                            "trackLength": "3:30",
+                            "trackUrl": "https://www.youtube.com/watch?v=qr79nddKclk" 
+                        },
+                        {   
+                            "trackNumber": 18,
+                            "trackTitle": "Echoes",
+                            "trackLength": "3:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=UOUUY6psSL4" 
                         }
                     ]
                 }
