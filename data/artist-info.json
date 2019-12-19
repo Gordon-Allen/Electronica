@@ -3028,6 +3028,125 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 34,
+            "name": "Said The Sky",
+            "homecountry": "USA",
+            "genre": "Electronica, Future Bass",
+            "url": "http://saidthesky.com/",
+            "twitterUrl": "https://twitter.com/SaidTheSky",
+            "facebookUrl": "https://www.facebook.com/saidthesky",
+            "instagramUrl": "https://www.instagram.com/saidthesky/",
+            "spotifyUrl": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu?si=Wf57W0ljQQWQVmamNWBX4Q",
+            "appleMusicUrl": "https://music.apple.com/ca/artist/said-the-sky/867638609",
+            "soundcloudUrl": "https://soundcloud.com/said-the-sky",
+            "youtubeUrl": "https://www.youtube.com/channel/UCUZ7L-ISClTsGS3FIeHGp8w",
+            "curatedTrack": "Darling (feat. Missio)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=NqYjATuc69Y",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Said The Sky",
+                    "title": "Wide-Eyed",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/1aMtc9GO9PE3bqFd0pu4C4",
+                    "albumAppleMusicUrl": "https://music.apple.com/ca/album/wide-eyed/1387777010",    
+                    "releaseYear": 2018,
+                    "trackCount": 15,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Just Our Lullaby (Intro)",
+                            "trackLength": "0:47",
+                            "trackUrl": "https://www.youtube.com/watch?v=vlCwheTryPU" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Just Us (feat. Yuppycult)",
+                            "trackLength": "2:43",
+                            "trackUrl": "https://www.youtube.com/watch?v=hkrG8YcQlYw" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Show & Tell (feat. Clair eRidgely)",
+                            "trackLength": "3:06",
+                            "trackUrl": "https://www.youtube.com/watch?v=7raszwfp3-E" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Affection (feat. Origami & Jack Newsome)",
+                            "trackLength": "4:13",
+                            "trackUrl": "https://www.youtube.com/watch?v=SSDPiC41poQ" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Beautiful (feat. Diamond Eyes)",
+                            "trackLength": "2:54",
+                            "trackUrl": "https://www.youtube.com/watch?v=hM_ashDVYfw" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Pray For Me (feat. Origami)",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=k7spez-FjEQ" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Mxed Signals (feat. StayLoose & Kyle Reynolds)",
+                            "trackLength": "3:38",
+                            "trackUrl": "https://www.youtube.com/watch?v=TEYKbWbPolo" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Hold Me Closer",
+                            "trackLength": "1:09",
+                            "trackUrl": "https://www.youtube.com/watch?v=bX3fpo03Krc" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "All I Got (feat. Kwesi)",
+                            "trackLength": "5:16",
+                            "trackUrl": "https://www.youtube.com/watch?v=4WStgTPhPpM" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Faded (feat. FRND)",
+                            "trackLength": "3:20",
+                            "trackUrl": "https://www.youtube.com/watch?v=d5KYLE1Yv0c" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Erase Me (feat. NÉONHÈART)",
+                            "trackLength": "3:31",
+                            "trackUrl": "https://www.youtube.com/watch?v=wWFkdOGLyEc" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Change Your Mind (feat. Vancouver Sleep Clinic)",
+                            "trackLength": "2:59",
+                            "trackUrl": "https://www.youtube.com/watch?v=7R8PIPbZakI" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Over Getting Over You (feat. Matthew Koma)",
+                            "trackLength": "3:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=HAmv5j1_Oyc" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Superstar (feat. Dabin & Linn)",
+                            "trackLength": "3:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=2fA5RrJZEGA" 
+                        },
+                        {   
+                            "trackNumber": 15,
+                            "trackTitle": "Never Gone (feat. Kerli)",
+                            "trackLength": "4:03",
+                            "trackUrl": "https://www.youtube.com/watch?v=WcXDot0lvlQ" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
