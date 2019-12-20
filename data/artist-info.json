@@ -3610,6 +3610,95 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 40,
+            "name": "Gill Chang",
+            "homecountry": "Taiwan",
+            "genre": "Melodic Bass, Electronica",
+            "url": "http://officialgillchang.com/",
+            "twitterUrl": "https://twitter.com/iamgillchang",
+            "facebookUrl": "https://www.facebook.com/officialgillchang/",
+            "instagramUrl": "https://www.instagram.com/iamgillchang/?hl=en",
+            "spotifyUrl": "https://open.spotify.com/user/1292988320",
+            "appleMusicUrl": "https://music.apple.com/us/artist/gill-chang/723404753",
+            "soundcloudUrl": "https://soundcloud.com/gillchang",
+            "youtubeUrl": "https://www.youtube.com/channel/UCMS_q7eG2K0_HSgsLvl6AwQ",
+            "curatedTrack": "Hold On (feat. Maazel & Danni Carra)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=B6-xrAzg8KY",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Gill Chang",
+                    "title": "LIMBO",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/4JylbpdHuU5Kl0eQHR2spT",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/limbo/1478766598",    
+                    "releaseYear": 2019,
+                    "trackCount": 10,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "LIMBO",
+                            "trackLength": "1:53",
+                            "trackUrl": "https://www.youtube.com/watch?v=WhYbZ04-a98" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "failures",
+                            "trackLength": "2:57",
+                            "trackUrl": "https://www.youtube.com/watch?v=KiAxdtvTh-c" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "schizophrenic",
+                            "trackLength": "1:44",
+                            "trackUrl": "https://www.youtube.com/watch?v=6mqs1dxQC2k" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "act of FAITH",
+                            "trackLength": "2:36",
+                            "trackUrl": "https://www.youtube.com/watch?v=R7g2_zvXGO8" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "going under",
+                            "trackLength": "2:29",
+                            "trackUrl": "https://www.youtube.com/watch?v=2uGVbaLfCu0" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "birds be happy",
+                            "trackLength": "2:21",
+                            "trackUrl": "https://www.youtube.com/watch?v=U_XArKXxQ1M" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "flip side",
+                            "trackLength": "3:43",
+                            "trackUrl": "https://www.youtube.com/watch?v=8bpEmZVO60g" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "why now...",
+                            "trackLength": "2:23",
+                            "trackUrl": "https://www.youtube.com/watch?v=FnC3NAntAY4" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "deep thinks",
+                            "trackLength": "1:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=HwUZ2e-Zyi8" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "existence",
+                            "trackLength": "1:29",
+                            "trackUrl": "https://www.youtube.com/watch?v=td1KV8VZgEw" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
