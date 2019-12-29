@@ -3619,7 +3619,7 @@
             "url": "http://officialgillchang.com/",
             "twitterUrl": "https://twitter.com/iamgillchang",
             "facebookUrl": "https://www.facebook.com/officialgillchang/",
-            "instagramUrl": "https://www.instagram.com/iamgillchang/?hl=en",
+            "instagramUrl": "https://www.instagram.com/iamgillchang/",
             "spotifyUrl": "https://open.spotify.com/user/1292988320",
             "appleMusicUrl": "https://music.apple.com/us/artist/gill-chang/723404753",
             "soundcloudUrl": "https://soundcloud.com/gillchang",
@@ -3695,6 +3695,95 @@
                             "trackTitle": "existence",
                             "trackLength": "1:29",
                             "trackUrl": "https://www.youtube.com/watch?v=td1KV8VZgEw" 
+                        }
+                    ]
+                }
+                ]
+            },
+            {
+            "id": 41,
+            "name": "Swedish House Mafia",
+            "homecountry": "Sweden",
+            "genre": "Progressive House, Electro",
+            "url": "https://swedishhousemafia.com/",
+            "twitterUrl": "https://twitter.com/swedishousemfia",
+            "facebookUrl": "https://www.facebook.com/swedishhousemafia/",
+            "instagramUrl": "https://www.instagram.com/swedishhousemafia/",
+            "spotifyUrl": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs",
+            "appleMusicUrl": "https://music.apple.com/us/artist/swedish-house-mafia/375569761",
+            "soundcloudUrl": "https://soundcloud.com/officialswedishhousemafia",
+            "youtubeUrl": "https://www.youtube.com/channel/UC5HEq5U--O5nn134mizyCcw",
+            "curatedTrack": "Don't You Worry Child (feat. John Martin)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=1y6smkh6c-0",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Swedish House Mafia",
+                    "title": "Until Now",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/until-now/1021728914",    
+                    "releaseYear": 2012,
+                    "trackCount": 10,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Greyhound",
+                            "trackLength": "6:50",
+                            "trackUrl": "https://www.youtube.com/watch?v=PDboaDrHGbA" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Here We Go (feat. Hard Rock Sofa & Swanky Tunes)",
+                            "trackLength": "6:02",
+                            "trackUrl": "https://www.youtube.com/watch?v=QlVJwlMTrqA" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Calling (Lose My Mind) (feat. Alesso & Ryan Tedder)",
+                            "trackLength": "6:14",
+                            "trackUrl": "https://www.youtube.com/watch?v=9G1I16gJBvU" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Antidote (feat. Knife Party)",
+                            "trackLength": "6:14",
+                            "trackUrl": "https://www.youtube.com/watch?v=fbafd6UV3w4" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Miami 2 Ibiza (feat. Tinie Tempah)",
+                            "trackLength": "5:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=LCH1AsUydSc" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Lights (feat. Third Party)",
+                            "trackLength": "5:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=82D0Zh5mI1k" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Don't You Worry Child (feat. John Martin)",
+                            "trackLength": "6:43",
+                            "trackUrl": "https://www.youtube.com/watch?v=1y6smkh6c-0" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Every Teardrop Is a Waterfall (Coldplay vs. Swedish House Mafia)",
+                            "trackLength": "6:49",
+                            "trackUrl": "https://www.youtube.com/watch?v=wzJEbYCMUDM" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "One (Your Name) (feat. Pharrell)",
+                            "trackLength": "5:51",
+                            "trackUrl": "https://www.youtube.com/watch?v=PkQ5rEJaTmk" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Save The World",
+                            "trackLength": "6:51",
+                            "trackUrl": "https://www.youtube.com/watch?v=BXpdmKELE1k" 
                         }
                     ]
                 }
