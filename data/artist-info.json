@@ -3788,6 +3788,125 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 42,
+            "name": "Calvin Harris",
+            "homecountry": "United Kingdom",
+            "genre": "Electro, Progressive House",
+            "url": "http://calvinharris.com/",
+            "twitterUrl": "https://twitter.com/calvinharris",
+            "facebookUrl": "https://www.facebook.com/calvinharris/",
+            "instagramUrl": "https://www.instagram.com/calvinharris/",
+            "spotifyUrl": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY",
+            "appleMusicUrl": "https://music.apple.com/us/artist/calvin-harris/201955086",
+            "soundcloudUrl": "https://soundcloud.com/calvinharris",
+            "youtubeUrl": "https://www.youtube.com/channel/UCIjYyZxkFucP_W-tmXg_9Ow",
+            "curatedTrack": "Summer",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=ebXbLfLACGM",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Calvin Harris",
+                    "title": "Motion",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/motion/922876176",    
+                    "releaseYear": 2014,
+                    "trackCount": 15,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Faith",
+                            "trackLength": "3:39",
+                            "trackUrl": "https://www.youtube.com/watch?v=0zYcAMAVCmU" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Under Control (feat. Alesso & Hurts)",
+                            "trackLength": "3:04",
+                            "trackUrl": "https://www.youtube.com/watch?v=yZqmarGShxg" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Blame (feat. John Newman)",
+                            "trackLength": "3:32",
+                            "trackUrl": "https://www.youtube.com/watch?v=6ACl8s_tBzE" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Love Now (feat. All About She)",
+                            "trackLength": "3:38",
+                            "trackUrl": "https://www.youtube.com/watch?v=KsiLWBURhhs" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Slow Acid",
+                            "trackLength": "3:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=no1YHRhFr5A" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Outside (feat. Ellie Goulding)",
+                            "trackLength": "3:47",
+                            "trackUrl": "https://www.youtube.com/watch?v=J9NQFACZYEU" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "It Was You (feat. Firebeatz)",
+                            "trackLength": "3:44",
+                            "trackUrl": "https://www.youtube.com/watch?v=NLUC6uQeAlQ" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Summer",
+                            "trackLength": "3:42",
+                            "trackUrl": "https://www.youtube.com/watch?v=ebXbLfLACGM" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Overdrive (feat. Ummet Ozcan)",
+                            "trackLength": "4:51",
+                            "trackUrl": "https://www.youtube.com/watch?v=kMS8m45FtmQ" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Ecstasy (feat. Hurts)",
+                            "trackLength": "3:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=Gi7QZSq-KxI" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Pray to God (feat. Haim)",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=8FOBxcluXdk" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Open Wide (feat. Big Sean)",
+                            "trackLength": "3:07",
+                            "trackUrl": "https://www.youtube.com/watch?v=zVzhpkFBFP8" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Together (feat.Gwen Stefani)",
+                            "trackLength": "3:38",
+                            "trackUrl": "https://www.youtube.com/watch?v=8B8nLah6Gw8" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Burnin' (feat. R3hab)",
+                            "trackLength": "3:54",
+                            "trackUrl": "https://www.youtube.com/watch?v=ss6CAIGpoko" 
+                        },
+                        {   
+                            "trackNumber": 15,
+                            "trackTitle": "Dollar Signs (feat. Tinashe)",
+                            "trackLength": "3:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=CGNyQ3-5CE4" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
