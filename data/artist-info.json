@@ -3907,6 +3907,119 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 43,
+            "name": "CAZZETTE",
+            "homecountry": "Sweden",
+            "genre": "Electronica, Deep House",
+            "url": "https://www.insomniac.com/music/artists/cazzette/",
+            "twitterUrl": "https://twitter.com/cazzette",
+            "facebookUrl": "https://www.facebook.com/TheCAZZETTE/",
+            "instagramUrl": "https://www.instagram.com/cazzette/",
+            "spotifyUrl": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS",
+            "appleMusicUrl": "https://music.apple.com/ca/artist/cazzette/484500055",
+            "soundcloudUrl": "https://soundcloud.com/cazzette",
+            "youtubeUrl": "https://www.youtube.com/channel/UCCm_o9uEMaxBOuGB5DJigzA",
+            "curatedTrack": "Sleepless (feat. The High)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=nCB-e2kj1nI",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "CAZZETTE",
+                    "title": "Eject",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs",
+                    "albumAppleMusicUrl": "https://music.apple.com/ca/album/eject/1444068242",    
+                    "releaseYear": 2014,
+                    "trackCount": 14,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "On The Road",
+                            "trackLength": "4:00",
+                            "trackUrl": "https://www.youtube.com/watch?v=r_t_xy1IrUA" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Beam Me Up (Radio Edit)",
+                            "trackLength": "3:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=19_5SjoHGfI" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Run For Cover",
+                            "trackLength": "5:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=k_PKDy8Nta8" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Hit Da Face",
+                            "trackLength": "6:15",
+                            "trackUrl": "https://www.youtube.com/watch?v=BoXUR1v5-e8" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Cream",
+                            "trackLength": "6:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=SdXQjTcf1Zg" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "The Rat",
+                            "trackLength": "6:05",
+                            "trackUrl": "https://www.youtube.com/watch?v=qtVEJpizPT4" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Beam Me Up",
+                            "trackLength": "6:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=mp-IZEFqrG0" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Weapon",
+                            "trackLength": "3:10",
+                            "trackUrl": "https://www.youtube.com/watch?v=c5lVAWmCJPU" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Endorphine",
+                            "trackLength": "5:47",
+                            "trackUrl": "https://www.youtube.com/watch?v=U8qggluRULc" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "I Surrender (feat. Niles Mason)",
+                            "trackLength": "6:31",
+                            "trackUrl": "https://www.youtube.com/watch?v=R4OzD-0UXs8" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Downfall",
+                            "trackLength": "6:43",
+                            "trackUrl": "https://www.youtube.com/watch?v=Rz3kZcoIb_s" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "The Coming",
+                            "trackLength": "7:23",
+                            "trackUrl": "https://www.youtube.com/watch?v=hAVQfRPFM2c" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Blood Theme",
+                            "trackLength": "5:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=jkJuuz5FeZc" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "F4T",
+                            "trackLength": "6:54",
+                            "trackUrl": "https://www.youtube.com/watch?v=CZkj1bYpjjM" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
