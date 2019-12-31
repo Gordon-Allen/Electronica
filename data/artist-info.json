@@ -4020,6 +4020,113 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 44,
+            "name": "Galantis",
+            "homecountry": "Sweden",
+            "genre": "Progressive House, Electro",
+            "url": "https://www.wearegalantis.com/",
+            "twitterUrl": "https://twitter.com/wearegalantis/",
+            "facebookUrl": "https://www.facebook.com/wearegalantis/",
+            "instagramUrl": "https://www.instagram.com/wearegalantis/",
+            "spotifyUrl": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu",
+            "appleMusicUrl": "https://music.apple.com/us/artist/galantis/543322169",
+            "soundcloudUrl": "https://soundcloud.com/wearegalantis",
+            "youtubeUrl": "https://www.youtube.com/channel/UC0YlhwQabxkHb2nfRTzsTTA",
+            "curatedTrack": "Louder Harder Better",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=FMUf8K-dkIk",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Galantis",
+                    "title": "Pharmacy",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/pharmacy/984746615",    
+                    "releaseYear": 2015,
+                    "trackCount": 13,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Forever Tonight",
+                            "trackLength": "3:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=duW_HF4ut94" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Gold Dust",
+                            "trackLength": "3:55",
+                            "trackUrl": "https://www.youtube.com/watch?v=t10s26GsWvY" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "In My Head",
+                            "trackLength": "3:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=aZ5gkJDmZv4" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Runaway (U & I)",
+                            "trackLength": "3:47",
+                            "trackUrl": "https://www.youtube.com/watch?v=5XR7naZ_zZA" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Dancin' To The Sound Of A Broken Heart",
+                            "trackLength": "3:38",
+                            "trackUrl": "https://www.youtube.com/watch?v=QpQsg0Urw0Y" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Louder, Harder, Better",
+                            "trackLength": "4:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=FMUf8K-dkIk" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Kill 'Em With The Love",
+                            "trackLength": "3:42",
+                            "trackUrl": "https://www.youtube.com/watch?v=UuYadW_twjc" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Call If You Need Me",
+                            "trackLength": "4:01",
+                            "trackUrl": "https://www.youtube.com/watch?v=djCwpYOcFtk" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Peanut Butter Jelly",
+                            "trackLength": "3:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=4jBDnYE1WjI" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Firebird",
+                            "trackLength": "4:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=v48pibjFWeg" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Don't Care",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=au5Vg5Q2BaE" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "You",
+                            "trackLength": "3:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=-y11kJzwe4Y" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Water",
+                            "trackLength": "3:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=5Zapw4WhNug" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
