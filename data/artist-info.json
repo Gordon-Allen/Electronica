@@ -4127,6 +4127,149 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 45,
+            "name": "Tritonal",
+            "homecountry": "USA",
+            "genre": "Progressive House, Electro",
+            "url": "http://tritonalmusic.com/",
+            "twitterUrl": "https://twitter.com/tritonal",
+            "facebookUrl": "https://www.facebook.com/Tritonal",
+            "instagramUrl": "https://www.instagram.com/tritonal/",
+            "spotifyUrl": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76?si=r2NPkQeBTfGR_N8zzY46vA",
+            "appleMusicUrl": "https://music.apple.com/us/artist/tritonal/283453767",
+            "soundcloudUrl": "https://soundcloud.com/tritonalmusic",
+            "youtubeUrl": "https://www.youtube.com/channel/UCU4gE6_3JrqOXBlA2npWiBw",
+            "curatedTrack": "Anchor",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=JkOXrWGjz_M",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Tritonal",
+                    "title": "U & Me",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/5ISJF201oRjBY1iAeyT17m",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/u-me/1459867816",    
+                    "releaseYear": 2019,
+                    "trackCount": 19,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Little By Little (feat. Lourdiz)",
+                            "trackLength": "5:38",
+                            "trackUrl": "https://www.youtube.com/watch?v=_vLz8_CwOTA" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Bloom",
+                            "trackLength": "4:16",
+                            "trackUrl": "https://www.youtube.com/watch?v=9gkYzMEKElU" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "U Found Me",
+                            "trackLength": "4:36",
+                            "trackUrl": "https://www.youtube.com/watch?v=DtkW-o2En00" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Out My Mind (feat. Riley Clemmons)",
+                            "trackLength": "3:15",
+                            "trackUrl": "https://www.youtube.com/watch?v=A6c1_x9VmL4" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Ready (feat. Sultan + Shepard & Zack Sorgen)",
+                            "trackLength": "4:08",
+                            "trackUrl": "https://www.youtube.com/watch?v=9gVYDpXG7Ko" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "When I’m With U (feat. Maia Wright)",
+                            "trackLength": "4:17",
+                            "trackUrl": "https://www.youtube.com/watch?v=eiPA8n6oCtg" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Leaving Here Alone (feat. Matluck & Karra)",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=ydfsdl05LMU" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Hard Pass (feat. Ryann)",
+                            "trackLength": "3:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=tnLdotS8SEs" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Little Bit Of Love (feat. Rachel Platten)",
+                            "trackLength": "3:34",
+                            "trackUrl": "https://www.youtube.com/watch?v=ezc7GTmCGhw" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Love U Right (feat. Lourdiz)",
+                            "trackLength": "3:21",
+                            "trackUrl": "https://www.youtube.com/watch?v=Vn2I83eVhXw" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Medicine (feat. LEVV)",
+                            "trackLength": "6:21",
+                            "trackUrl": "https://www.youtube.com/watch?v=v50S_GyuTo4" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Quit U",
+                            "trackLength": "3:46",
+                            "trackUrl": "https://www.youtube.com/watch?v=qfsxGjGRCYI" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Just Like U (feat. APEK & Meron Ryan)",
+                            "trackLength": "4:41",
+                            "trackUrl": "https://www.youtube.com/watch?v=rl7eOGig3II" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Real (feat. Evalyn)",
+                            "trackLength": "3:23",
+                            "trackUrl": "https://www.youtube.com/watch?v=cqej3QIz9Y0" 
+                        },
+                        {   
+                            "trackNumber": 15,
+                            "trackTitle": "Diamonds (feat. Rosie Darling)",
+                            "trackLength": "3:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=t9iOP47n7WY" 
+                        },
+                        {   
+                            "trackNumber": 16,
+                            "trackTitle": "Show You Love (feat. Shanahan)",
+                            "trackLength": "3:34",
+                            "trackUrl": "https://www.youtube.com/watch?v=96v7oWwe70M" 
+                        },
+                        {   
+                            "trackNumber": 17,
+                            "trackTitle": "Easy (feat. Kapera & Ryann)",
+                            "trackLength": "3:45",
+                            "trackUrl": "https://www.youtube.com/watch?v=HVaolW8AxNM" 
+                        },
+                        {   
+                            "trackNumber": 18,
+                            "trackTitle": "Gonna Be Alright (feat. Mozella)",
+                            "trackLength": "3:42",
+                            "trackUrl": "https://www.youtube.com/watch?v=4ofI0BJjogg" 
+                        },
+                        {   
+                            "trackNumber": 19,
+                            "trackTitle": "Ayana (feat. Nick Sibicky)",
+                            "trackLength": "6:24",
+                            "trackUrl": "https://www.youtube.com/watch?v=GKHrstVBCNY" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
