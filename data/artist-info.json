@@ -4441,6 +4441,119 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 49,
+            "name": "DJ Snake",
+            "homecountry": "France",
+            "genre": "Trap, Future Bass",
+            "url": "https://djsnake.com/",
+            "twitterUrl": "https://twitter.com/djsnake",
+            "facebookUrl": "https://www.facebook.com/djsnake.fr",
+            "instagramUrl": "https://www.instagram.com/djsnake/",
+            "spotifyUrl": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4",
+            "appleMusicUrl": "https://music.apple.com/us/artist/dj-snake/125742557",
+            "soundcloudUrl": "https://soundcloud.com/djsnake",
+            "youtubeUrl": "https://www.youtube.com/channel/UC_x8HoD18XJkILQBreVENUQ",
+            "curatedTrack": "When The Lights Go Down",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=zJQr1v6njNo",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "DJ Snake",
+                    "title": "Encore",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp",
+                    "albumAppleMusicUrl": "https://music.apple.com/tr/album/encore/1443231191",    
+                    "releaseYear": 2016,
+                    "trackCount": 14,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Intro (A86)",
+                            "trackLength": "1:23",
+                            "trackUrl": "https://www.youtube.com/watch?v=Gv-4Rg9lwz8" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Middle (feat. Bipolar Sunshine)",
+                            "trackLength": "3:40",
+                            "trackUrl": "https://www.youtube.com/watch?v=IvPT2QuCIOA" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Sahara (feat. Skrillex)",
+                            "trackLength": "4:18",
+                            "trackUrl": "https://www.youtube.com/watch?v=hlne4EEsdxk" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Sober (feat. JRY)",
+                            "trackLength": "3:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=BDW7-w3PGdk" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Pigalle (feat. Moksi)",
+                            "trackLength": "4:23",
+                            "trackUrl": "https://www.youtube.com/results?search_query=dj+snake+pigalle" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "Talk (feat. George Maple)",
+                            "trackLength": "3:57",
+                            "trackUrl": "https://www.youtube.com/watch?v=MtQZeMqR4zU" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Ocho Cinco (feat. Yellow Claw)",
+                            "trackLength": "3:42",
+                            "trackUrl": "https://www.youtube.com/watch?v=omtx1oMYrTI" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "The Half (feat. Jeremih, Young Thug, & Swizz Beatz)",
+                            "trackLength": "3:37",
+                            "trackUrl": "https://www.youtube.com/watch?v=h1DgPSJnXm4" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Oh Me Oh My (feat. Travis Scott, Migos & GASHI)",
+                            "trackLength": "4:16",
+                            "trackUrl": "https://www.youtube.com/watch?v=LY8sh4u7d3o" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "Propaganda",
+                            "trackLength": "4:09",
+                            "trackUrl": "https://www.youtube.com/watch?v=Wyegh_ba_l8" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "4 Life (feat. GASHI)",
+                            "trackLength": "3:33",
+                            "trackUrl": "https://www.youtube.com/watch?v=2PTG5XK4C5Y" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Future, Pt. 2 (feat. Bipolar Sunshine)",
+                            "trackLength": "3:42",
+                            "trackUrl": "https://www.youtube.com/watch?v=dIgz4FH3xZ0" 
+                        },
+                        {   
+                            "trackNumber": 13,
+                            "trackTitle": "Let Me Love You (feat. Justin Bieber)",
+                            "trackLength": "3:25",
+                            "trackUrl": "https://www.youtube.com/watch?v=euCqAq6BRa4" 
+                        },
+                        {   
+                            "trackNumber": 14,
+                            "trackTitle": "Here Comes the Night (feat. Mr Hudson)",
+                            "trackLength": "4:46",
+                            "trackUrl": "https://www.youtube.com/watch?v=5_2ALxR9vds" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
