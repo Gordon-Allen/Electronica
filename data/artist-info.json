@@ -4270,6 +4270,41 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 46,
+            "name": "Syn Cole",
+            "homecountry": "Estonia",
+            "genre": "Deep House, Electro",
+            "url": "http://syncole.com/",
+            "twitterUrl": "https://twitter.com/SynColeOfficial",
+            "facebookUrl": "https://www.facebook.com/SynCole",
+            "instagramUrl": "https://www.instagram.com/SynCole/",
+            "spotifyUrl": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH",
+            "appleMusicUrl": "https://music.apple.com/us/artist/syn-cole/594222889",
+            "soundcloudUrl": "https://soundcloud.com/SynCole",
+            "youtubeUrl": "https://www.youtube.com/channel/UC2h2YKnpm7PnpsLEqmzkDOA",
+            "curatedTrack": "Discovery (feat. Victor Crone)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=9WueLDczuto",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Syn Cole",
+                    "title": "Got the Feeling (Single)",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/62MAZVEk8ZTiY9Y8cwLgUm",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/got-the-feeling-feat-kirstin-single/1314401084",    
+                    "releaseYear": 2017,
+                    "trackCount": 1,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Got the Feeling (feat. kirstin)",
+                            "trackLength": "2:58",
+                            "trackUrl": "https://www.youtube.com/watch?v=VgDAv685MJc" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
