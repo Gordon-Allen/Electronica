@@ -4554,6 +4554,65 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 50,
+            "name": "Taska Black",
+            "homecountry": "Belgium",
+            "genre": "Electronica, Melodic Bass",
+            "url": "https://taskablack.com/",
+            "twitterUrl": "https://twitter.com/taskablack",
+            "facebookUrl": "https://www.facebook.com/taskablack/",
+            "instagramUrl": "https://www.instagram.com/taskablack/",
+            "spotifyUrl": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3",
+            "appleMusicUrl": "https://music.apple.com/us/artist/taska-black/1054369837",
+            "soundcloudUrl": "https://soundcloud.com/taskablack",
+            "youtubeUrl": "https://www.youtube.com/channel/UCVCFQyrzVRm80lPTjh9CQSg",
+            "curatedTrack": "In Your Eyes (feat. Ayelle)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=BI2KUXOFzVQ",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Taska Black",
+                    "title": "MINDS",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/5BNJy9evS5mLWTXBYUZ3oy",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/minds-ep/1439884124",    
+                    "releaseYear": 2018,
+                    "trackCount": 5,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Untitled000 (Intro)",
+                            "trackLength": "1:15",
+                            "trackUrl": "https://www.youtube.com/watch?v=K0-dM62fheU" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "Losing Our Minds (feat. Nevve)",
+                            "trackLength": "3:28",
+                            "trackUrl": "https://www.youtube.com/watch?v=553TZqF1ldo" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Get Out Of My Head (feat. Midoca)",
+                            "trackLength": "3:02",
+                            "trackUrl": "https://www.youtube.com/watch?v=rcI4R-gZYOo" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "Fly Free (Interlude)",
+                            "trackLength": "1:28",
+                            "trackUrl": "https://www.youtube.com/watch?v=TcnolQKvaJ0" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "In The End (feat. Aviella)",
+                            "trackLength": "3:09",
+                            "trackUrl": "https://www.youtube.com/watch?v=jgBHkkMwryc" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
