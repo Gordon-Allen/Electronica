@@ -4406,6 +4406,41 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 48,
+            "name": "Denzal Park",
+            "homecountry": "Australia",
+            "genre": "Electronica, Electro House",
+            "url": "https://www.beatport.com/artist/denzal-park/92818",
+            "twitterUrl": "https://twitter.com/denzalpark",
+            "facebookUrl": "https://www.facebook.com/denzalpark/",
+            "instagramUrl": "https://www.instagram.com/denzalpark/",
+            "spotifyUrl": "https://open.spotify.com/artist/298I931uc5poF6kIU5XJtI",
+            "appleMusicUrl": "https://itunes.apple.com/us/artist/denzal-park/294002939",
+            "soundcloudUrl": "https://soundcloud.com/denzalpark",
+            "youtubeUrl": "https://www.youtube.com/channel/UC1onKfJqJFIItmG73YCVFyg",
+            "curatedTrack": "Hold On (Denzal Park Remix)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=oGwoiN_FJ7g",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Denzal Park",
+                    "title": "Into The Light (Single)",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/3LGEtx34badDrWMdm5N3Fs",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/into-the-light-radio-edit-single/930699271",    
+                    "releaseYear": 2014,
+                    "trackCount": 1,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Into The Light (feat. M4SONIC & Dirt Cheap)",
+                            "trackLength": "3:10",
+                            "trackUrl": "https://www.youtube.com/watch?v=hhU5LmrGcRI" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
