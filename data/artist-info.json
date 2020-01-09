@@ -4305,6 +4305,107 @@
                     ]
                 }
                 ]
+            },
+            {
+            "id": 47,
+            "name": "Kungs",
+            "homecountry": "France",
+            "genre": "Tropical, Deep House",
+            "url": "http://kungs-music.com/",
+            "twitterUrl": "https://twitter.com/KungsMusic",
+            "facebookUrl": "https://www.facebook.com/Kungsmusic/",
+            "instagramUrl": "https://www.instagram.com/kungs/",
+            "spotifyUrl": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d",
+            "appleMusicUrl": "https://music.apple.com/us/artist/kungs/885054140",
+            "soundcloudUrl": "https://soundcloud.com/kungsmusic",
+            "youtubeUrl": "https://www.youtube.com/channel/UCdaQq_IggxNXTvW2HV1GXRQ",
+            "curatedTrack": "This Girl (Kungs vs Cookin’ on 3 Burners)",
+            "curatedTrackUrl": "https://www.youtube.com/watch?v=2Y6Nne8RvaA",
+            "album": [
+                {
+                    "id": 1,
+                    "artist": "Kungs",
+                    "title": "Layers",
+                    "albumSpotifyUrl": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB",
+                    "albumAppleMusicUrl": "https://music.apple.com/us/album/layers/1440894912",    
+                    "releaseYear": 2016,
+                    "trackCount": 12,
+                    "tracks": [
+                        {   
+                            "trackNumber": 1,
+                            "trackTitle": "Melody (feat. Luke Pritchard)",
+                            "trackLength": "4:02",
+                            "trackUrl": "https://www.youtube.com/watch?v=5dQ3lhl18-4" 
+                        },
+                        {   
+                            "trackNumber": 2,
+                            "trackTitle": "This Girl (Kungs vs Cookin’ on 3 Burners)",
+                            "trackLength": "3:15",
+                            "trackUrl": "https://www.youtube.com/watch?v=2Y6Nne8RvaA" 
+                        },
+                        {   
+                            "trackNumber": 3,
+                            "trackTitle": "Don't You Know (feat. Jamie N Commons)",
+                            "trackLength": "3:04",
+                            "trackUrl": "https://www.youtube.com/watch?v=Nf-FLiO4p3c" 
+                        },
+                        {   
+                            "trackNumber": 4,
+                            "trackTitle": "You Remain (feat. RITUAL)",
+                            "trackLength": "3:43",
+                            "trackUrl": "https://www.youtube.com/watch?v=zcDDNR1bVXY" 
+                        },
+                        {   
+                            "trackNumber": 5,
+                            "trackTitle": "Freedom (feat. Wolfgang)",
+                            "trackLength": "2:54",
+                            "trackUrl": "https://www.youtube.com/watch?v=aSQo2Ii3p5Y" 
+                        },
+                        {   
+                            "trackNumber": 6,
+                            "trackTitle": "When You're Gone (feat. tiLLie)",
+                            "trackLength": "3:35",
+                            "trackUrl": "https://www.youtube.com/watch?v=jX6EolSktCg" 
+                        },
+                        {   
+                            "trackNumber": 7,
+                            "trackTitle": "Wild Church",
+                            "trackLength": "3:54",
+                            "trackUrl": "https://www.youtube.com/watch?v=YBk736CetXc" 
+                        },
+                        {   
+                            "trackNumber": 8,
+                            "trackTitle": "Bangalore Streets (feat. Freia)",
+                            "trackLength": "3:10",
+                            "trackUrl": "https://www.youtube.com/watch?v=DceLVj9lDxs" 
+                        },
+                        {   
+                            "trackNumber": 9,
+                            "trackTitle": "Tripping Off (feat. Lune)",
+                            "trackLength": "2:56",
+                            "trackUrl": "https://www.youtube.com/watch?v=nW-cGHueHwI" 
+                        },
+                        {   
+                            "trackNumber": 10,
+                            "trackTitle": "I Feel So Bad (feat. Ephemerals)",
+                            "trackLength": "3:26",
+                            "trackUrl": "https://www.youtube.com/watch?v=0SVk3adkchY" 
+                        },
+                        {   
+                            "trackNumber": 11,
+                            "trackTitle": "Crazy Enough (feat. Richard Judge)",
+                            "trackLength": "3:52",
+                            "trackUrl": "https://www.youtube.com/watch?v=t1SyLBXHZFQ" 
+                        },
+                        {   
+                            "trackNumber": 12,
+                            "trackTitle": "Trust (feat. Rae Morris)",
+                            "trackLength": "3:25",
+                            "trackUrl": "https://www.youtube.com/watch?v=GFuRJNRB790" 
+                        }
+                    ]
+                }
+                ]
             }
     ]
 }
