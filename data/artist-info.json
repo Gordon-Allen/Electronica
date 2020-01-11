@@ -4696,6 +4696,41 @@
                         ]
                     }
                     ]
+                },
+                {
+                "id": 52,
+                "name": "Diamond Eyes",
+                "homecountry": "United Kingdom",
+                "genre": "Melodic, Future Bass",
+                "url": "https://www.beatport.com/artist/diamond-eyes/342259",
+                "twitterUrl": "https://twitter.com/IamDiamondEyes",
+                "facebookUrl": "https://www.facebook.com/IamDiamondEyes/",
+                "instagramUrl": "https://www.instagram.com/iamdiamondeyes/",
+                "spotifyUrl": "https://open.spotify.com/artist/7MsxSrYQnm84eunkGEVlLb",
+                "appleMusicUrl": "https://music.apple.com/us/artist/diamond-eyes/567443730",
+                "soundcloudUrl": "https://soundcloud.com/iamdiamondeyes",
+                "youtubeUrl": "https://www.youtube.com/user/IamDiamondEyes",
+                "curatedTrack": "Hold On",
+                "curatedTrackUrl": "https://www.youtube.com/watch?v=-KHmQUWCrYk",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "Diamond Eyes",
+                        "title": "Stay With Me (Single)",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/4UVKTPiw0Q0rRU9F740JrO",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/stay-with-me-single/1322413887",    
+                        "releaseYear": 2015,
+                        "trackCount": 1,
+                        "tracks": [
+                            {   
+                                "trackNumber": 1,
+                                "trackTitle": "Stay With Me (feat. Christina Grimmie)",
+                                "trackLength": "4:11",
+                                "trackUrl": "https://www.youtube.com/watch?v=ZStMp6XNVic" 
+                            }
+                        ]
+                    }
+                    ]
                 }
-        ]
+            ]
 }
