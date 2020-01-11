@@ -4613,6 +4613,89 @@
                     ]
                 }
                 ]
-            }
-    ]
+            },
+            {
+                "id": 51,
+                "name": "Conro",
+                "homecountry": "Canada",
+                "genre": "Melodic Bass, Electronica",
+                "url": "https://www.beatport.com/artist/conro/303031",
+                "twitterUrl": "https://twitter.com/conromusic",
+                "facebookUrl": "https://www.facebook.com/conromusic",
+                "instagramUrl": "https://www.instagram.com/conromusic",
+                "spotifyUrl": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ",
+                "appleMusicUrl": "https://music.apple.com/us/artist/conro/1425272443",
+                "soundcloudUrl": "https://soundcloud.com/conromusic",
+                "youtubeUrl": "https://www.youtube.com/channel/UCBAmURE9e3lrrTyd29szwXQ",
+                "curatedTrack": "Something About You (Conro Remix)",
+                "curatedTrackUrl": "https://www.youtube.com/watch?v=9vQ2l34uzVo",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "Conro",
+                        "title": "All Eyes on Me",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/4bkcQYpykHenlD9GsNRxPU",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/all-eyes-on-me/1438162398",    
+                        "releaseYear": 2018,
+                        "trackCount": 9,
+                        "tracks": [
+                            {   
+                                "trackNumber": 1,
+                                "trackTitle": "The Chase",
+                                "trackLength": "3:38",
+                                "trackUrl": "https://www.youtube.com/watch?v=nzpkN-qubdc" 
+                            },
+                            {   
+                                "trackNumber": 2,
+                                "trackTitle": "All Eyes On Me",
+                                "trackLength": "3:19",
+                                "trackUrl": "https://www.youtube.com/watch?v=nE_zFlX73zY" 
+                            },
+                            {   
+                                "trackNumber": 3,
+                                "trackTitle": "Take Me There",
+                                "trackLength": "4:28",
+                                "trackUrl": "https://www.youtube.com/watch?v=dEvkS76GGaA" 
+                            },
+                            {   
+                                "trackNumber": 4,
+                                "trackTitle": "Midnight Lights (feat. Ini Oladosu)",
+                                "trackLength": "3:40",
+                                "trackUrl": "https://www.youtube.com/watch?v=zi_6UJUyZkY" 
+                            },
+                            {   
+                                "trackNumber": 5,
+                                "trackTitle": "Trippin",
+                                "trackLength": "3:31",
+                                "trackUrl": "https://www.youtube.com/watch?v=lAHpT1eAYH4" 
+                            },
+                            {   
+                                "trackNumber": 6,
+                                "trackTitle": "Fired Up",
+                                "trackLength": "3:40",
+                                "trackUrl": "https://www.youtube.com/watch?v=mIyLOIqGZCs" 
+                            },
+                            {   
+                                "trackNumber": 7,
+                                "trackTitle": "Kick It",
+                                "trackLength": "3:21",
+                                "trackUrl": "https://www.youtube.com/watch?v=4N2w-ZXY9XQ" 
+                            },
+                            {   
+                                "trackNumber": 8,
+                                "trackTitle": "Me",
+                                "trackLength": "3:38",
+                                "trackUrl": "https://www.youtube.com/watch?v=gw1QsW-myEg" 
+                            },
+                            {   
+                                "trackNumber": 9,
+                                "trackTitle": "The Roaming Road",
+                                "trackLength": "1:45",
+                                "trackUrl": "https://www.youtube.com/watch?v=6hJh66SeXis" 
+                            }
+                        ]
+                    }
+                    ]
+                }
+        ]
 }
