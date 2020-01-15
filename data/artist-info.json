@@ -4844,6 +4844,71 @@
                         ]
                     }
                     ]
+                },
+                {
+                "id": 54,
+                "name": "QUIX",
+                "homecountry": "New Zealand",
+                "genre": "Trap, Future Bass",
+                "url": "https://quixofficial.com/",
+                "twitterUrl": "https://twitter.com/quix",
+                "facebookUrl": "https://www.facebook.com/OfficialQUIX/",
+                "instagramUrl": "https://www.instagram.com/quixofficial/",
+                "spotifyUrl": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M",
+                "appleMusicUrl": "https://music.apple.com/us/artist/quix/944465851",
+                "soundcloudUrl": "https://soundcloud.com/quixofficial",
+                "youtubeUrl": "https://www.youtube.com/channel/UC98r1tqlwLfFc94JoAFI93Q",
+                "curatedTrack": "I’ll Give You The World (feat. JVMIE)",
+                "curatedTrackUrl": "https://www.youtube.com/watch?v=1pWj70AnSwo",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "QUIX",
+                        "title": "Illusions (EP)",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/4v5hfgvkPmnZK9Q1oCxWfH",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/illusions-ep/1440019324",    
+                        "releaseYear": 2018,
+                        "trackCount": 6,
+                        "tracks": [
+                            {   
+                                "trackNumber": 1,
+                                "trackTitle": "Get Down (Edit)",
+                                "trackLength": "3:13",
+                                "trackUrl": "https://www.youtube.com/watch?v=VjPJak1COK4" 
+                            },
+                            {   
+                                "trackNumber": 2,
+                                "trackTitle": "Giving Up (feat. Jaden Michaels)",
+                                "trackLength": "4:09",
+                                "trackUrl": "https://www.youtube.com/watch?v=4TimbtFMKX4" 
+                            },
+                            {   
+                                "trackNumber": 3,
+                                "trackTitle": "Earthquake (feat. Bok Nero)",
+                                "trackLength": "4:08",
+                                "trackUrl": "https://www.youtube.com/watch?v=E3gx3AEkiZo" 
+                            },
+                            {   
+                                "trackNumber": 4,
+                                "trackTitle": "Ride Or Die (feat. Reigan)",
+                                "trackLength": "3:42",
+                                "trackUrl": "https://www.youtube.com/watch?v=p0VbDVhbTy8" 
+                            },
+                            {   
+                                "trackNumber": 5,
+                                "trackTitle": "Hero (feat. Vincent & David Shane)",
+                                "trackLength": "3:52",
+                                "trackUrl": "https://www.youtube.com/watch?v=lBcz3g6obQw" 
+                            },
+                            {   
+                                "trackNumber": 6,
+                                "trackTitle": "All I Have (feat. Aviella)",
+                                "trackLength": "4:03",
+                                "trackUrl": "https://www.youtube.com/watch?v=3z7HTjIH6J0" 
+                            }
+                        ]
+                    }
+                    ]
                 }
             ]
 }
