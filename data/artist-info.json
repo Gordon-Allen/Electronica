@@ -4731,6 +4731,119 @@
                         ]
                     }
                     ]
+                },
+                {
+                "id": 53,
+                "name": "ZHU",
+                "homecountry": "USA",
+                "genre": "Low-Temp, Deep House",
+                "url": "https://zhumusic.com/",
+                "twitterUrl": "https://twitter.com/zhumusic",
+                "facebookUrl": "https://www.facebook.com/zhu/",
+                "instagramUrl": "https://www.instagram.com/zhu/",
+                "spotifyUrl": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2",
+                "appleMusicUrl": "https://music.apple.com/us/artist/zhu/261545033",
+                "soundcloudUrl": "https://soundcloud.com/zhu",
+                "youtubeUrl": "https://www.youtube.com/channel/UCuolJRKmlevmTqz-tUV0LCQ",
+                "curatedTrack": "Cold Blooded",
+                "curatedTrackUrl": "https://www.youtube.com/watch?v=EyjtTwnSfOk",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "ZHU",
+                        "title": "GENERATIONWHY",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/generationwhy/1125546735",    
+                        "releaseYear": 2016,
+                        "trackCount": 14,
+                        "tracks": [
+                            {   
+                                "trackNumber": 1,
+                                "trackTitle": "Intro (Neon City)",
+                                "trackLength": "1:09",
+                                "trackUrl": "https://www.youtube.com/watch?v=90pQlEuySz0" 
+                            },
+                            {   
+                                "trackNumber": 2,
+                                "trackTitle": "Cold Blooded",
+                                "trackLength": "4:18",
+                                "trackUrl": "https://www.youtube.com/watch?v=EyjtTwnSfOk" 
+                            },
+                            {   
+                                "trackNumber": 3,
+                                "trackTitle": "In the Morning",
+                                "trackLength": "4:06",
+                                "trackUrl": "https://www.youtube.com/watch?v=5_ARibfCMhw" 
+                            },
+                            {   
+                                "trackNumber": 4,
+                                "trackTitle": "Secret Weapon",
+                                "trackLength": "4:03",
+                                "trackUrl": "https://www.youtube.com/watch?v=UuWX0H65rVE" 
+                            },
+                            {   
+                                "trackNumber": 5,
+                                "trackTitle": "Electrify Me",
+                                "trackLength": "4:15",
+                                "trackUrl": "https://www.youtube.com/watch?v=RnwFkznJ7Y4" 
+                            },
+                            {   
+                                "trackNumber": 6,
+                                "trackTitle": "Numb",
+                                "trackLength": "4:27",
+                                "trackUrl": "https://www.youtube.com/watch?v=XTZRLOS4XJw" 
+                            },
+                            {   
+                                "trackNumber": 7,
+                                "trackTitle": "Palm of My Hand",
+                                "trackLength": "6:13",
+                                "trackUrl": "https://www.youtube.com/watch?v=EPgMzp39JMM" 
+                            },
+                            {   
+                                "trackNumber": 8,
+                                "trackTitle": "Money",
+                                "trackLength": "5:07",
+                                "trackUrl": "https://www.youtube.com/watch?v=rqG47mETbwM" 
+                            },
+                            {   
+                                "trackNumber": 9,
+                                "trackTitle": "One Minute to Midnight",
+                                "trackLength": "4:15",
+                                "trackUrl": "https://www.youtube.com/watch?v=jqWxtCBSf1w" 
+                            },
+                            {   
+                                "trackNumber": 10,
+                                "trackTitle": "Reaching",
+                                "trackLength": "4:31",
+                                "trackUrl": "https://www.youtube.com/watch?v=HaxDpvP9zZI" 
+                            },
+                            {   
+                                "trackNumber": 11,
+                                "trackTitle": "Hometown Girl",
+                                "trackLength": "4:12",
+                                "trackUrl": "https://www.youtube.com/watch?v=Vqf_OE0KkHc" 
+                            },
+                            {   
+                                "trackNumber": 12,
+                                "trackTitle": "Good Life",
+                                "trackLength": "4:31",
+                                "trackUrl": "https://www.youtube.com/watch?v=0CWVgu2Odjg" 
+                            },
+                            {   
+                                "trackNumber": 13,
+                                "trackTitle": "Generationwhy",
+                                "trackLength": "3:52",
+                                "trackUrl": "https://www.youtube.com/watch?v=OrK6QxS_ZRk" 
+                            },
+                            {   
+                                "trackNumber": 14,
+                                "trackTitle": "Working For It (feat. Skrillex & THEY.)",
+                                "trackLength": "3:51",
+                                "trackUrl": "https://www.youtube.com/watch?v=qv9YI8Oqs30" 
+                            }
+                        ]
+                    }
+                    ]
                 }
             ]
 }
