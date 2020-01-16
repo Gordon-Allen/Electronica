@@ -1,1 +1,12 @@
-.navbar-light .navbar-nav .router-link-active {color:#0069D9}
+.navbar-light .navbar-nav .router-link-active {
+    color:#0069D9;
+}
+.navbar-brand {
+    color:#0069D9;
+}
+
+.navbar_electronica_icon{
+    height:40px;
+    width:40px;
+    margin-right: .15%;
+}
