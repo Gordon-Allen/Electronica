@@ -4909,6 +4909,41 @@
                         ]
                     }
                     ]
+                },
+                {
+                "id": 55,
+                "name": "AREA21",
+                "homecountry": "The Netherlands",
+                "genre": "Future Bass, Electronica",
+                "url": "https://www.beatport.com/artist/area21/626138",
+                "twitterUrl": "https://twitter.com/area21",
+                "facebookUrl": "https://www.facebook.com/area21/",
+                "instagramUrl": "https://www.instagram.com/area21/",
+                "spotifyUrl": "https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp",
+                "appleMusicUrl": "https://music.apple.com/in/artist/area21/1101569583",
+                "soundcloudUrl": "https://soundcloud.com/area21",
+                "youtubeUrl": "https://www.youtube.com/channel/UCmd8Hi7qSoQvAwW3B3tUsig",
+                "curatedTrack": "Spaceships",
+                "curatedTrackUrl": "https://www.youtube.com/watch?v=khoylU3YZGM",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "AREA21",
+                        "title": "We Did It (Single)",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/5oXgAqltubDLrYd1DYGMa6",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/we-did-it-single/1249072584",    
+                        "releaseYear": 2017,
+                        "trackCount": 1,
+                        "tracks": [
+                            {   
+                                "trackNumber": 1,
+                                "trackTitle": "We Did It",
+                                "trackLength": "3:08",
+                                "trackUrl": "https://www.youtube.com/watch?v=goAEVhM5pLY" 
+                            }
+                        ]
+                    }
+                    ]
                 }
             ]
 }
