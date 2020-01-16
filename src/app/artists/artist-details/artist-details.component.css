@@ -2,6 +2,10 @@
     color:#0069D9;
 }
 
+.artist_name_title {
+    text-decoration-line: underline;
+}
+
 .facebook_badge {
     width: 40px;
     height: 40px;
@@ -86,4 +90,17 @@
     width: 100px;
     height: 25px;
     margin-left: 10px;
+}
+
+.album_table_row{
+    border: 2px solid #0069D9;
+}
+
+.album_track_text{
+    font-weight: 500;
+}
+
+.album_track_youtube_icon{
+    width: 47.5px;
+    height:27.5px;
 }
