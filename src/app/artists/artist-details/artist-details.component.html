@@ -22,7 +22,7 @@
     </ul>
   </div>
   <div class="row" style="margin-top: 10px;" *ngFor="let album of artist.album">
-    <h4><span class="album_title">Best Album/EP</span>: <em>{{ album.title }}</em> ({{ album.releaseYear }})</h4>
+    <h4><span class="album_title">Showcase Album/EP</span>: <em>{{ album.title }}</em> ({{ album.releaseYear }})</h4>
     <a href="{{ album.albumSpotifyUrl }}" target="_blank" rel="noopener"><img class="album_spotify_icon" src="assets/img/spotify_icon.png" alt="Spotify"></a><a href="{{ album.albumAppleMusicUrl }}" target="_blank" rel="noopener"><img class="album_applemusic_icon" src="assets/img/applemusic_icon.png" alt="Apple Music"></a>
     
     <table class="table table-striped" style="border: 4px solid #0069D9;">
