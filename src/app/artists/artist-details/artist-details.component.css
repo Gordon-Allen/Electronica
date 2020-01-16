@@ -1,3 +1,7 @@
+.e_blue_text{
+    color:#0069D9;
+}
+
 .facebook_badge {
     width: 40px;
     height: 40px;
@@ -39,6 +43,36 @@
     height: 45px;
     margin-right: 5px;
 }
+
+.artist_website_link {
+    margin-top: 10px;
+    color:#0069D9;
+}
+
+.artist_personal_info {
+    font-weight: 575;
+    text-decoration-line: underline;
+}
+
+.curated_track_title {
+    font-size: 18px;
+    margin-top: 15px;
+    font-weight: 650;
+}
+
+.curated_track_electronica_icon {
+    width: 45px;
+    height:45px;
+}
+
+.curated_track_youtube_icon {
+    width: 100px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: -4px;    
+}
+
+
 
 
 

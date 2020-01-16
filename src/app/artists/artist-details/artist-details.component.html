@@ -1,10 +1,10 @@
 <div class="container">
     <div class="row my-3">
-    <img *ngIf="artist" class="float-right img-fluid img-thumbnail"style="max-width: 30%; max-height: 255px;" src="assets/img/{{ artist.id }}.jpg" alt="{{ artist.name }}" />
+    <img *ngIf="artist" class="float-right img-fluid img-thumbnail" style="max-width: 30%; max-height: 255px;" src="assets/img/{{ artist.id }}.jpg" alt="{{ artist.name }}" />
 
     <ul style="list-style: none;">
       <li>
-        <a style="color:#0069D9;" href="{{ artist.url }}" target="_blank" rel="noopener"><h1 style="text-decoration-line: underline;">{{ artist.name }}</h1></a>
+        <a class="e_blue_text" href="{{ artist.url }}" target="_blank" rel="noopener"><h1 style="text-decoration-line: underline;">{{ artist.name }}</h1></a>
       </li>
       <li>
         <a href="{{ artist.facebookUrl }}" target="_blank" rel="noopener"><img class="facebook_badge" src="assets/img/facebook_icon.png" alt="Facebook"></a>
@@ -15,10 +15,10 @@
         <a href="{{ artist.appleMusicUrl }}" target="_blank" rel="noopener"><img class="applemusic_badge" src="assets/img/applemusic_icon_small.png" alt="Apple Music"></a>
         <a href="{{ artist.soundcloudUrl }}" target="_blank" rel="noopener"><img class="soundcloud_badge" src="assets/img/soundcloud_icon.png" alt="Soundcloud"></a>
       </li>
-      <li style="margin-top: 10px; color:#0069D9;"><h6><a href="{{ artist.url }}" target="_blank" rel="noopener">{{ artist.name }}'s Website</a></h6></li>
-      <li><h6><span style="font-weight: 575; text-decoration-line: underline;">Home-Country</span>: <em>{{ artist.homecountry }}</em></h6></li>
-      <li><h6><span style="font-weight: 575; text-decoration-line: underline;">Genre</span>: <em>{{ artist.genre }}</em></h6></li>
-      <li style="font-size: 18px; margin-top: 15px; font-weight: 650;"><img style="width: 45px; height:45px;" src="assets/img/electronica.png" alt="Electronica">Electronica's Curated Track of Choice: <a style="color:#0069D9" href="{{ artist.curatedTrackUrl }} " target="_blank" rel="noopener">{{ artist.curatedTrack }}</a><a href="{{ artist.curatedTrackUrl }}" target="_blank" rel="noopener"><img style="width: 100px; height: 20px; margin-left: 5px; margin-top: -4px;" src="assets/img/youtube_icon.png" alt="Youtube"></a></li>
+      <li class="artist_website_link"><h6><a href="{{ artist.url }}" target="_blank" rel="noopener">{{ artist.name }}'s Website</a></h6></li>
+      <li><h6><span class="artist_personal_info">Home-Country</span>: <em>{{ artist.homecountry }}</em></h6></li>
+      <li><h6><span class="artist_personal_info">Genre</span>: <em>{{ artist.genre }}</em></h6></li>
+      <li class="curated_track_title"><img class="curated_track_electronica_icon" src="assets/img/electronica.png" alt="Electronica">Electronica's Curated Track of Choice: <a class="e_blue_text" href="{{ artist.curatedTrackUrl }} " target="_blank" rel="noopener">{{ artist.curatedTrack }}</a><a href="{{ artist.curatedTrackUrl }}" target="_blank" rel="noopener"><img class="curated_track_youtube_icon" src="assets/img/youtube_icon.png" alt="Youtube"></a></li>
     </ul>
   </div>
   <div class="row" style="margin-top: 10px;"   *ngFor="let album of artist.album">
