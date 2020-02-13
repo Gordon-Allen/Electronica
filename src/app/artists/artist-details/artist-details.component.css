@@ -10,42 +10,77 @@
     width: 40px;
     height: 40px;
     margin-right: 5px;
+    transition: all 1.42s ease;
+}
+
+.facebook_badge:hover {
+    transform: scale(1.11);
 }
 
 .instagram_badge {
     width: 42px;
     height: 42px;
     margin-right: 5px;
+    transition: all 1.42s ease;
+}
+
+.instagram_badge:hover {
+    transform: scale(1.11);
 }
 
 .twitter_badge {
     width: 40px;
     height: 40px;
     margin-right: 5px;
+    transition: all 1.42s ease;
+}
+
+.twitter_badge:hover {
+    transform: scale(1.11);
 }
 
 .youtube_badge {
     width: 37.5px;
     height: 37.5px;
     margin-right: 5px;
+    transition: all 1.42s ease;
+}
+
+.youtube_badge:hover {
+    transform: scale(1.11);
 }
 
 .spotify_badge {
     width: 38px;
     height: 38px;
     margin-right: 5px;
+    transition: all 1.42s ease;
+}
+
+.spotify_badge:hover {
+    transform: scale(1.11);
 }
 
 .applemusic_badge {
     width: 40px;
     height: 40px;
     margin-right: 1px;
+    transition: all 1.42s ease;
+}
+
+.applemusic_badge:hover {
+    transform: scale(1.11);
 }
 
 .soundcloud_badge {
     width: 45px;
     height: 45px;
     margin-right: 5px;
+    transition: all 1.42s ease;
+}
+
+.soundcloud_badge:hover {
+    transform: scale(1.11);
 }
 
 .artist_website_link {
@@ -73,8 +108,14 @@
     width: 100px;
     height: 20px;
     margin-left: 5px;
-    margin-top: -4px;    
+    margin-top: -4px;
+    transition: all 1.42s ease;    
 }
+
+.curated_track_youtube_icon:hover {
+    transform: scale(1.0725);
+}
+
 
 .album_title {
     text-decoration-line: underline;
@@ -84,13 +125,25 @@
     width: 110px;
     height: 33px;
     margin-left: 5px;
+    transition: all 1.42s ease;
 }
+
+.album_spotify_icon:hover {
+    transform: scale(1.075);
+}
+
 
 .album_applemusic_icon{
     width: 100px;
     height: 25px;
     margin-left: 10px;
+    transition: all 1.42s ease;
 }
+
+.album_applemusic_icon:hover {
+    transform: scale(1.075);
+}
+
 
 .album_table_row{
     border: 2px solid #0069D9;
@@ -103,4 +156,9 @@
 .album_track_youtube_icon{
     width: 47.5px;
     height:27.5px;
+    transition: all 1.42s ease;
+}
+
+.album_track_youtube_icon:hover {
+    transform: scale(1.18);
 }
