@@ -21,10 +21,14 @@
       <li class="curated_track_title"><img class="curated_track_electronica_icon" src="assets/img/electronica.png" alt="Electronica">Electronica's Curated Track of Choice: <a class="e_blue_text" href="{{ artist.curatedTrackUrl }} " target="_blank" rel="noopener">{{ artist.curatedTrack }}</a><a href="{{ artist.curatedTrackUrl }}" target="_blank" rel="noopener"><img class="curated_track_youtube_icon" src="assets/img/youtube_icon.png" alt="Youtube"></a></li>
     </ul>
   </div>
+
+  <br>
+  <a href="artists/{{ artist.id }}/youtube">YouTube Test</a>
+  <br>
+
   <div class="row" style="margin-top: 10px;" *ngFor="let album of artist.album">
     <h4><span class="album_title">Spotlight Album/EP</span>: <em>{{ album.title }}</em> ({{ album.releaseYear }})</h4>
     <a href="{{ album.albumSpotifyUrl }}" target="_blank" rel="noopener"><img class="album_spotify_icon" src="assets/img/spotify_icon.png" alt="Spotify"></a><a href="{{ album.albumAppleMusicUrl }}" target="_blank" rel="noopener"><img class="album_applemusic_icon" src="assets/img/applemusic_icon.png" alt="Apple Music"></a>
-    
     <table class="table table-striped" style="border: 4px solid #0069D9;">
       <caption><em>{{ album.title }}</em> by {{ album.artist }} ({{ album.releaseYear }} - {{ album.trackCount }} Tracks)</caption>
       <thead class="thead-light" style="border: 4px solid #0069D9;">

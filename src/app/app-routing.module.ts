@@ -10,7 +10,7 @@ const routes: Routes = [
   { path: "welcome", component: WelcomeComponent },
 
   {
-    path: "artists", 
+    path: "artists",
     loadChildren: () => import('./artists/artists.module')
                         .then(mod => {
                         console.log('in promise loadChildren');
