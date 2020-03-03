@@ -23,7 +23,7 @@
   </div>
 
   <br>
-  <a href="artists/{{ artist.id }}/youtube">YouTube Test</a>
+  <a [routerLink] ="['/artists', artist.id,'youtube']">YouTube Test</a>
   <br>
 
   <div class="row" style="margin-top: 10px;" *ngFor="let album of artist.album">
@@ -37,14 +37,16 @@
           <th scope="col" style="color:#0069D9; font-size: 18px;">Title</th>
           <th scope="col" style="color:#0069D9; font-size: 18px;">Length</th>
           <th scope="col" style="color:#0069D9; font-size: 18px;">Listen?</th>
+          <th scope="col" style="color:#0069D9; font-size: 18px;">Listen NG-Youtube?</th>
         </tr>
       </thead>
       <tbody *ngFor="let album of artist.album">
-        <tr class="album_table_row" *ngFor="let tracks of album.tracks">
-          <th scope="row">{{ tracks.trackNumber }}</th>
-          <td><em class="album_track_text">{{ tracks.trackTitle }}</em></td>
-          <td class="album_track_text">{{ tracks.trackLength }}</td>
-          <td><a href="{{ tracks.trackUrl }}" target="_blank" rel="noopener"><img class="album_track_youtube_icon" src="assets/img/youtube_icon_playtrack.png" alt="Youtube"></a></td>
+        <tr class="album_table_row" *ngFor="let track of album.trackList">
+          <th scope="row">{{ track.trackId }}</th>
+          <td><em class="album_track_text">{{ track.trackTitle }}</em></td>
+          <td class="album_track_text">{{ track.trackLength }}</td>
+          <td><a href="{{ track.trackUrl }}" target="_blank" rel="noopener"><img class="album_track_youtube_icon" src="assets/img/youtube_icon_playtrack.png" alt="Youtube"></a></td>
+          <td><a [routerLink] ="['/artists',artist.id,album.id,track.trackId,track.trackUrl]"><img class="album_track_youtube_icon" src="assets/img/youtube_icon_playtrack.png" alt="Youtube"></a></td>
         </tr>
       </tbody>
     </table>

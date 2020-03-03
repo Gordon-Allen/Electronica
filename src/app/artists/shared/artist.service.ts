@@ -18,4 +18,9 @@ export class ArtistService {
   getArtistById(id: number): Observable<Artist> {
     return this.http.get<Artist>(this.url + "/" + id);
   }
+
+  getTrackByUrl(id: number, trackUrl: string): Observable<Artist> {
+    return this.http.get<Artist>(this.url + "/" + id + "/" + trackUrl);
+  }
+
 }

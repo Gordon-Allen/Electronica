@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 
+import { Artist, Album, Track } from '../artist.model';
+
+
 import { ActivatedRoute } from '@angular/router';
 import { ArtistService } from '../shared/artist.service';
 
@@ -11,7 +14,12 @@ import { ArtistService } from '../shared/artist.service';
 })
 export class ArtistTrackYoutubePlayerComponent implements OnInit {
 
-  constructor() { }
+  artist: Artist;
+  album: Album;
+  trackUrl: Track;
+  trackId: any;
+
+  constructor(private route: ActivatedRoute, private artistService: ArtistService) { }
 
   ngOnInit() {
     const tag = document.createElement('script');
