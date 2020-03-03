@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import { Artist, Album } from '../artist.model';
+import { Artist, Album, Track } from '../artist.model';
 import { ActivatedRoute } from '@angular/router';
 import { ArtistService } from '../shared/artist.service';
 
@@ -12,6 +12,8 @@ import { ArtistService } from '../shared/artist.service';
 export class ArtistDetailsComponent implements OnInit {
 
   artist: Artist;
+  album: Album;
+  track: Track;
 
   constructor(private route: ActivatedRoute, private artistService: ArtistService) { }
 

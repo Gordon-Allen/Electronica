@@ -8,6 +8,7 @@ import { ArtistTrackYoutubePlayerComponent } from './artist-track-youtube-player
 const routes: Routes = [
   { path: "", pathMatch: "full", component: ArtistListComponent },
   { path: ":id", component: ArtistDetailsComponent },
+  { path: ":id/:trackUrl", component: ArtistTrackYoutubePlayerComponent },
   { path: ":id/:album.id/:trackId/:trackUrl", component: ArtistTrackYoutubePlayerComponent }
 
   ];
