@@ -15,7 +15,6 @@ export class ArtistCardComponent implements OnInit {
   artistClicked: EventEmitter<Artist> = new EventEmitter<Artist>();
 
   showArtist() {
-    // alert('You selected: ' + this.artist.name + '!');
       this.artistClicked.emit(this.artist);
   }
 
@@ -23,5 +22,4 @@ export class ArtistCardComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }

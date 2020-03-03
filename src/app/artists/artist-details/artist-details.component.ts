@@ -10,7 +10,6 @@ import { ArtistService } from '../shared/artist.service';
   styleUrls: ['./artist-details.component.css']
 })
 export class ArtistDetailsComponent implements OnInit {
-
   artist: Artist;
   album: Album;
   track: Track;
