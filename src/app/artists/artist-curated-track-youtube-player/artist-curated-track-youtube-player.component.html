@@ -1,1 +1,14 @@
-<p>artist-curated-track-youtube-player works!</p>
+<br>
+<h1 style="font-weight: bold; text-decoration-line: underline;">{{artist.name}}</h1>
+<h2><img class="curated_track_electronica_icon" src="assets/img/electronica.png" alt="Electronica">Electronica's Curated Track of Choice<img class="curated_track_electronica_icon" src="assets/img/electronica.png" alt="Electronica"></h2>
+<h3><em style="font-weight: 650;">"{{ artist.curatedTrack }}"</em></h3>
+<br>
+<div class= "container">
+    <youtube-player
+        videoId="{{ trackUrl }}"
+        suggestedQuality="highres"
+        [height]="630"
+        [width]="1107.5"
+        style="margin: 0% 0% 0% 0%">
+    </youtube-player>
+</div>
