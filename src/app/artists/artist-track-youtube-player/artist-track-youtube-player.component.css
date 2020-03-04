@@ -1,7 +1,12 @@
+* {
+    color: #0069D9;
+    text-align: center;
+}
+
 .container {
-    border: 7px solid #0069D9;
+    border: 10px solid #0069D9;
     padding-top: .5%;
     padding-bottom: .25%;
-    padding-left: .5%;
+    padding-left: .75%;
     padding-right: .75%;
 }

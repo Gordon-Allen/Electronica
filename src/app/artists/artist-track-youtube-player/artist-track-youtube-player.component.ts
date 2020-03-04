@@ -13,14 +13,25 @@ export class ArtistTrackYoutubePlayerComponent implements OnInit {
   artist: Artist;
   album: Album;
   track: Track;
-  trackId: number;
+  id: number;
+  trackId: any;
   trackUrl: string;
 
   constructor(private route: ActivatedRoute, private artistService: ArtistService) { }
 
   ngOnInit() {
 
+    this.trackId = this.route.snapshot.paramMap.get("trackId");
     this.trackUrl = this.route.snapshot.paramMap.get("trackUrl");
+
+    const id = +this.route.snapshot.paramMap.get("id");
+
+    this.artistService.getArtistById(id).subscribe(
+      artist => {
+        this.artist = artist;
+      },
+      error => console.log("Error ", error)
+    );
 
     const tag = document.createElement('script');
     tag.src = 'https://www.youtube.com/iframe_api';

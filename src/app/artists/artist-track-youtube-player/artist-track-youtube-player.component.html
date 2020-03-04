@@ -1,4 +1,13 @@
 <br>
+<h1 style="font-weight: bold; text-decoration-line: underline;">{{artist.name}}</h1>
+<span *ngFor="let album of artist.album">
+    <span *ngFor="let track of album.trackList">
+        <span *ngIf="trackId == track.trackId">
+            <h3><em>"{{ track.trackTitle }}"</em></h3>
+            <h4><span style="text-decoration-line: underline;">Album</span>: <em>{{album.title}}</em></h4>
+        </span>
+    </span>
+</span>
 <br>
 <div class= "container">
     <youtube-player
