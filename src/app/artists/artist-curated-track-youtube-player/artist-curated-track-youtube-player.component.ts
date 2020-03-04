@@ -15,7 +15,6 @@ export class ArtistCuratedTrackYoutubePlayerComponent implements OnInit {
   album: Album;
   track: Track;
   id: number;
-  trackId: any;
   trackUrl: string;
 
   constructor(private route: ActivatedRoute, private artistService: ArtistService) { }

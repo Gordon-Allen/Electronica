@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="card-deck">
-      <app-artist-card *ngFor="let artist of artistsArray | async" [artist]="artist" (artistClicked)="parentFunctionHandler($event)"></app-artist-card>
-    </div>
+  <div class="card-deck">
+    <app-artist-card *ngFor="let artist of artistsArray | async" [artist]="artist" (artistClicked)="parentFunctionHandler($event)"></app-artist-card>
+  </div>
 </div>

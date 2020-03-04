@@ -4,7 +4,6 @@ import { Routes, RouterModule } from '@angular/router';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { NotfoundComponent } from './notfound/notfound.component';
 
-
 const routes: Routes = [
   { path: "", redirectTo: "/welcome", pathMatch: "full" },
   { path: "welcome", component: WelcomeComponent },
