@@ -1,10 +1,10 @@
 <br>
-<h1 style="font-weight: bold; text-decoration-line: underline;">{{artist.name}}</h1>
+<h1>{{artist.name}}</h1>
 <span *ngFor="let album of artist.album">
     <span *ngFor="let track of album.trackList">
         <span *ngIf="trackId == track.trackId">
-            <h3><em style="font-weight: 625;">"{{ track.trackTitle }}"</em></h3>
-            <h4><span style="text-decoration-line: underline;">Album</span>: <em>{{album.title}}</em></h4>
+            <h3><em class="album-track-title">"{{ track.trackTitle }}"</em></h3>
+            <h4><span class="album-title">Album</span>: <em>{{album.title}}</em></h4>
         </span>
     </span>
 </span>

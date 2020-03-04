@@ -10,3 +10,16 @@
     padding-left: .35%;
     padding-right: .75%;
 }
+
+h1 {
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+.album-track-title {
+    font-weight: 645;
+}
+
+.album-title {
+    text-decoration-line: underline;
+}
