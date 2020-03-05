@@ -681,100 +681,106 @@
                 "id": 1,
                 "artist": "Above & Beyond",
                 "title": "Group Therapy",
-                "albumSpotifyUrl": "https://open.spotify.com/album/4r22WiNl7cKEF6fV6FbVnb",
-                "albumAppleMusicUrl": "https://music.apple.com/us/album/group-therapy/436238072",
-                "releaseYear": 2011,
-                "trackCount": 15,
+                "albumSpotifyUrl": "https://open.spotify.com/album/5I7J8PBLHiIeddkMDAdn19",
+                "albumAppleMusicUrl": "https://music.apple.com/us/album/we-are-all-we-need/927548407",
+                "releaseYear": 2015,
+                "trackCount": 16,
                 "trackList": [
                     {   
                         "trackId": 1,
-                        "trackTitle": "Filmic",
-                        "trackLength": "3:49",
-                        "trackUrl": "ZGkX8gsMT7c" 
+                        "trackTitle": "Quieter Is Louder",
+                        "trackLength": "1:57",
+                        "trackUrl": "OrnnbUsn0mY" 
                     },
                     {   
                         "trackId": 2,
-                        "trackTitle": "Alchemy (feat. Zoë Johnston)",
-                        "trackLength": "5:17",
-                        "trackUrl": "xBeMQ2V3yuk" 
+                        "trackTitle": "We're All We Need (feat. Zoë Johnston)",
+                        "trackLength": "4:22",
+                        "trackUrl": "phXRX1p8woY" 
                     },
                     {   
                         "trackId": 3,
-                        "trackTitle": "Sun & Moon (feat. Richard Belford)",
-                        "trackLength": "5:25",
-                        "trackUrl": "ll5ykbAumD4" 
+                        "trackTitle": "Blue Sky Action (feat. Alex Vargas)",
+                        "trackLength": "4:44",
+                        "trackUrl": "yU8Auh5Xp-8" 
                     },
                     {   
                         "trackId": 4,
-                        "trackTitle": "You Got to Go (feat. Zoë Johnston)",
-                        "trackLength": "5:34",
-                        "trackUrl": "ZfdXbJptvos" 
+                        "trackTitle": "Peace of Mind (feat. Zoë Johnston)",
+                        "trackLength": "4:31",
+                        "trackUrl": "XXyReeg_PMs" 
                     },
                     {   
                         "trackId": 5,
-                        "trackTitle": "Black Room Boy (feat. Andrew Bayer & Richard Bedford)",
-                        "trackLength": "6:10",
-                        "trackUrl": "bA9vAsg-uI8" 
+                        "trackTitle": "Counting Down the Days (feat. Gemma Hayes)",
+                        "trackLength": "4:48",
+                        "trackUrl": "hS_vDkUpmaQ" 
                     },
                     {   
                         "trackId": 6,
-                        "trackTitle": "Giving It Out (feat. Zoë Johnston)",
-                        "trackLength": "3:53",
-                        "trackUrl": "jE_rOykdfAs" 
+                        "trackTitle": "Sticky Fingers (feat. Alex Vargas)",
+                        "trackLength": "3:29",
+                        "trackUrl": "E_3CHtHXe3c" 
                     },
                     {   
                         "trackId": 7,
-                        "trackTitle": "On The Way To Heaven (feat. Richard Belford)",
-                        "trackLength": "3:53",
-                        "trackUrl": "IYDYjvLOZZw" 
+                        "trackTitle": "Hello",
+                        "trackLength": "4:05",
+                        "trackUrl": "jLzuObMhVAI" 
                     },
                     {   
                         "trackId": 8,
-                        "trackTitle": "Prelude",
-                        "trackLength": "5:44",
-                        "trackUrl": "TyZX0u6pwOc" 
+                        "trackTitle": "Little Something (feat. Justine Suissa)",
+                        "trackLength": "5:11",
+                        "trackUrl": "7tkPp0YO4lw" 
                     },
                     {   
                         "trackId": 9,
-                        "trackTitle": "Sun in Your Eyes",
-                        "trackLength": "4:50",
-                        "trackUrl": "Se9yBvqQHxk" 
+                        "trackTitle": "All Over the World (feat. Alex Vargas)",
+                        "trackLength": "4:46",
+                        "trackUrl": "U-zC8BkPBZM" 
                     },
                     {   
                         "trackId": 10,
-                        "trackTitle": "Love Is Not Enough (feat. Zoë Johnston)",
-                        "trackLength": "6:33",
-                        "trackUrl": "EBcMSBsceeg" 
+                        "trackTitle": "Fly to New York (feat. Zoë Johnston)",
+                        "trackLength": "5:21",
+                        "trackUrl": "McQPBgI4fEk" 
                     },
                     {   
                         "trackId": 11,
-                        "trackTitle": "Every Little Beat (feat. Richard Belford)",
-                        "trackLength": "6:00",
-                        "trackUrl": "Zr6phJoaWVU" 
+                        "trackTitle": "Making Plans (feat. Alex Vargas)",
+                        "trackLength": "5:04",
+                        "trackUrl": "OrcVS3s5D34" 
                     },
                     {   
                         "trackId": 12,
-                        "trackTitle": "Sweetest Heart (feat. Zoë Johnston)",
-                        "trackLength": "3:36",
-                        "trackUrl": "WRIziB_rxu8" 
+                        "trackTitle": "Out of Time",
+                        "trackLength": "4:12",
+                        "trackUrl": "-5AMSxm132U" 
                     },
                     {   
                         "trackId": 13,
-                        "trackTitle": "Thing Called Love (feat. Richard Belford)",
-                        "trackLength": "5:29",
-                        "trackUrl": "ZgRnLM9Vi24" 
+                        "trackTitle": "Excuses",
+                        "trackLength": "5:45",
+                        "trackUrl": "08Axvbrni6A" 
                     },
                     {   
                         "trackId": 14,
-                        "trackTitle": "Only A Few Things (feat. Zoë Johnston)",
-                        "trackLength": "5:02",
-                        "trackUrl": "sNQfoFK8feo" 
+                        "trackTitle": "Save Me (feat. Zoë Johnston)",
+                        "trackLength": "4:55",
+                        "trackUrl": "0U4Dtx5ko1c" 
                     },
                     {   
                         "trackId": 15,
-                        "trackTitle": "Eternal",
-                        "trackLength": "2:53",
-                        "trackUrl": "JaXK1j7N-Mc" 
+                        "trackTitle": "Sink the Lighthouse (feat. Alex Vargas)",
+                        "trackLength": "4:12",
+                        "trackUrl": "1vx94t1tV_o" 
+                    },
+                    {   
+                        "trackId": 16,
+                        "trackTitle": "Treasure (feat. Zoë Johnston)",
+                        "trackLength": "3:46",
+                        "trackUrl": "_BJDK15HhV4" 
                     }
                 ]
             }
