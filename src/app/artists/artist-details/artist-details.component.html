@@ -4,7 +4,7 @@
 
     <ul style="list-style: none;">
       <li>
-        <h1 class="artist_name_title"><a class="e_blue_text" href="{{ artist.url }}" target="_blank" rel="noopener">{{ artist.name }}</a></h1>
+        <h1 class="artist_name_title"><a class="e_blue_text" href="{{ artist.artistWebsiteUrl }}" target="_blank" rel="noopener">{{ artist.name }}</a></h1>
       </li>
       <li>
         <a href="{{ artist.facebookUrl }}" target="_blank" rel="noopener"><img class="facebook_badge" src="assets/img/facebook_icon.png" alt="Facebook"></a>
@@ -19,7 +19,7 @@
         <a href="{{ artist.pandoraUrl }}" target="_blank" rel="noopener"><img class="pandora_badge" src="assets/img/pandora_icon.png" alt="Pandora"></a>
         <a href="{{ artist.googlePlayMusicUrl }}" target="_blank" rel="noopener"><img class="googleplaymusic_badge" src="assets/img/googleplaymusic_icon.png" alt="Google Play Music"></a>
       </li>
-      <li class="artist_website_link"><h6><a href="{{ artist.url }}" target="_blank" rel="noopener">{{ artist.name }}'s Website</a></h6></li>
+      <li class="artist_website_link"><h6><a href="{{ artist.artistWebsiteUrl }}" target="_blank" rel="noopener">{{ artist.name }}'s Website</a></h6></li>
       <li><h6><span class="artist_personal_info">Home-Country</span>: <em>{{ artist.homecountry }}</em></h6></li>
       <li><h6><span class="artist_personal_info">Genre</span>: <em>{{ artist.genre }}</em></h6></li>
       <li class="curated_track_title"><img class="curated_track_electronica_icon" src="assets/img/electronica.png" alt="Electronica">Electronica's Curated Track of Choice: <a class="e_blue_text" [routerLink] ="['/artists',artist.id,artist.curatedTrackYouTubeUrl]">{{ artist.curatedTrackTitle }}</a><a [routerLink] ="['/artists',artist.id,artist.curatedTrackYouTubeUrl]"><img class="curated_track_youtube_icon" src="assets/img/youtube_icon.png" alt="Youtube"></a></li>

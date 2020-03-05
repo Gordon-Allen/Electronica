@@ -3,7 +3,7 @@ export interface Artist {
   name: string;
   homecountry: string;
   genre: string;
-  url: string;
+  artistWebsiteUrl: string;
   twitterUrl: string;
   facebookUrl: string;
   instagramUrl: string;
