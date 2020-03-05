@@ -12,6 +12,7 @@ export interface Artist {
   soundcloudUrl: string;
   youtubeUrl: string;
   tidalUrl: string;
+  amazonMusicUrl: string;
   pandoraUrl: string;
   googlePlayMusicUrl: string;
   curatedTrack: string;
