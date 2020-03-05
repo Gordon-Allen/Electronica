@@ -22,7 +22,7 @@
       <li class="artist_website_link"><h6><a href="{{ artist.url }}" target="_blank" rel="noopener">{{ artist.name }}'s Website</a></h6></li>
       <li><h6><span class="artist_personal_info">Home-Country</span>: <em>{{ artist.homecountry }}</em></h6></li>
       <li><h6><span class="artist_personal_info">Genre</span>: <em>{{ artist.genre }}</em></h6></li>
-      <li class="curated_track_title"><img class="curated_track_electronica_icon" src="assets/img/electronica.png" alt="Electronica">Electronica's Curated Track of Choice: <a class="e_blue_text" [routerLink] ="['/artists',artist.id,artist.curatedTrackUrl]">{{ artist.curatedTrack }}</a><a [routerLink] ="['/artists',artist.id,artist.curatedTrackUrl]"><img class="curated_track_youtube_icon" src="assets/img/youtube_icon.png" alt="Youtube"></a></li>
+      <li class="curated_track_title"><img class="curated_track_electronica_icon" src="assets/img/electronica.png" alt="Electronica">Electronica's Curated Track of Choice: <a class="e_blue_text" [routerLink] ="['/artists',artist.id,artist.curatedTrackYouTubeUrl]">{{ artist.curatedTrack }}</a><a [routerLink] ="['/artists',artist.id,artist.curatedTrackYouTubeUrl]"><img class="curated_track_youtube_icon" src="assets/img/youtube_icon.png" alt="Youtube"></a></li>
     </ul>
   </div>
 

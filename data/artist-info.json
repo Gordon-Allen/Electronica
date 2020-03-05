@@ -18,7 +18,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/daft-punk/ARm6nV5J63lfZlw",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Daft_Punk?id=Ap6exarirw2ls3jjrhnf5p2lcvm",
             "curatedTrack": "Doin' It Right (feat. Panda Bear)",
-            "curatedTrackUrl" : "LL-gyhZVvx0",
+            "curatedTrackYouTubeUrl" : "LL-gyhZVvx0",
             "album": [
             {
                 "id": 1,
@@ -129,7 +129,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/adventure-club/ARd94rqccK3lZ6Z",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Adventure_Club?id=Agolj7w2juchr2nhssbmemswvzq",
             "curatedTrack": "Crash 2.0",
-            "curatedTrackUrl" : "er894vE-8Zk",
+            "curatedTrackYouTubeUrl" : "er894vE-8Zk",
             "album": [
             {
                 "id": 1,
@@ -234,7 +234,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/tiesto/ARrftfmk7cJVm5X",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Ti%C3%ABsto?id=Agzf4r7d54azste62qh6z2q7bcy",
             "curatedTrack": "Walls (feat. Quilla)",
-            "curatedTrackUrl": "u94VpYq0RIw",
+            "curatedTrackYouTubeUrl": "u94VpYq0RIw",
             "album": [
             {
                 "id": 1,
@@ -369,7 +369,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/deadmau5/ARk4qVpKqzp5jdc",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/deadmau5?id=Atngmlxlixottlthpcypidmxlu4",
             "curatedTrack": "The Veldt (feat. Chris James)",
-            "curatedTrackUrl": "uiUAq4aVTjY",
+            "curatedTrackYouTubeUrl": "uiUAq4aVTjY",
             "album": [
             {
                 "id": 1,
@@ -480,7 +480,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/flume/ARJtlwrV64bkX74",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Flume?id=Awkmw36ji24spw56eclfsqccqiq",
             "curatedTrack": "HyperParadise - Flume Remix",
-            "curatedTrackUrl": "dIyKy4A4kBU",
+            "curatedTrackYouTubeUrl": "dIyKy4A4kBU",
             "album": [
             {
                 "id": 1,
@@ -610,7 +610,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/droeloe/AR2Zwpk3r3klppK",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/DROELOE?id=Ahjge3da3zwaa33ovkkxuaxdvse",
             "curatedTrack": "Push Through",
-            "curatedTrackUrl": "ypLSc3ncYUk",
+            "curatedTrackYouTubeUrl": "ypLSc3ncYUk",
             "album": [
             {
                 "id": 1,
@@ -703,7 +703,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/above-and-beyond/ARrtcJl5jq5h3q4",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Above_Beyond?id=Az335g3jh6ewxltn5kk3jfouliy",
             "curatedTrack": "Sun & Moon (feat. Richard Belford)",
-            "curatedTrackUrl":"ll5ykbAumD4",
+            "curatedTrackYouTubeUrl":"ll5ykbAumD4",
             "album": [
             {
                 "id": 1,
@@ -832,7 +832,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/porter-robinson/ARfwX2cwqJPc5hV",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Porter_Robinson?id=A45gbqi5lpzwpjlgf6inbgibii4",
             "curatedTrack": "Language",
-            "curatedTrackUrl":"Vsy1URDYK88",
+            "curatedTrackYouTubeUrl":"Vsy1URDYK88",
             "album": [
             {
                 "id": 1,
@@ -937,7 +937,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/mitis/ARlP72tpJlfxpb2",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/MitiS?id=Aysp3kyjg42bkq65kbdzpnuixa4",
             "curatedTrack": "Mercy (feat. glasscat)",
-            "curatedTrackUrl": "1p-Umy6tVv0",
+            "curatedTrackYouTubeUrl": "1p-Umy6tVv0",
             "album": [
             {
                 "id": 1,
@@ -1036,7 +1036,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/odesza/ARr5dphPZd2x63k",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/ODESZA?id=Ajpe3kiyae65yzisjguaj3efkfe",
             "curatedTrack": "Something About You - ODESZA Remix",
-            "curatedTrackUrl": "X-n9zzjCR_Q",
+            "curatedTrackYouTubeUrl": "X-n9zzjCR_Q",
             "album": [
             {
                 "id": 1,
@@ -1147,7 +1147,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/wolfgang-gartner/AR4cVrgglqphjl6",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Wolfgang_Gartner?id=A2ex74fkowhveusrhimngrhdvxi",
             "curatedTrack": "Redline",
-            "curatedTrackUrl": "G-z6gj2z-Vw",
+            "curatedTrackYouTubeUrl": "G-z6gj2z-Vw",
             "album": [
             {
                 "id": 1,
@@ -1240,7 +1240,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/7-lions/ARwnKq55cgvf26K",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Seven_Lions?id=Ayeq6zcniw5knh7fsw3psek53yu",
             "curatedTrack": "Worlds Apart (feat. Kerli)",
-            "curatedTrackUrl": "beM2Bf3sDDY",
+            "curatedTrackYouTubeUrl": "beM2Bf3sDDY",
             "album": [
                 {
                 "id": 1,
@@ -1303,7 +1303,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/hermitude/AR6ftbZ7grVfPdX",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Hermitude?id=Aaq5qoupkcn3c63qrphqe3lrzi4",
             "curatedTrack": "Northern Lights (feat. Soaky Siren and Vory)",
-            "curatedTrackUrl": "QVNk6yd80rE",
+            "curatedTrackYouTubeUrl": "QVNk6yd80rE",
             "album": [
                 {
                     "id": 1,
@@ -1402,7 +1402,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/ganz/ARqVfKhhpPmJv3Z",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/GANZ?id=Axzwromzitzq2nqfatlbzd6a46a",
             "curatedTrack": "Shapes (GANZ Remix)",
-            "curatedTrackUrl": "ESlFfDGg0-c",
+            "curatedTrackYouTubeUrl": "ESlFfDGg0-c",
             "album": [
                 {
                     "id": 1,
@@ -1465,7 +1465,7 @@
                 "pandoraUrl": "https://www.pandora.com/artist/gryffin/gravity-pt-1-remixes-remixes-single/you-remind-me-nora-van-elken-remix-feat-stanaj/TRgpljwg6h9Kg96",
                 "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Nora_Van_Elken?id=Avcjacxkcfqgk2cd2iieodcpl2e",
                 "curatedTrack": "Find You",
-                "curatedTrackUrl": "mE456oBY7gk",
+                "curatedTrackYouTubeUrl": "mE456oBY7gk",
                 "album": [
                     {
                         "id": 1,
@@ -1558,7 +1558,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/krater/AR5kXclm5njc7d6",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=A4owhlkqaxm2vcgq2gnafyo2nwa",
             "curatedTrack": "TOKYO",
-            "curatedTrackUrl": "FkNR58OLVxs",
+            "curatedTrackYouTubeUrl": "FkNR58OLVxs",
             "album": [
                 {
                     "id": 1,
@@ -1621,7 +1621,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/slander/ARrPgwKZfxbg7p6",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/SLANDER?id=Azvv5bo7wtomrbdyuecpovzozfq",
             "curatedTrack": "Fall Apart (SLANDER Remix)",
-            "curatedTrackUrl": "rS9t176LxGM",
+            "curatedTrackYouTubeUrl": "rS9t176LxGM",
             "album": [
                 {
                     "id": 1,
@@ -1708,7 +1708,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/zedd/AR79KmhkkfpK3hK",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Zedd?id=Ak6v2xizi7p2itf7xh64u2pdyny",
             "curatedTrack": "Clarity (feat. Foxes)",
-            "curatedTrackUrl": "IxxstCcJlsc",
+            "curatedTrackYouTubeUrl": "IxxstCcJlsc",
             "album": [
                 {
                     "id": 1,
@@ -1801,7 +1801,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/juventa/ARcmpXdV9ZcJl4K",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Juventa?id=Ayzfa5qma7bqrm3aub2xxxnyd4y",
             "curatedTrack": "Freefalling",
-            "curatedTrackUrl": "hACFeU-BR_E",
+            "curatedTrackYouTubeUrl": "hACFeU-BR_E",
             "album": [
                 {
                     "id": 1,
@@ -1864,7 +1864,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/illenium/ARvKr9XZKKl7Xrq",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Afgcvo4vku2ix5pfcjrugq6lnau",
             "curatedTrack": "Say It (feat. Tove Lo) - Illenium Remix",
-            "curatedTrackUrl": "80AlC3LaPqQ",
+            "curatedTrackYouTubeUrl": "80AlC3LaPqQ",
             "album": [
                 {
                     "id": 1,
@@ -1969,7 +1969,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/retrovision/ARKlXvg9ktv72hJ",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/RetroVision?id=Ajqxoq7qnb7kwcwbus6xgsmpaga",
             "curatedTrack": "All Night Long (feat. Jonas Blue)",
-            "curatedTrackUrl": "4655JKMpABA",
+            "curatedTrackYouTubeUrl": "4655JKMpABA",
             "album": [
                 {
                     "id": 1,
@@ -2020,7 +2020,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/xuitcasecity-and-no-sleep/ARgZxZcgJlP59n6",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/No_Sleep?id=Anuj3mhbziebq657klpjwrxxjqi",
             "curatedTrack": "Steady (feat. Xxaia)",
-            "curatedTrackUrl": "Herd5m1Nqik",
+            "curatedTrackYouTubeUrl": "Herd5m1Nqik",
             "album": [
                 {
                     "id": 1,
@@ -2059,7 +2059,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/sj-and-zookeper/ARbmX7x6qlb69lk",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Sj?id=Ay53exvxxotspbyqa5to6haojbq",
             "curatedTrack": "Flicker",
-            "curatedTrackUrl": "vNPYeuvv84k",
+            "curatedTrackYouTubeUrl": "vNPYeuvv84k",
             "album": [
                 {
                     "id": 1,
@@ -2128,7 +2128,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/kaskade/ARJpjffKtcKt4tZ",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Kaskade?id=Aksjmhl2dkqtpkkkcq7jktojqzq",
             "curatedTrack": "With You (feat. Meghan Trainor)",
-            "curatedTrackUrl": "8guZoHXUFnQ",
+            "curatedTrackYouTubeUrl": "8guZoHXUFnQ",
             "album": [
                 {
                     "id": 1,
@@ -2246,7 +2246,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/pretty-lights/ARlkKKKq6n7vz3P",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Pretty_Lights?id=An63fofvltjh5do53qhxupfr5hu",
             "curatedTrack": "All of the Lights - Pretty Lights Remix",
-            "curatedTrackUrl": "6SMRZVgi_fw",
+            "curatedTrackYouTubeUrl": "6SMRZVgi_fw",
             "album": [
                 {
                     "id": 1,
@@ -2357,7 +2357,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/myrne/ARbdVx32Jhl2bkP",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Ao7g5xcn6ihmmj2eoz2uw2iyf4i",
             "curatedTrack": "Worlds Away (feat. Karra)",
-            "curatedTrackUrl": "deJcB4JVOog",
+            "curatedTrackYouTubeUrl": "deJcB4JVOog",
             "album": [
                 {
                     "id": 1,
@@ -2450,7 +2450,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/ekali/ARwZ7jPv5XzPZkZ",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Ekali?id=Axjc5iixutadx5aco4qwcrj56tu",
             "curatedTrack": "Language (Ekali & QUIX Tribute)",
-            "curatedTrackUrl": "7hn-Xt2XtXY",
+            "curatedTrackYouTubeUrl": "7hn-Xt2XtXY",
             "album": [
                 {
                     "id": 1,
@@ -2519,7 +2519,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/sound-remedy/ARhknlgm35V3p5V",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Sound_Remedy?id=A54slfjbjtbyvmfcmauicrirfgm",
             "curatedTrack": "Medicine (Sound Remedy Remix)",
-            "curatedTrackUrl": "bBD_CJsLZj0",
+            "curatedTrackYouTubeUrl": "bBD_CJsLZj0",
             "album": [
                 {
                     "id": 1,
@@ -2618,7 +2618,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/point-point/AR4bZmkZrkmZz3P",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Point_Point?id=Aia6tepv64yekarftvnavvyi5c4",
             "curatedTrack": "All This",
-            "curatedTrackUrl": "3pdJLsRxWhI",
+            "curatedTrackYouTubeUrl": "3pdJLsRxWhI",
             "album": [
                 {
                     "id": 1,
@@ -2669,7 +2669,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/edx/ARghrdhc3fq5rv9",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/EDX?id=Asqsr6bh3na3bzsu2gmmtqghcuy",
             "curatedTrack": "Show Me Love (EDX's Indian Summer Remix)",
-            "curatedTrackUrl": "qXkzWXEucIU",
+            "curatedTrackYouTubeUrl": "qXkzWXEucIU",
             "album": [
                 {
                     "id": 1,
@@ -2780,7 +2780,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/madeon/ARvZ25V2zdZ2jt9",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Madeon?id=Admysjxnylzjj3rjnrre43wkobm",
             "curatedTrack": "Technicolor",
-            "curatedTrackUrl": "Vois0RMtPHE",
+            "curatedTrackYouTubeUrl": "Vois0RMtPHE",
             "album": [
                 {
                     "id": 1,
@@ -2921,7 +2921,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/felix-cartal/ARX3Z25k5dKjwf4",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Felix_Cartal?id=Aptqrk77c5ggo72fsaamydubepe",
             "curatedTrack": "Falling Down",
-            "curatedTrackUrl": "2Q6TqlN6OoM",
+            "curatedTrackYouTubeUrl": "2Q6TqlN6OoM",
             "album": [
                 {
                     "id": 1,
@@ -3062,7 +3062,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/armin-van-buuren/ARJdKrKJmwxr46w",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Armin_van_Buuren?id=A5ducbou6ksndeta6l6st3k7nvi",
             "curatedTrack": "Rain (feat. Cathy Burton)",
-            "curatedTrackUrl": "h2j0Oy8w2JkY",
+            "curatedTrackYouTubeUrl": "h2j0Oy8w2JkY",
             "album": [
                 {
                     "id": 1,
@@ -3185,7 +3185,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/said-the-sky/ARJzxtlXcjjnrbZ",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Said_the_Sky?id=A4wzza4qwvtuvzqfcjo6kmgg7xy",
             "curatedTrack": "Darling (feat. Missio)",
-            "curatedTrackUrl": "NqYjATuc69Y",
+            "curatedTrackYouTubeUrl": "NqYjATuc69Y",
             "album": [
                 {
                     "id": 1,
@@ -3308,7 +3308,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/anki/ARpdqz7zxp6t7g4",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=As2wpjlskcntc3p2rb4vjxhpyyu",
             "curatedTrack": "Language (Anki Remix)",
-            "curatedTrackUrl": "l14vq3LOyaE",
+            "curatedTrackYouTubeUrl": "l14vq3LOyaE",
             "album": [
                 {
                     "id": 1,
@@ -3413,7 +3413,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/don-diablo/ARbPftzP4kcg4ZP",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Don_Diablo?id=Apiduhwt6coucdflykh6ytp6cpi",
             "curatedTrack": "Let Me Love You (Don Diablo Remix)",
-            "curatedTrackUrl": "6nv2GtsDQBc",
+            "curatedTrackYouTubeUrl": "6nv2GtsDQBc",
             "album": [
                 {
                     "id": 1,
@@ -3554,7 +3554,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/ellis/AR9X56pPhm2qbKk",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Avfdhj3llu2jpkzqecypspppjcu",
             "curatedTrack": "Clear My Head",
-            "curatedTrackUrl": "sla4_52vwnU",
+            "curatedTrackYouTubeUrl": "sla4_52vwnU",
             "album": [
                 {
                     "id": 1,
@@ -3593,7 +3593,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/alesso/ARJlxllxVk7tKbK",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Alesso?id=Azc4hsa27tsx7oci3zqigvxhd5i",
             "curatedTrack": "Under Control",
-            "curatedTrackUrl": "yZqmarGShxg",
+            "curatedTrackYouTubeUrl": "yZqmarGShxg",
             "album": [
                 {
                     "id": 1,
@@ -3710,7 +3710,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/skrux/ARzpzdzJ3fZXvPg",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Skrux?id=Apoy7jkvkehhg6zplimj4emf74e",
             "curatedTrack": "You & Me",
-            "curatedTrackUrl": "UifuuynvrlY",
+            "curatedTrackYouTubeUrl": "UifuuynvrlY",
             "album": [
                 {
                     "id": 1,
@@ -3791,7 +3791,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/gill-chang/AR5h5PJkJl263x2",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Adrr2632ymilyt2utlihi7puwmm",
             "curatedTrack": "Hold On (feat. Maazel & Danni Carra)",
-            "curatedTrackUrl": "B6-xrAzg8KY",
+            "curatedTrackYouTubeUrl": "B6-xrAzg8KY",
             "album": [
                 {
                     "id": 1,
@@ -3884,7 +3884,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/swedish-house-mafia/AR2h9dJztJ29wXV",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Swedish_House_Mafia?id=Azisjry4nlk4zriiouels3arooa",
             "curatedTrack": "Don't You Worry Child (feat. John Martin)",
-            "curatedTrackUrl": "1y6smkh6c-0",
+            "curatedTrackYouTubeUrl": "1y6smkh6c-0",
             "album": [
                 {
                     "id": 1,
@@ -3977,7 +3977,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/calvin-harris/ARkqJV2jm9gfhpX",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Calvin_Harris?id=Avwbbklu2vufocv7d7ccglejzq4",
             "curatedTrack": "Summer",
-            "curatedTrackUrl": "ebXbLfLACGM",
+            "curatedTrackYouTubeUrl": "ebXbLfLACGM",
             "album": [
                 {
                     "id": 1,
@@ -4100,7 +4100,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/cazzette/AR672X4nn5d5Zg4",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Cazzette?id=Apb347jdwg5spanzkazo7lkhmie",
             "curatedTrack": "Sleepless (feat. The High)",
-            "curatedTrackUrl": "nCB-e2kj1nI",
+            "curatedTrackYouTubeUrl": "nCB-e2kj1nI",
             "album": [
                 {
                     "id": 1,
@@ -4217,7 +4217,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/galantis/ARf6xKmr3wJl6Kq",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Galantis?id=Aijn2lj6jgt3x3yshyqmz567x7u",
             "curatedTrack": "Louder Harder Better",
-            "curatedTrackUrl": "FMUf8K-dkIk",
+            "curatedTrackYouTubeUrl": "FMUf8K-dkIk",
             "album": [
                 {
                     "id": 1,
@@ -4328,7 +4328,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/tritonal/ARZP9xKbrtw572w",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Tritonal?id=Agewj4izchmejxc4m5fb25iqxba",
             "curatedTrack": "Anchor",
-            "curatedTrackUrl": "JkOXrWGjz_M",
+            "curatedTrackYouTubeUrl": "JkOXrWGjz_M",
             "album": [
                 {
                     "id": 1,
@@ -4475,7 +4475,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/syn-cole/ARmJPPgjmXdlkrw",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Akbbqbypq5oup2is4uhinz3btuy",
             "curatedTrack": "Discovery (feat. Victor Crone)",
-            "curatedTrackUrl": "9WueLDczuto",
+            "curatedTrackYouTubeUrl": "9WueLDczuto",
             "album": [
                 {
                     "id": 1,
@@ -4514,7 +4514,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/kungs/AR6VPqbgbdhz3P2",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Kungs?id=Ancstcvc5iqmycyi5vgzx65un7e",
             "curatedTrack": "This Girl (Kungs vs Cookin’ on 3 Burners)",
-            "curatedTrackUrl": "2Y6Nne8RvaA",
+            "curatedTrackYouTubeUrl": "2Y6Nne8RvaA",
             "album": [
                 {
                     "id": 1,
@@ -4619,7 +4619,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/denzal-park/ARqczb6V9Z54z9c",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Afsu7s3rl5nb42qdtuhrug6bvfm",
             "curatedTrack": "Hold On (Denzal Park Remix)",
-            "curatedTrackUrl": "oGwoiN_FJ7g",
+            "curatedTrackYouTubeUrl": "oGwoiN_FJ7g",
             "album": [
                 {
                     "id": 1,
@@ -4658,7 +4658,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/dj-snake/ARbdjzwrxf95fqV",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist/DJ_Snake?id=A63icvatesxasla3nkf5dhz736y",
             "curatedTrack": "When The Lights Go Down",
-            "curatedTrackUrl": "zJQr1v6njNo",
+            "curatedTrackYouTubeUrl": "zJQr1v6njNo",
             "album": [
                 {
                     "id": 1,
@@ -4775,7 +4775,7 @@
             "pandoraUrl": "https://www.pandora.com/artist/taska-black/ARrXgVJnrk3nV3c",
             "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Azjo2gynrgtpwn22tvmxsoiy7ia",
             "curatedTrack": "In Your Eyes (feat. Ayelle)",
-            "curatedTrackUrl": "BI2KUXOFzVQ",
+            "curatedTrackYouTubeUrl": "BI2KUXOFzVQ",
             "album": [
                 {
                     "id": 1,
@@ -4838,7 +4838,7 @@
                 "pandoraUrl": "https://www.pandora.com/artist/conro/ARKqvtg2ndJXcPm",
                 "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Conro?id=Aecylu7coly4qwbn4c7uclas3aq",
                 "curatedTrack": "Something About You (Conro Remix)",
-                "curatedTrackUrl": "9vQ2l34uzVo",
+                "curatedTrackYouTubeUrl": "9vQ2l34uzVo",
                 "album": [
                     {
                         "id": 1,
@@ -4925,7 +4925,7 @@
                 "pandoraUrl": "https://www.pandora.com/artist/diamond-eyes/ARmfVnXhccnX3ng",
                 "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Afq76ke5h7bqlovniyqzyo37wfa",
                 "curatedTrack": "Hold On",
-                "curatedTrackUrl": "-KHmQUWCrYk",
+                "curatedTrackYouTubeUrl": "-KHmQUWCrYk",
                 "album": [
                     {
                         "id": 1,
@@ -4964,7 +4964,7 @@
                 "pandoraUrl": "https://www.pandora.com/artist/zhu/ARlfr2rdmxzXjzP",
                 "googlePlayMusicUrl": "https://play.google.com/store/music/artist/ZHU?id=Agj7rebjxjog6d6dyicjfgiiywa",
                 "curatedTrack": "Cold Blooded",
-                "curatedTrackUrl": "EyjtTwnSfOk",
+                "curatedTrackYouTubeUrl": "EyjtTwnSfOk",
                 "album": [
                     {
                         "id": 1,
@@ -5081,7 +5081,7 @@
                 "pandoraUrl": "https://www.pandora.com/artist/quix/ARhfdtvXp5kvxl2",
                 "googlePlayMusicUrl": "https://play.google.com/store/music/artist?id=Ax6lbk4czypdz37e57sdcrvjr7a",
                 "curatedTrack": "I’ll Give You The World (feat. JVMIE)",
-                "curatedTrackUrl": "1pWj70AnSwo",
+                "curatedTrackYouTubeUrl": "1pWj70AnSwo",
                 "album": [
                     {
                         "id": 1,
@@ -5150,7 +5150,7 @@
                 "pandoraUrl": "https://www.pandora.com/artist/area21/AR7dbrfvd5fJ4mq",
                 "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Area21?id=Aoftdynfm3vydrbhuuqc3ge4bt4",
                 "curatedTrack": "Spaceships",
-                "curatedTrackUrl": "khoylU3YZGM",
+                "curatedTrackYouTubeUrl": "khoylU3YZGM",
                 "album": [
                     {
                         "id": 1,
