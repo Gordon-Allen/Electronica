@@ -6,15 +6,14 @@
         alt="{{ artist.name }}"
     />
     <div class="card-body">
-      <h5 class="card-title" style="font-weight: bold; text-align: center; text-decoration-line: underline;">{{ artist.name }}</h5>
-      <h6 class="card-text" style="font-size: 18px; text-align: center;"><a href="{{ artist.artistWebsiteUrl }}" target="_blank" rel="noopener">Website</a></h6>
+      <h5 class="card-title" style="font-weight: bold; text-align: center; text-decoration-line: underline; font-size: 25px;">{{ artist.name }}</h5>
       <div class="scrollable">
         <h6 class="card-title"><span style="font-weight: 625; text-decoration-line: underline;">Home-Country</span>: <em>{{ artist.homecountry }}</em></h6>
         <h6 class="card-text"><span style="font-weight: 625; text-decoration-line: underline;">Genre</span>: <em>{{ artist.genre }}</em></h6>
       </div>
     </div>
     <div class="card-footer">
-            <button class="btn btn-primary float-right" [routerLink] ="['/artists', artist.id]" style="width: 190px; margin: 0 10% 0% 10%; font-size: 19px; border-radius: 8px;">
+            <button class="btn btn-primary float-right" [routerLink] ="['/artists', artist.id]" style="width: 190px; margin: 1.5% 11.5% 1% 7%; font-size: 19px; border-radius: 8px;">
               Profile
             </button>
     </div>
