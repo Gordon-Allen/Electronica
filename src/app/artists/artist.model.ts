@@ -35,5 +35,5 @@ export interface Track {
   trackId: number;
   trackTitle: string;
   trackLength: string;
-  trackUrl: string;
+  trackYouTubeUrl: string;
 }

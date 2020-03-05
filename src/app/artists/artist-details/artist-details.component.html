@@ -44,7 +44,7 @@
           <th scope="row">{{ track.trackId }}</th>
           <td><em class="album_track_text">{{ track.trackTitle }}</em></td>
           <td class="album_track_text">{{ track.trackLength }}</td>
-          <td><a [routerLink] ="['/artists',artist.id,album.id,track.trackId,track.trackUrl]"><img class="album_track_youtube_icon" src="assets/img/youtube_icon_playtrack.png" alt="Youtube"></a></td>
+          <td><a [routerLink] ="['/artists',artist.id,album.id,track.trackId,track.trackYouTubeUrl]"><img class="album_track_youtube_icon" src="assets/img/youtube_icon_playtrack.png" alt="Youtube"></a></td>
         </tr>
       </tbody>
     </table>
