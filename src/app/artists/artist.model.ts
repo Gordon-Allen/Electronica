@@ -15,7 +15,7 @@ export interface Artist {
   amazonMusicUrl: string;
   pandoraUrl: string;
   googlePlayMusicUrl: string;
-  curatedTrack: string;
+  curatedTrackTitle: string;
   curatedTrackYouTubeUrl: string;
   album: Album[];
 }
