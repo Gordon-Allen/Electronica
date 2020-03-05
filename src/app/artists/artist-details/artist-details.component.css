@@ -75,11 +75,22 @@
 .soundcloud_badge {
     width: 45px;
     height: 45px;
-    margin-right: 5px;
+    margin-right: 1px;
     transition: all 1.5s ease;
 }
 
 .soundcloud_badge:hover {
+    transform: scale(1.11);
+}
+
+.tidal_badge {
+    width: 37.5px;
+    height: 37.5px;
+    margin-right: 5px;
+    transition: all 1.5s ease;
+}
+
+.tidal_badge:hover {
     transform: scale(1.11);
 }
 

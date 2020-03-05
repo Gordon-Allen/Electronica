@@ -11,6 +11,7 @@ export interface Artist {
   appleMusicUrl: string;
   soundcloudUrl: string;
   youtubeUrl: string;
+  tidalUrl: string;
   curatedTrack: string;
   curatedTrackUrl: string;
   album: Album[];
