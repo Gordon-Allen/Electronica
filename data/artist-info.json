@@ -5170,6 +5170,81 @@
                         ]
                     }
                     ]
+                },
+                {
+                "id": 56,
+                "name": "Shallou",
+                "homecountry": "USA",
+                "genre": "Electronica, Melodic Bass",
+                "artistWebsiteUrl": "http://shallou.com/",
+                "twitterUrl": "https://twitter.com/shalloumusic",
+                "facebookUrl": "https://www.facebook.com/shalloumusic/",
+                "instagramUrl": "https://www.instagram.com/shalloumusic/",
+                "spotifyUrl": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk",
+                "appleMusicUrl": "https://itunes.apple.com/us/artist/shallou/940109730",
+                "soundcloudUrl": "https://soundcloud.com/shallou",
+                "youtubeUrl": "https://www.youtube.com/channel/UCkAYL8bMzOvKxzCCkR74mdA",
+                "tidalUrl": "https://tidal.com/browse/artist/6275053",
+                "amazonMusicUrl": "https://music.amazon.com/artists/B00PHJB5KI/shallou",
+                "pandoraUrl": "https://www.pandora.com/artist/shallou/ARtn2q9wl52gVc2",
+                "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Shallou?id=Aklt3xmcee6qyptyqa5qz25a2ei",
+                "curatedTrackTitle": "Forget",
+                "curatedTrackYouTubeUrl": "bAjpxLEnmPw",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "Shallou",
+                        "title": "Souls",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/souls/1344966655",    
+                        "releaseYear": 2018,
+                        "trackCount": 7,
+                        "trackList": [
+                            {   
+                                "trackId": 1,
+                                "trackTitle": "Sigh",
+                                "trackLength": "3:41",
+                                "trackYouTubeUrl": "Z18DVla-tPw" 
+                            },
+                            {   
+                                "trackId": 2,
+                                "trackTitle": "You and Me",
+                                "trackLength": "3:54",
+                                "trackYouTubeUrl": "1trifshoIw0" 
+                            },
+                            {   
+                                "trackId": 3,
+                                "trackTitle": "Find (feat. Kasbo & Cody Lovaas)",
+                                "trackLength": "3:39",
+                                "trackYouTubeUrl": "c3gqG_vbjp8" 
+                            },
+                            {   
+                                "trackId": 4,
+                                "trackTitle": "Vignette",
+                                "trackLength": "3:58",
+                                "trackYouTubeUrl": "wheZ0p65Gbo" 
+                            },
+                            {   
+                                "trackId": 5,
+                                "trackTitle": "...Lost",
+                                "trackLength": "2:49",
+                                "trackYouTubeUrl": "32wBvatTyGs" 
+                            },
+                            {   
+                                "trackId": 6,
+                                "trackTitle": "Lie (feat. Riah)",
+                                "trackLength": "3:35",
+                                "trackYouTubeUrl": "kTthxT9mpOA" 
+                            },
+                            {   
+                                "trackId": 7,
+                                "trackTitle": "Skin",
+                                "trackLength": "4:02",
+                                "trackYouTubeUrl": "duXW2KRyEDo" 
+                            }
+                        ]
+                    }
+                    ]
                 }
             ]
 }
