@@ -5181,7 +5181,7 @@
                 "facebookUrl": "https://www.facebook.com/shalloumusic/",
                 "instagramUrl": "https://www.instagram.com/shalloumusic/",
                 "spotifyUrl": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk",
-                "appleMusicUrl": "https://itunes.apple.com/us/artist/shallou/940109730",
+                "appleMusicUrl": "https://music.apple.com/us/artist/shallou/940109730",
                 "soundcloudUrl": "https://soundcloud.com/shallou",
                 "youtubeUrl": "https://www.youtube.com/channel/UCkAYL8bMzOvKxzCCkR74mdA",
                 "tidalUrl": "https://tidal.com/browse/artist/6275053",
@@ -5241,6 +5241,45 @@
                                 "trackTitle": "Skin",
                                 "trackLength": "4:02",
                                 "trackYouTubeUrl": "duXW2KRyEDo" 
+                            }
+                        ]
+                    }
+                    ]
+                },
+                {
+                "id": 57,
+                "name": "Define Light",
+                "homecountry": "Netherlands",
+                "genre": "Electro House, Electronica",
+                "artistWebsiteUrl": "https://www.beatport.com/artist/define-light/501012",
+                "twitterUrl": "https://twitter.com/definelightnl",
+                "facebookUrl": "https://www.facebook.com/DefineLightNL/",
+                "instagramUrl": "https://www.instagram.com/tastynetwork/",
+                "spotifyUrl": "https://open.spotify.com/artist/1cv1zasjsfwUWfDMqYuRSP",
+                "appleMusicUrl": "https://music.apple.com/us/artist/define-light/1012705651",
+                "soundcloudUrl": "https://soundcloud.com/definelight",
+                "youtubeUrl": "https://www.youtube.com/channel/UCtSenQL714s-M5JaiqqgJfw/feed",
+                "tidalUrl": "https://soundcloud.com/definelight",
+                "amazonMusicUrl": "https://music.amazon.in/artists/B010F1S9KG",
+                "pandoraUrl": "https://www.pandora.com/artist/prefekt/move-me-tonight-single/move-me-tonight-define-light-remix-feat-laladee/TRZlmJncjXdvdgJ",
+                "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Define_Light?id=A43th2slt4jlfamnzpc3mlmusre",
+                "curatedTrackTitle": "Elsewhere (feat. Miles Dominic)",
+                "curatedTrackYouTubeUrl": "_EFtn3u8bLY",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "Define Light",
+                        "title": "Transit (Single)",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/7gmhWN1SlL4e0N90SnpmP3",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/transit-single/1190168186",    
+                        "releaseYear": 2016,
+                        "trackCount": 1,
+                        "trackList": [
+                            {   
+                                "trackId": 1,
+                                "trackTitle": "Transit",
+                                "trackLength": "2:48",
+                                "trackYouTubeUrl": "5nJ8RXu6QrE" 
                             }
                         ]
                     }
