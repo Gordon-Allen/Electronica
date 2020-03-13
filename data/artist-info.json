@@ -5284,6 +5284,75 @@
                         ]
                     }
                     ]
+                },
+                {
+                "id": 58,
+                "name": "Morgin Madison",
+                "homecountry": "USA",
+                "genre": "Deep House, Melodic Bass",
+                "artistWebsiteUrl": "https://www.morginmadison.com/",
+                "twitterUrl": "https://twitter.com/morginmadison",
+                "facebookUrl": "https://www.facebook.com/morginmadison/",
+                "instagramUrl": "https://www.instagram.com/morginmadison/",
+                "spotifyUrl": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej",
+                "appleMusicUrl": "https://music.apple.com/us/artist/morgin-madison/1306320354",
+                "soundcloudUrl": "https://soundcloud.com/morginmadison",
+                "youtubeUrl": "https://www.youtube.com/channel/UCso6FA_8V98PVtOKofge_bw",
+                "tidalUrl": "https://tidal.com/browse/artist/9249034",
+                "amazonMusicUrl": "https://music.amazon.com/artists/B0773T3FS3",
+                "pandoraUrl": "https://www.pandora.com/artist/morgin-madison/ARqrbZPkjPnxzcq",
+                "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Morgin_Madison?id=Ageo4gv3jc52j62myoir42woyju",
+                "curatedTrackTitle": "All In My Head",
+                "curatedTrackYouTubeUrl": "scoTATOitVQ",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "Morgin Madison",
+                        "title": "Destinations",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/6qTwRGhHovyoaMWVEnX98M",
+                        "albumAppleMusicUrl": "https://music.apple.com/us/album/destinations-ep/1442658718",    
+                        "releaseYear": 2018,
+                        "trackCount": 6,
+                        "trackList": [
+                            {   
+                                "trackId": 1,
+                                "trackTitle": "Sensational Love",
+                                "trackLength": "3:23",
+                                "trackYouTubeUrl": "pxIssjSPo_A" 
+                            },
+                            {   
+                                "trackId": 2,
+                                "trackTitle": "Broken Love",
+                                "trackLength": "3:22",
+                                "trackYouTubeUrl": "vQdS1B-hpmo" 
+                            },
+                            {   
+                                "trackId": 3,
+                                "trackTitle": "Eyes",
+                                "trackLength": "3:14",
+                                "trackYouTubeUrl": "4I68OSXqqUg" 
+                            },
+                            {   
+                                "trackId": 4,
+                                "trackTitle": "Drift",
+                                "trackLength": "3:05",
+                                "trackYouTubeUrl": "3hZ_rVptt4s" 
+                            },
+                            {   
+                                "trackId": 5,
+                                "trackTitle": "With You",
+                                "trackLength": "3:28",
+                                "trackYouTubeUrl": "RnAdEnJCj1I" 
+                            },
+                            {   
+                                "trackId": 6,
+                                "trackTitle": "Count on You",
+                                "trackLength": "3:43",
+                                "trackYouTubeUrl": "5J0LwUNYTpo" 
+                            }
+                        ]
+                    }
+                    ]
                 }
             ]
 }
