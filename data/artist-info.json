@@ -5353,6 +5353,45 @@
                         ]
                     }
                     ]
+                },
+                {
+                "id": 59,
+                "name": "Brooks",
+                "homecountry": "Netherlands",
+                "genre": "Melodic Bass, Electro House",
+                "artistWebsiteUrl": "https://musicbybrooks.com/",
+                "twitterUrl": "https://twitter.com/MusicByBrooks",
+                "facebookUrl": "https://www.facebook.com/MusicByBrooks",
+                "instagramUrl": "https://www.instagram.com/musicbybrooks/",
+                "spotifyUrl": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e",
+                "appleMusicUrl": "https://itunes.apple.com/us/artist/brooks/1101797127",
+                "soundcloudUrl": "https://soundcloud.com/musicbybrooks",
+                "youtubeUrl": "https://www.youtube.com/channel/UCDAaatJidv4z_5aE71bV6yg",
+                "tidalUrl": "https://tidal.com/browse/artist/3603421",
+                "amazonMusicUrl": "https://music.amazon.com/artists/B000QJO4E8",
+                "pandoraUrl": "https://www.pandora.com/artist/brooks-dance/ARmn2hlxpj9ljkZ",
+                "googlePlayMusicUrl": "https://play.google.com/store/music/artist/Brooks?id=Aezwljjsml6c6sz3mzxfwdl5wky&hl=en_US",
+                "curatedTrackTitle": "Without You (feat. Julian Jordan)",
+                "curatedTrackYouTubeUrl": "O3HTxHDEI8o",
+                "album": [
+                    {
+                        "id": 1,
+                        "artist": "Brooks",
+                        "title": "Like I Do (Single)",
+                        "albumSpotifyUrl": "https://open.spotify.com/album/5oU1ROIHS6IOWnb87GWhqU",
+                        "albumAppleMusicUrl": "https://music.apple.com/ca/album/like-i-do-single/1346734443",    
+                        "releaseYear": 2018,
+                        "trackCount": 1,
+                        "trackList": [
+                            {   
+                                "trackId": 1,
+                                "trackTitle": "Like I Do (feat. David Guetta & Martin Garrix)",
+                                "trackLength": "3:23",
+                                "trackYouTubeUrl": "WfPu9Jrcpuk" 
+                            }
+                        ]
+                    }
+                    ]
                 }
             ]
 }
